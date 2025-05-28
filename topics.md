@@ -6,27 +6,20 @@
 ## Contents
 
 - [ai](#ai)
-- [android](#android)
 - [awesome](#awesome)
 - [awesome-list](#awesome-list)
 - [bash](#bash)
-- [bitcoin](#bitcoin)
-- [blockchain](#blockchain)
 - [computer-science](#computer-science)
 - [cpp](#cpp)
 - [cryptocurrency](#cryptocurrency)
+- [crystal](#crystal)
 - [csharp](#csharp)
 - [devops](#devops)
-- [django](#django)
 - [docker](#docker)
 - [documentation](#documentation)
-- [dotnet](#dotnet)
 - [emulator](#emulator)
 - [finance](#finance)
 - [git](#git)
-- [go](#go)
-- [golang](#golang)
-- [google](#google)
 - [hacktoberfest](#hacktoberfest)
 - [iot](#iot)
 - [javascript](#javascript)
@@ -41,47 +34,26 @@
 - [others](#others)
 - [python](#python)
 - [raspberry-pi](#raspberry-pi)
-- [reactjs](#reactjs)
 - [rust](#rust)
-- [security](#security)
-- [security-tools](#security-tools)
-- [self-hosted](#self-hosted)
 - [stable-diffusion](#stable-diffusion)
 - [terminal](#terminal)
-- [terraform](#terraform)
 - [windows](#windows)
 
 ## ai 
 
 - [mcmonkeyprojects/SwarmUI](https://github.com/mcmonkeyprojects/SwarmUI) - SwarmUI (formerly StableSwarmUI), A Modular Stable Diffusion Web-User-Interface, with an emphasis on making powertools easily accessible, high performance, and extensibility.
 
-## android 
-
-- [parallelcc/MiCTS](https://github.com/parallelcc/MiCTS) - Trigger Circle to Search on any Android 9–15 device
-
 ## awesome 
 
-- [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
-- [ivbeg/awesome-status-pages](https://github.com/ivbeg/awesome-status-pages) - Awesome list of status page open source software, services and public status pages of major internet companies
 - [ratatui/awesome-ratatui](https://github.com/ratatui/awesome-ratatui) - A curated list of TUI apps and libraries built with Ratatui
 
 ## awesome-list 
 
-- [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
-- [ivbeg/awesome-status-pages](https://github.com/ivbeg/awesome-status-pages) - Awesome list of status page open source software, services and public status pages of major internet companies
 - [ratatui/awesome-ratatui](https://github.com/ratatui/awesome-ratatui) - A curated list of TUI apps and libraries built with Ratatui
 
 ## bash 
 
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
-
-## bitcoin 
-
-- [bitcoinbook/bitcoinbook](https://github.com/bitcoinbook/bitcoinbook) - Mastering Bitcoin 3rd Edition - Programming the Open Blockchain
-
-## blockchain 
-
-- [bitcoinbook/bitcoinbook](https://github.com/bitcoinbook/bitcoinbook) - Mastering Bitcoin 3rd Edition - Programming the Open Blockchain
 
 ## computer-science 
 
@@ -95,35 +67,29 @@
 
 - [dr-mod/zero-btc-screen](https://github.com/dr-mod/zero-btc-screen) - Crypto stock price for RPi Zero
 
+## crystal 
+
+- [vitobotta/hetzner-k3s](https://github.com/vitobotta/hetzner-k3s) - The easiest and fastest way to create and manage Kubernetes clusters in Hetzner Cloud using the lightweight distribution k3s by Rancher.
+
 ## csharp 
 
 - [mcmonkeyprojects/SwarmUI](https://github.com/mcmonkeyprojects/SwarmUI) - SwarmUI (formerly StableSwarmUI), A Modular Stable Diffusion Web-User-Interface, with an emphasis on making powertools easily accessible, high performance, and extensibility.
-- [RupertAvery/PSXPackager](https://github.com/RupertAvery/PSXPackager) - A utility to convert Playstation disc images in various formats to PBP format and back
 
 ## devops 
 
+- [vitobotta/hetzner-k3s](https://github.com/vitobotta/hetzner-k3s) - The easiest and fastest way to create and manage Kubernetes clusters in Hetzner Cloud using the lightweight distribution k3s by Rancher.
 - [goodrain/rainbond](https://github.com/goodrain/rainbond) - No need to know Kubernetes' cloud native application management platform
-
-## django 
-
-- [suitenumerique/docs](https://github.com/suitenumerique/docs) - A collaborative note taking, wiki and documentation platform that scales. Built with Django and React. Opensource alternative to Notion or Outline.
 
 ## docker 
 
-- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
-- [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
+- [vitobotta/hetzner-k3s](https://github.com/vitobotta/hetzner-k3s) - The easiest and fastest way to create and manage Kubernetes clusters in Hetzner Cloud using the lightweight distribution k3s by Rancher.
 - [gimlet-io/onechart](https://github.com/gimlet-io/onechart) - A generic Helm chart for your application deployments
 - [jpetazzo/container.training](https://github.com/jpetazzo/container.training) - Slides and code samples for training, tutorials, and workshops about Docker, containers, and Kubernetes.
 - [qdm12/cod4-docker](https://github.com/qdm12/cod4-docker) - Runs a Call of duty 4 Modern Warfare (cod4x) dedicated server in a Docker container.
 
 ## documentation 
 
-- [suitenumerique/docs](https://github.com/suitenumerique/docs) - A collaborative note taking, wiki and documentation platform that scales. Built with Django and React. Opensource alternative to Notion or Outline.
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
-
-## dotnet 
-
-- [RupertAvery/PSXPackager](https://github.com/RupertAvery/PSXPackager) - A utility to convert Playstation disc images in various formats to PBP format and back
 
 ## emulator 
 
@@ -136,24 +102,9 @@
 ## git 
 
 - [tummychow/git-absorb](https://github.com/tummychow/git-absorb) - git commit --fixup, but automatic
-- [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
-
-## go 
-
-- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
-
-## golang 
-
-- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
-- [pixie-io/pixie](https://github.com/pixie-io/pixie) - Instant Kubernetes-Native Application Observability
-
-## google 
-
-- [parallelcc/MiCTS](https://github.com/parallelcc/MiCTS) - Trigger Circle to Search on any Android 9–15 device
 
 ## hacktoberfest 
 
-- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [gimlet-io/onechart](https://github.com/gimlet-io/onechart) - A generic Helm chart for your application deployments
 - [collabnix/kubetools](https://github.com/collabnix/kubetools) - Kubetools - Curated List of Kubernetes Tools
 - [reacherhq/check-if-email-exists](https://github.com/reacherhq/check-if-email-exists) - Check if an email address exists without sending any email, written in Rust. Comes with a ⚙️ HTTP backend.
@@ -171,14 +122,11 @@
 
 ## kubernetes 
 
-- [kube-hetzner/terraform-hcloud-kube-hetzner](https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner) - Optimized and Maintenance-free Kubernetes on Hetzner Cloud in one command!
+- [vitobotta/hetzner-k3s](https://github.com/vitobotta/hetzner-k3s) - The easiest and fastest way to create and manage Kubernetes clusters in Hetzner Cloud using the lightweight distribution k3s by Rancher.
 - [MediaMarktSaturn/helm-charts](https://github.com/MediaMarktSaturn/helm-charts) - Helm charts maintained and used by the MMS Technology team.
 - [goodrain/rainbond](https://github.com/goodrain/rainbond) - No need to know Kubernetes' cloud native application management platform
-- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [dag-andersen/argocd-diff-preview](https://github.com/dag-andersen/argocd-diff-preview) - Tool for rendering manifest changes on pull requests.
 - [crumbhole/argocd-lovely-plugin](https://github.com/crumbhole/argocd-lovely-plugin) - A plugin to make Argo CD behave like we'd like.
-- [ahmetb/kubernetes-network-policy-recipes](https://github.com/ahmetb/kubernetes-network-policy-recipes) - Example recipes for Kubernetes Network Policies that you can just copy paste
-- [pixie-io/pixie](https://github.com/pixie-io/pixie) - Instant Kubernetes-Native Application Observability
 - [jkulzer/kubefetch](https://github.com/jkulzer/kubefetch) - neofetch-like tool to show info about you Kubernetes Cluster
 - [gimlet-io/onechart](https://github.com/gimlet-io/onechart) - A generic Helm chart for your application deployments
 - [bmuschko/cka-crash-course](https://github.com/bmuschko/cka-crash-course) - In-depth and hands-on practice for acing the exam.
@@ -194,7 +142,6 @@
 ## machine-learning 
 
 - [mcmonkeyprojects/SwarmUI](https://github.com/mcmonkeyprojects/SwarmUI) - SwarmUI (formerly StableSwarmUI), A Modular Stable Diffusion Web-User-Interface, with an emphasis on making powertools easily accessible, high performance, and extensibility.
-- [pixie-io/pixie](https://github.com/pixie-io/pixie) - Instant Kubernetes-Native Application Observability
 
 ## macos 
 
@@ -206,9 +153,6 @@
 
 ## monitoring 
 
-- [ivbeg/awesome-status-pages](https://github.com/ivbeg/awesome-status-pages) - Awesome list of status page open source software, services and public status pages of major internet companies
-- [aceberg/WatchYourLAN](https://github.com/aceberg/WatchYourLAN) - Lightweight network IP scanner. Can be used to notify about new hosts and monitor host online/offline history
-- [pixie-io/pixie](https://github.com/pixie-io/pixie) - Instant Kubernetes-Native Application Observability
 - [collabnix/kubetools](https://github.com/collabnix/kubetools) - Kubetools - Curated List of Kubernetes Tools
 
 ## node 
@@ -222,18 +166,13 @@
 ## others 
 
 - [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary
-- [Vexa-ai/vexa](https://github.com/Vexa-ai/vexa) - Self-hosted, multi-user API that drops bots into Google Meet for real-time transcripts.
 - [jaredallard/ingress-anubis](https://github.com/jaredallard/ingress-anubis) - Ingress anubis controller (chaining ingress-nginx)
 - [nixys/nxs-universal-chart](https://github.com/nixys/nxs-universal-chart) - The Helm chart you can use to install any of your applications into Kubernetes/OpenShift
 - [ThirdEyeSqueegee/Ro](https://github.com/ThirdEyeSqueegee/Ro) - 
-- [kubernetes-monitoring/kubernetes-mixin](https://github.com/kubernetes-monitoring/kubernetes-mixin) - A set of Grafana dashboards and Prometheus alerts for Kubernetes.
 - [robertdavidgraham/masscan](https://github.com/robertdavidgraham/masscan) - TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes.
 - [cdozdil/OptiScaler](https://github.com/cdozdil/OptiScaler) - OptiScaler bridges upscaling/frame gen across GPUs. Supports DLSS2+/XeSS/FSR2+ inputs, replaces native upscalers, enables FSR3 FG on non-FG titles. Supports Nukem mod for DLSSG-to-FSR3 FG.
 - [m4ym4y/museum-of-all-things](https://github.com/m4ym4y/museum-of-all-things) - a nearly infinite 3d museum, dynamically generated from wikipedia
-- [isItObservable/Loki-Ngninx-Logql](https://github.com/isItObservable/Loki-Ngninx-Logql) - 
-- [hudra0/qosmate](https://github.com/hudra0/qosmate) - 
 - [klaudworks/kubeconfig-operator](https://github.com/klaudworks/kubeconfig-operator) - Operator to generate (restricted) kubeconfigs for Kubernetes.
-- [Storm21CH/ArgonNX-SE](https://github.com/Storm21CH/ArgonNX-SE) - 🚀 GUI payload chainloader for Nintendo Swtich.
 - [Udinic/FAT32-Sorter](https://github.com/Udinic/FAT32-Sorter) - 
 - [makhowastaken/GWGBC_FW](https://github.com/makhowastaken/GWGBC_FW) - Firmware repository for the Funnyplaying FPGA GBC
 - [BlueSkyDefender/Depth3D](https://github.com/BlueSkyDefender/Depth3D) - Depth Based 3D & Other post-process shaders
@@ -252,9 +191,6 @@
 - [sc0ty/subsync](https://github.com/sc0ty/subsync) - Subtitle Speech Synchronizer
 - [vinayak-mehta/present](https://github.com/vinayak-mehta/present) - A terminal-based presentation tool with colors and effects.
 - [asb2m10/dexed](https://github.com/asb2m10/dexed) - DX7 FM multi plaform/multi format plugin
-- [phoe-nix/TempGBA4PSP-mod](https://github.com/phoe-nix/TempGBA4PSP-mod) - 
-- [esmjanus/snes9xTYL](https://github.com/esmjanus/snes9xTYL) - Snes9xTYL
-- [ErikPshat/PSP-HUD](https://github.com/ErikPshat/PSP-HUD) - This is a plugin for PSP that displays some basic info on screen
 
 ## python 
 
@@ -267,27 +203,9 @@
 - [dr-mod/zero-btc-screen](https://github.com/dr-mod/zero-btc-screen) - Crypto stock price for RPi Zero
 - [hiulit/RetroPie-Convert-Videos](https://github.com/hiulit/RetroPie-Convert-Videos) - A tool for RetroPie to convert videos.
 
-## reactjs 
-
-- [suitenumerique/docs](https://github.com/suitenumerique/docs) - A collaborative note taking, wiki and documentation platform that scales. Built with Django and React. Opensource alternative to Notion or Outline.
-
 ## rust 
 
 - [ratatui/awesome-ratatui](https://github.com/ratatui/awesome-ratatui) - A curated list of TUI apps and libraries built with Ratatui
-
-## security 
-
-- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
-- [ahmetb/kubernetes-network-policy-recipes](https://github.com/ahmetb/kubernetes-network-policy-recipes) - Example recipes for Kubernetes Network Policies that you can just copy paste
-
-## security-tools 
-
-- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
-
-## self-hosted 
-
-- [suitenumerique/docs](https://github.com/suitenumerique/docs) - A collaborative note taking, wiki and documentation platform that scales. Built with Django and React. Opensource alternative to Notion or Outline.
-- [aceberg/WatchYourLAN](https://github.com/aceberg/WatchYourLAN) - Lightweight network IP scanner. Can be used to notify about new hosts and monitor host online/offline history
 
 ## stable-diffusion 
 
@@ -297,15 +215,9 @@
 
 - [butlerx/wetty](https://github.com/butlerx/wetty) - Terminal in browser over http/https. (Ajaxterm/Anyterm alternative, but much better)
 
-## terraform 
-
-- [kube-hetzner/terraform-hcloud-kube-hetzner](https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner) - Optimized and Maintenance-free Kubernetes on Hetzner Cloud in one command!
-
 ## windows 
 
-- [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
 - [Fuwn/xp](https://github.com/Fuwn/xp) - 💻 Windows XP All Editions Universal Product Keys Collection
-- [AveYo/MediaCreationTool.bat](https://github.com/AveYo/MediaCreationTool.bat) - Universal MCT wrapper script for all Windows 10/11 versions from 1507 to 21H2!
 - [jeffpar/pcjs](https://github.com/jeffpar/pcjs) - The original IBM PC and other machine emulations in JavaScript
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 

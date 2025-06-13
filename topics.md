@@ -26,6 +26,7 @@
 - [html](#html)
 - [iot](#iot)
 - [javascript](#javascript)
+- [jenkins](#jenkins)
 - [kubernetes](#kubernetes)
 - [linux](#linux)
 - [machine-learning](#machine-learning)
@@ -153,6 +154,10 @@
 - [mcmonkeyprojects/SwarmUI](https://github.com/mcmonkeyprojects/SwarmUI) - SwarmUI (formerly StableSwarmUI), A Modular Stable Diffusion Web-User-Interface, with an emphasis on making powertools easily accessible, high performance, and extensibility.
 - [jeffpar/pcjs](https://github.com/jeffpar/pcjs) - The original IBM PC and other machine emulations in JavaScript
 
+## jenkins 
+
+- [collabnix/kubetools](https://github.com/collabnix/kubetools) - Kubetools - Curated List of Kubernetes Tools
+
 ## kubernetes 
 
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) - Automatically provision and manage TLS certificates in Kubernetes
@@ -218,6 +223,7 @@
 
 ## others 
 
+- [Musk8teers/container.training-spring-music](https://github.com/Musk8teers/container.training-spring-music) - A sample application for using database services on Cloud Foundry with Spring Framework.
 - [ios12checker/Windows-Maintenance-Tool](https://github.com/ios12checker/Windows-Maintenance-Tool) - 
 - [pvdlg/conventional-changelog-metahub](https://github.com/pvdlg/conventional-changelog-metahub) - conventional-changelog preset
 - [mihaip/infinite-mac](https://github.com/mihaip/infinite-mac) - A classic Mac loaded with everything you'd want

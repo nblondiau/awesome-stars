@@ -25,6 +25,7 @@
 - [Rust](#rust)
 - [Shell](#shell)
 - [Smarty](#smarty)
+- [Starlark](#starlark)
 - [TypeScript](#typescript)
 
 ## Batchfile 
@@ -158,6 +159,10 @@
 
 - [MediaMarktSaturn/helm-charts](https://github.com/MediaMarktSaturn/helm-charts) - Helm charts maintained and used by the MMS Technology team.
 - [nixys/nxs-universal-chart](https://github.com/nixys/nxs-universal-chart) - The Helm chart you can use to install any of your applications into Kubernetes/OpenShift
+
+## Starlark 
+
+- [stakater/application](https://github.com/stakater/application) - Generic helm chart for all kind of applications
 
 ## TypeScript 
 

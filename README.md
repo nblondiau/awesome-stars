@@ -28,6 +28,7 @@
 - [hacktoberfest](#hacktoberfest)
 - [html](#html)
 - [iot](#iot)
+- [java](#java)
 - [javascript](#javascript)
 - [jenkins](#jenkins)
 - [kubernetes](#kubernetes)
@@ -120,6 +121,7 @@
 
 ## dotnet 
 
+- [stakater/application](https://github.com/stakater/application) - Generic helm chart for all kind of applications
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System - Server Backend & API
 
 ## emulator 
@@ -149,6 +151,7 @@
 
 ## hacktoberfest 
 
+- [stakater/application](https://github.com/stakater/application) - Generic helm chart for all kind of applications
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
 - [alexellis/arkade](https://github.com/alexellis/arkade) - Open Source Marketplace For Developer Tools
 - [hedgedoc/hedgedoc](https://github.com/hedgedoc/hedgedoc) - HedgeDoc - Ideas grow better together
@@ -172,6 +175,10 @@
 
 - [collabnix/kubetools](https://github.com/collabnix/kubetools) - Kubetools - Curated List of Kubernetes Tools
 
+## java 
+
+- [stakater/application](https://github.com/stakater/application) - Generic helm chart for all kind of applications
+
 ## javascript 
 
 - [nodesource/distributions](https://github.com/nodesource/distributions) - NodeSource Node.js Binary Distributions
@@ -184,6 +191,7 @@
 
 ## kubernetes 
 
+- [stakater/application](https://github.com/stakater/application) - Generic helm chart for all kind of applications
 - [fluxcd/flux2](https://github.com/fluxcd/flux2) - Open and extensible continuous delivery solution for Kubernetes. Powered by GitOps Toolkit.
 - [alexellis/arkade](https://github.com/alexellis/arkade) - Open Source Marketplace For Developer Tools
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) - Automatically provision and manage TLS certificates in Kubernetes
@@ -247,6 +255,7 @@
 
 ## node 
 
+- [stakater/application](https://github.com/stakater/application) - Generic helm chart for all kind of applications
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 - [nodesource/distributions](https://github.com/nodesource/distributions) - NodeSource Node.js Binary Distributions
 

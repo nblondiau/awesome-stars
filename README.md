@@ -5,17 +5,24 @@
 
 ## Contents
 
+- [ai](#ai)
+- [automation](#automation)
 - [awesome](#awesome)
+- [awesome-list](#awesome-list)
 - [bash](#bash)
 - [cli](#cli)
 - [cpp](#cpp)
+- [crystal](#crystal)
 - [csharp](#csharp)
+- [devops](#devops)
 - [docker](#docker)
 - [documentation](#documentation)
 - [dotnet](#dotnet)
 - [emulator](#emulator)
 - [git](#git)
+- [github](#github)
 - [go](#go)
+- [golang](#golang)
 - [hacktoberfest](#hacktoberfest)
 - [html](#html)
 - [java](#java)
@@ -26,18 +33,33 @@
 - [macos](#macos)
 - [markdown](#markdown)
 - [monitoring](#monitoring)
+- [nextjs](#nextjs)
 - [nodejs](#nodejs)
 - [npm](#npm)
 - [others](#others)
+- [powershell](#powershell)
 - [python](#python)
 - [raspberry-pi](#raspberry-pi)
 - [react](#react)
 - [rust](#rust)
+- [self-hosted](#self-hosted)
 - [terminal](#terminal)
 - [windows](#windows)
 - [xml](#xml)
 
+## ai 
+
+- [mcmonkeyprojects/SwarmUI](https://github.com/mcmonkeyprojects/SwarmUI) - SwarmUI (formerly StableSwarmUI), A Modular Stable Diffusion Web-User-Interface, with an emphasis on making powertools easily accessible, high performance, and extensibility.
+
+## automation 
+
+- [alexellis/arkade](https://github.com/alexellis/arkade) - Open Source Marketplace For Developer Tools
+
 ## awesome 
+
+- [ratatui/awesome-ratatui](https://github.com/ratatui/awesome-ratatui) - A curated list of TUI apps and libraries built with Ratatui
+
+## awesome-list 
 
 - [ratatui/awesome-ratatui](https://github.com/ratatui/awesome-ratatui) - A curated list of TUI apps and libraries built with Ratatui
 
@@ -55,10 +77,22 @@
 
 - [leaningtech/webvm](https://github.com/leaningtech/webvm) - Virtual Machine for the Web
 
+## crystal 
+
+- [vitobotta/hetzner-k3s](https://github.com/vitobotta/hetzner-k3s) - The easiest and fastest way to create and manage Kubernetes clusters in Hetzner Cloud using the lightweight distribution k3s by Rancher.
+
 ## csharp 
 
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System - Server Backend & API
 - [mcmonkeyprojects/SwarmUI](https://github.com/mcmonkeyprojects/SwarmUI) - SwarmUI (formerly StableSwarmUI), A Modular Stable Diffusion Web-User-Interface, with an emphasis on making powertools easily accessible, high performance, and extensibility.
+
+## devops 
+
+- [alexellis/arkade](https://github.com/alexellis/arkade) - Open Source Marketplace For Developer Tools
+- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative Continuous Deployment for Kubernetes
+- [kubernetes-sigs/headlamp](https://github.com/kubernetes-sigs/headlamp) - A Kubernetes web UI that is fully-featured, user-friendly and extensible
+- [vitobotta/hetzner-k3s](https://github.com/vitobotta/hetzner-k3s) - The easiest and fastest way to create and manage Kubernetes clusters in Hetzner Cloud using the lightweight distribution k3s by Rancher.
+- [goodrain/rainbond](https://github.com/goodrain/rainbond) - A container platform that needs no Kubernetes learning, Build, deploy, assemble, and manage apps on Kubernetes, no K8s expertise needed, all in a graphical platform.
 
 ## docker 
 
@@ -87,7 +121,15 @@
 
 - [tummychow/git-absorb](https://github.com/tummychow/git-absorb) - git commit --fixup, but automatic
 
+## github 
+
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+
 ## go 
+
+- [zyedidia/eget](https://github.com/zyedidia/eget) - Easily install prebuilt binaries from GitHub.
+
+## golang 
 
 - [zyedidia/eget](https://github.com/zyedidia/eget) - Easily install prebuilt binaries from GitHub.
 
@@ -175,6 +217,10 @@
 - [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - The best and simplest free open source web page change detection, website watcher,  restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monito
 - [collabnix/kubetools](https://github.com/collabnix/kubetools) - Kubetools - Curated List of Kubernetes Tools
 
+## nextjs 
+
+- [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
+
 ## nodejs 
 
 - [nodesource/distributions](https://github.com/nodesource/distributions) - NodeSource Node.js Binary Distributions
@@ -218,6 +264,10 @@
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [asb2m10/dexed](https://github.com/asb2m10/dexed) - DX7 FM multi plaform/multi format plugin
 
+## powershell 
+
+- [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
+
 ## python 
 
 - [mcmonkeyprojects/SwarmUI](https://github.com/mcmonkeyprojects/SwarmUI) - SwarmUI (formerly StableSwarmUI), A Modular Stable Diffusion Web-User-Interface, with an emphasis on making powertools easily accessible, high performance, and extensibility.
@@ -235,6 +285,11 @@
 ## rust 
 
 - [ratatui/awesome-ratatui](https://github.com/ratatui/awesome-ratatui) - A curated list of TUI apps and libraries built with Ratatui
+
+## self-hosted 
+
+- [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
+- [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - The best and simplest free open source web page change detection, website watcher,  restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monito
 
 ## terminal 
 

@@ -16,17 +16,20 @@
 - [HTML](#html)
 - [JSON](#json)
 - [JavaScript](#javascript)
+- [Kotlin](#kotlin)
 - [Lua](#lua)
 - [Mustache](#mustache)
 - [Others](#others)
 - [PHP](#php)
 - [PowerShell](#powershell)
 - [Python](#python)
+- [Ruby](#ruby)
 - [Rust](#rust)
 - [Shell](#shell)
 - [Smarty](#smarty)
 - [Starlark](#starlark)
 - [TypeScript](#typescript)
+- [YAML](#yaml)
 
 ## Batchfile 
 
@@ -40,13 +43,14 @@
 
 ## C# # 
 
+- [dremin/RetroBar](https://github.com/dremin/RetroBar) - Classic Windows 95, 98, Me, 2000, XP, Vista taskbar for modern versions of Windows
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System - Server Backend & API
 - [mcmonkeyprojects/SwarmUI](https://github.com/mcmonkeyprojects/SwarmUI) - SwarmUI (formerly StableSwarmUI), A Modular Stable Diffusion Web-User-Interface, with an emphasis on making powertools easily accessible, high performance, and extensibility.
 - [mattpannella/pupdate](https://github.com/mattpannella/pupdate) - Pupdate - A thing for updating your Analogue Pocket
 
 ## C++ 
 
-- [cdozdil/OptiScaler](https://github.com/cdozdil/OptiScaler) - OptiScaler bridges upscaling/frame gen across GPUs. Supports DLSS2+/XeSS/FSR2+ inputs, replaces native upscalers, enables FSR3 FG on non-FG titles. Supports Nukem mod for DLSSG-to-FSR3 FG.
+- [optiscaler/OptiScaler](https://github.com/optiscaler/OptiScaler) - OptiScaler bridges upscaling/frame gen across GPUs. Supports DLSS2+/XeSS/FSR2+ inputs, replaces native upscalers, enables FSR3 FG on non-FG titles. Supports Nukem mod for DLSSG-to-FSR3 FG.
 - [Udinic/FAT32-Sorter](https://github.com/Udinic/FAT32-Sorter) - 
 - [vs-shirokii/gzdoom-rt](https://github.com/vs-shirokii/gzdoom-rt) - 
 - [lukaspieper/android_device_lenovo_tb_x704f](https://github.com/lukaspieper/android_device_lenovo_tb_x704f) - LOS 18.1 for Lenovo Tab4 10 Plus (TB-X704F)
@@ -63,6 +67,7 @@
 
 ## Go 
 
+- [backube/volsync](https://github.com/backube/volsync) - Asynchronous data replication for Kubernetes volumes
 - [kro-run/kro](https://github.com/kro-run/kro) - kro | Kube Resource Orchestrator
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
 - [zyedidia/eget](https://github.com/zyedidia/eget) - Easily install prebuilt binaries from GitHub.
@@ -102,6 +107,7 @@
 
 ## JavaScript 
 
+- [benc-uk/kubeview](https://github.com/benc-uk/kubeview) - KubeView is a Kubernetes cluster visualization tool that provides a graphical representation of your cluster's resources and their relationships
 - [koodo-reader/koodo-reader](https://github.com/koodo-reader/koodo-reader) - A modern ebook manager and reader with sync and backup capacities for Windows, macOS, Linux, Android, iOS and Web
 - [pvdlg/conventional-changelog-metahub](https://github.com/pvdlg/conventional-changelog-metahub) - conventional-changelog preset
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
@@ -109,6 +115,10 @@
 - [leaningtech/webvm](https://github.com/leaningtech/webvm) - Virtual Machine for the Web
 - [jeffpar/pcjs](https://github.com/jeffpar/pcjs) - The original IBM PC and other machine emulations in JavaScript
 - [dconnolly/chromecast-backgrounds](https://github.com/dconnolly/chromecast-backgrounds) - Archive of all Chromecast background images.
+
+## Kotlin 
+
+- [parallelcc/MiCTS](https://github.com/parallelcc/MiCTS) - Trigger Circle to Search on any Android 9–15 device
 
 ## Lua 
 
@@ -141,6 +151,10 @@
 - [Charlie-Hill/ePaper-Stock-Ticker](https://github.com/Charlie-Hill/ePaper-Stock-Ticker) - Raspberry PI desktop stock ticker with a Waveshare e-Paper display. Made with Python.
 - [mth75/retropie-demomode](https://github.com/mth75/retropie-demomode) - The demo mode starts and switches to a new random game after a minute unless controller or keyboard input is detected. The demo mode is a great way to discover new games in large collections. This ver
 - [vinayak-mehta/present](https://github.com/vinayak-mehta/present) - A terminal-based presentation tool with colors and effects.
+
+## Ruby 
+
+- [discourse/discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
 
 ## Rust 
 
@@ -176,6 +190,10 @@
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [butlerx/wetty](https://github.com/butlerx/wetty) - Terminal in browser over http/https. (Ajaxterm/Anyterm alternative, but much better)
+
+## YAML 
+
+- [onedr0p/home-ops](https://github.com/onedr0p/home-ops) - Wife approved HomeOps driven by Kubernetes and GitOps using Flux
 
 
 ## License

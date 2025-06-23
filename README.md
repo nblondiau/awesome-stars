@@ -11,6 +11,7 @@
 - [awesome](#awesome)
 - [awesome-list](#awesome-list)
 - [bash](#bash)
+- [chrome](#chrome)
 - [cli](#cli)
 - [cpp](#cpp)
 - [crystal](#crystal)
@@ -39,10 +40,12 @@
 - [nextjs](#nextjs)
 - [nodejs](#nodejs)
 - [npm](#npm)
+- [open-source](#open-source)
 - [others](#others)
 - [postgresql](#postgresql)
 - [powershell](#powershell)
 - [python](#python)
+- [python3](#python3)
 - [rails](#rails)
 - [raspberry-pi](#raspberry-pi)
 - [react](#react)
@@ -51,6 +54,7 @@
 - [self-hosted](#self-hosted)
 - [serverless](#serverless)
 - [terminal](#terminal)
+- [webpack](#webpack)
 - [windows](#windows)
 - [xml](#xml)
 
@@ -68,15 +72,21 @@
 
 ## awesome 
 
+- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [ratatui/awesome-ratatui](https://github.com/ratatui/awesome-ratatui) - A curated list of TUI apps and libraries built with Ratatui
 
 ## awesome-list 
 
+- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [ratatui/awesome-ratatui](https://github.com/ratatui/awesome-ratatui) - A curated list of TUI apps and libraries built with Ratatui
 
 ## bash 
 
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
+
+## chrome 
+
+- [dgtlmoon/sockpuppetbrowser](https://github.com/dgtlmoon/sockpuppetbrowser) - A scalable server for providing Chrome interfaces where needed
 
 ## cli 
 
@@ -250,11 +260,16 @@
 
 ## nodejs 
 
+- [dgtlmoon/sockpuppetbrowser](https://github.com/dgtlmoon/sockpuppetbrowser) - A scalable server for providing Chrome interfaces where needed
 - [nodesource/distributions](https://github.com/nodesource/distributions) - NodeSource Node.js Binary Distributions
 
 ## npm 
 
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+
+## open-source 
+
+- [docusealco/docuseal](https://github.com/docusealco/docuseal) - Open source DocuSign alternative. Create, fill, and sign digital documents ✍️
 
 ## others 
 
@@ -306,6 +321,10 @@
 - [mcmonkeyprojects/SwarmUI](https://github.com/mcmonkeyprojects/SwarmUI) - SwarmUI (formerly StableSwarmUI), A Modular Stable Diffusion Web-User-Interface, with an emphasis on making powertools easily accessible, high performance, and extensibility.
 - [Charlie-Hill/ePaper-Stock-Ticker](https://github.com/Charlie-Hill/ePaper-Stock-Ticker) - Raspberry PI desktop stock ticker with a Waveshare e-Paper display. Made with Python.
 
+## python3 
+
+- [dgtlmoon/sockpuppetbrowser](https://github.com/dgtlmoon/sockpuppetbrowser) - A scalable server for providing Chrome interfaces where needed
+
 ## rails 
 
 - [discourse/discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
@@ -329,6 +348,8 @@
 
 ## self-hosted 
 
+- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
+- [docusealco/docuseal](https://github.com/docusealco/docuseal) - Open source DocuSign alternative. Create, fill, and sign digital documents ✍️
 - [nelsontky/gh-pages-url-shortener](https://github.com/nelsontky/gh-pages-url-shortener) - Minimal URL shortener that can be entirely hosted on GitHub pages.
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 - [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - The best and simplest free open source web page change detection, website watcher,  restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monito
@@ -341,6 +362,10 @@
 
 - [tsl0922/ttyd](https://github.com/tsl0922/ttyd) - Share your terminal over the web
 - [butlerx/wetty](https://github.com/butlerx/wetty) - Terminal in browser over http/https. (Ajaxterm/Anyterm alternative, but much better)
+
+## webpack 
+
+- [docusealco/docuseal](https://github.com/docusealco/docuseal) - Open source DocuSign alternative. Create, fill, and sign digital documents ✍️
 
 ## windows 
 

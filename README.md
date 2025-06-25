@@ -41,7 +41,6 @@
 - [nextjs](#nextjs)
 - [nodejs](#nodejs)
 - [npm](#npm)
-- [open-source](#open-source)
 - [others](#others)
 - [p2p](#p2p)
 - [postgresql](#postgresql)
@@ -57,7 +56,6 @@
 - [self-hosted](#self-hosted)
 - [serverless](#serverless)
 - [terminal](#terminal)
-- [webpack](#webpack)
 - [windows](#windows)
 - [xml](#xml)
 
@@ -205,6 +203,7 @@
 
 ## kubernetes 
 
+- [philippemerle/KubeDiagrams](https://github.com/philippemerle/KubeDiagrams) - Generate Kubernetes architecture diagrams from Kubernetes manifest files, kustomization files, Helm charts, helmfiles, and actual cluster state
 - [hashicorp/vault-secrets-operator](https://github.com/hashicorp/vault-secrets-operator) - The Vault Secrets Operator (VSO) allows Pods to consume Vault secrets natively from Kubernetes Secrets.
 - [same7ammar/kube-composer](https://github.com/same7ammar/kube-composer) - Open Source Kubernetes Config Generator and Resources visualization
 - [benc-uk/kubeview](https://github.com/benc-uk/kubeview) - KubeView is a Kubernetes cluster visualization tool that provides a graphical representation of your cluster's resources and their relationships
@@ -275,10 +274,6 @@
 
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 
-## open-source 
-
-- [docusealco/docuseal](https://github.com/docusealco/docuseal) - Open source DocuSign alternative. Create, fill, and sign digital documents ✍️
-
 ## others 
 
 - [webtui/webtui](https://github.com/webtui/webtui) - 
@@ -335,6 +330,7 @@
 
 ## python 
 
+- [philippemerle/KubeDiagrams](https://github.com/philippemerle/KubeDiagrams) - Generate Kubernetes architecture diagrams from Kubernetes manifest files, kustomization files, Helm charts, helmfiles, and actual cluster state
 - [mcmonkeyprojects/SwarmUI](https://github.com/mcmonkeyprojects/SwarmUI) - SwarmUI (formerly StableSwarmUI), A Modular Stable Diffusion Web-User-Interface, with an emphasis on making powertools easily accessible, high performance, and extensibility.
 - [Charlie-Hill/ePaper-Stock-Ticker](https://github.com/Charlie-Hill/ePaper-Stock-Ticker) - Raspberry PI desktop stock ticker with a Waveshare e-Paper display. Made with Python.
 
@@ -368,7 +364,6 @@
 
 - [miroslavpejic85/mirotalksfu](https://github.com/miroslavpejic85/mirotalksfu) - 🏆 WebRTC - SFU - Simple, Secure, Scalable Real-Time Video Conferences Up to 8k, compatible with all browsers and platforms.
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
-- [docusealco/docuseal](https://github.com/docusealco/docuseal) - Open source DocuSign alternative. Create, fill, and sign digital documents ✍️
 - [nelsontky/gh-pages-url-shortener](https://github.com/nelsontky/gh-pages-url-shortener) - Minimal URL shortener that can be entirely hosted on GitHub pages.
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 - [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - The best and simplest free open source web page change detection, website watcher,  restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monito
@@ -382,10 +377,6 @@
 - [microsoft/edit](https://github.com/microsoft/edit) - We all edit.
 - [tsl0922/ttyd](https://github.com/tsl0922/ttyd) - Share your terminal over the web
 - [butlerx/wetty](https://github.com/butlerx/wetty) - Terminal in browser over http/https. (Ajaxterm/Anyterm alternative, but much better)
-
-## webpack 
-
-- [docusealco/docuseal](https://github.com/docusealco/docuseal) - Open source DocuSign alternative. Create, fill, and sign digital documents ✍️
 
 ## windows 
 

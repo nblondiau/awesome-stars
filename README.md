@@ -290,6 +290,7 @@
 
 ## others 
 
+- [nagadomi/nunif](https://github.com/nagadomi/nunif) - Misc; latest version of waifu2x;  2D video to stereo 3D video conversion
 - [webtui/webtui](https://github.com/webtui/webtui) - 
 - [dremin/RetroBar](https://github.com/dremin/RetroBar) - Classic Windows 95, 98, Me, 2000, XP, Vista taskbar for modern versions of Windows
 - [kro-run/kro](https://github.com/kro-run/kro) - kro | Kube Resource Orchestrator

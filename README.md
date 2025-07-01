@@ -36,6 +36,7 @@
 - [javascript](#javascript)
 - [kubernetes](#kubernetes)
 - [linux](#linux)
+- [llm](#llm)
 - [machine-learning](#machine-learning)
 - [macos](#macos)
 - [markdown](#markdown)
@@ -252,6 +253,10 @@
 - [nodesource/distributions](https://github.com/nodesource/distributions) - NodeSource Node.js Binary Distributions
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 
+## llm 
+
+- [OpenGenerativeAI/llm-colosseum](https://github.com/OpenGenerativeAI/llm-colosseum) - Benchmark LLMs by fighting in Street Fighter 3! The new way to evaluate the quality of an LLM
+
 ## machine-learning 
 
 - [mcmonkeyprojects/SwarmUI](https://github.com/mcmonkeyprojects/SwarmUI) - SwarmUI (formerly StableSwarmUI), A Modular Stable Diffusion Web-User-Interface, with an emphasis on making powertools easily accessible, high performance, and extensibility.
@@ -292,6 +297,7 @@
 
 ## others 
 
+- [ramensoftware/windhawk](https://github.com/ramensoftware/windhawk) - The customization marketplace for Windows programs: https://windhawk.net/
 - [nagadomi/nunif](https://github.com/nagadomi/nunif) - Misc; latest version of waifu2x;  2D video to stereo 3D video conversion
 - [webtui/webtui](https://github.com/webtui/webtui) - 
 - [dremin/RetroBar](https://github.com/dremin/RetroBar) - Classic Windows 95, 98, Me, 2000, XP, Vista taskbar for modern versions of Windows

@@ -17,6 +17,7 @@
 - [HTML](#html)
 - [JSON](#json)
 - [JavaScript](#javascript)
+- [Jupyter Notebook](#jupyter-notebook)
 - [Kotlin](#kotlin)
 - [Lua](#lua)
 - [Mustache](#mustache)
@@ -55,6 +56,7 @@
 
 ## C++ 
 
+- [ramensoftware/windhawk](https://github.com/ramensoftware/windhawk) - The customization marketplace for Windows programs: https://windhawk.net/
 - [optiscaler/OptiScaler](https://github.com/optiscaler/OptiScaler) - OptiScaler bridges upscaling/frame gen across GPUs. Supports DLSS2+/XeSS/FSR2+ inputs, replaces native upscalers, enables FSR3 FG on non-FG titles. Supports Nukem mod for DLSSG-to-FSR3 FG.
 - [Udinic/FAT32-Sorter](https://github.com/Udinic/FAT32-Sorter) - 
 - [vs-shirokii/gzdoom-rt](https://github.com/vs-shirokii/gzdoom-rt) - 
@@ -125,6 +127,10 @@
 - [leaningtech/webvm](https://github.com/leaningtech/webvm) - Virtual Machine for the Web
 - [jeffpar/pcjs](https://github.com/jeffpar/pcjs) - The original IBM PC and other machine emulations in JavaScript
 - [dconnolly/chromecast-backgrounds](https://github.com/dconnolly/chromecast-backgrounds) - Archive of all Chromecast background images.
+
+## Jupyter Notebook 
+
+- [OpenGenerativeAI/llm-colosseum](https://github.com/OpenGenerativeAI/llm-colosseum) - Benchmark LLMs by fighting in Street Fighter 3! The new way to evaluate the quality of an LLM
 
 ## Kotlin 
 

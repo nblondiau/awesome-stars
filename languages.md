@@ -188,6 +188,7 @@
 
 ## Shell 
 
+- [gardengim/keepwsl](https://github.com/gardengim/keepwsl) - A simple service to keep WSL alive
 - [nodesource/distributions](https://github.com/nodesource/distributions) - NodeSource Node.js Binary Distributions
 - [bmuschko/cka-crash-course](https://github.com/bmuschko/cka-crash-course) - In-depth and hands-on practice for acing the exam.
 - [jpetazzo/shpod](https://github.com/jpetazzo/shpod) - Container image to get a consistent training environment to work on Kubernetes.

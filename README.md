@@ -15,6 +15,7 @@
 - [chatgpt](#chatgpt)
 - [chrome](#chrome)
 - [cli](#cli)
+- [clojure](#clojure)
 - [coding](#coding)
 - [cpp](#cpp)
 - [crystal](#crystal)
@@ -62,6 +63,7 @@
 - [self-hosted](#self-hosted)
 - [serverless](#serverless)
 - [terminal](#terminal)
+- [typescript](#typescript)
 - [ubuntu](#ubuntu)
 - [vim](#vim)
 - [windows](#windows)
@@ -69,6 +71,7 @@
 
 ## ai 
 
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [mcmonkeyprojects/SwarmUI](https://github.com/mcmonkeyprojects/SwarmUI) - SwarmUI (formerly StableSwarmUI), A Modular Stable Diffusion Web-User-Interface, with an emphasis on making powertools easily accessible, high performance, and extensibility.
 
 ## android 
@@ -77,6 +80,7 @@
 
 ## automation 
 
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [alexellis/arkade](https://github.com/alexellis/arkade) - Open Source Marketplace For Developer Tools
 
 ## awesome 
@@ -107,9 +111,14 @@
 
 ## cli 
 
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [marp-team/marp-cli](https://github.com/marp-team/marp-cli) - A CLI interface for Marp and Marpit based converters
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
 - [alexellis/arkade](https://github.com/alexellis/arkade) - Open Source Marketplace For Developer Tools
+
+## clojure 
+
+- [penpot/penpot](https://github.com/penpot/penpot) - Penpot: The open-source design tool for design and code collaboration
 
 ## coding 
 
@@ -310,6 +319,8 @@
 
 ## others 
 
+- [KDE/krita](https://github.com/KDE/krita) - Krita is a free and open source cross-platform application that offers an end-to-end solution for creating digital art files from scratch built on the KDE and Qt frameworks.
+- [ctrox/zeropod](https://github.com/ctrox/zeropod) - pod that scales down to zero
 - [github/copilot.vim](https://github.com/github/copilot.vim) - Neovim plugin for GitHub Copilot
 - [truefoundry/elasti](https://github.com/truefoundry/elasti) - 
 - [pleasuredome/pleasuredome](https://github.com/pleasuredome/pleasuredome) - retro arcade
@@ -413,6 +424,7 @@
 
 ## self-hosted 
 
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
 - [miroslavpejic85/mirotalksfu](https://github.com/miroslavpejic85/mirotalksfu) - 🏆 WebRTC - SFU - Simple, Secure, Scalable Real-Time Video Conferences Up to 8k, compatible with all browsers and platforms.
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
@@ -429,6 +441,10 @@
 - [microsoft/edit](https://github.com/microsoft/edit) - We all edit.
 - [tsl0922/ttyd](https://github.com/tsl0922/ttyd) - Share your terminal over the web
 - [butlerx/wetty](https://github.com/butlerx/wetty) - Terminal in browser over http/https. (Ajaxterm/Anyterm alternative, but much better)
+
+## typescript 
+
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 
 ## ubuntu 
 

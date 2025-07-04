@@ -62,6 +62,7 @@
 - [self-hosted](#self-hosted)
 - [serverless](#serverless)
 - [terminal](#terminal)
+- [ubuntu](#ubuntu)
 - [vim](#vim)
 - [windows](#windows)
 - [xml](#xml)
@@ -428,6 +429,10 @@
 - [microsoft/edit](https://github.com/microsoft/edit) - We all edit.
 - [tsl0922/ttyd](https://github.com/tsl0922/ttyd) - Share your terminal over the web
 - [butlerx/wetty](https://github.com/butlerx/wetty) - Terminal in browser over http/https. (Ajaxterm/Anyterm alternative, but much better)
+
+## ubuntu 
+
+- [Anduin2017/AnduinOS](https://github.com/Anduin2017/AnduinOS) - AnduinOS is a custom Ubuntu-based Linux distribution that aims to facilitate developers transitioning from Windows to Linux by maintaining familiar operational habits and workflows.
 
 ## vim 
 

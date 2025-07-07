@@ -20,6 +20,7 @@
 - [cpp](#cpp)
 - [crystal](#crystal)
 - [csharp](#csharp)
+- [cybersecurity](#cybersecurity)
 - [devops](#devops)
 - [docker](#docker)
 - [documentation](#documentation)
@@ -60,6 +61,7 @@
 - [react-native](#react-native)
 - [ruby](#ruby)
 - [rust](#rust)
+- [security](#security)
 - [self-hosted](#self-hosted)
 - [serverless](#serverless)
 - [terminal](#terminal)
@@ -136,6 +138,10 @@
 
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System - Server Backend & API
 - [mcmonkeyprojects/SwarmUI](https://github.com/mcmonkeyprojects/SwarmUI) - SwarmUI (formerly StableSwarmUI), A Modular Stable Diffusion Web-User-Interface, with an emphasis on making powertools easily accessible, high performance, and extensibility.
+
+## cybersecurity 
+
+- [wazuh/wazuh](https://github.com/wazuh/wazuh) - Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.
 
 ## devops 
 
@@ -424,6 +430,10 @@
 
 - [microsoft/edit](https://github.com/microsoft/edit) - We all edit.
 - [ratatui/awesome-ratatui](https://github.com/ratatui/awesome-ratatui) - A curated list of TUI apps and libraries built with Ratatui
+
+## security 
+
+- [wazuh/wazuh](https://github.com/wazuh/wazuh) - Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.
 
 ## self-hosted 
 

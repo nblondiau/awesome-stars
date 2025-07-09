@@ -91,8 +91,10 @@
 
 ## Go 
 
+- [kubernetes-sigs/krew](https://github.com/kubernetes-sigs/krew) - 📦 Find and install kubectl plugins
+- [stern/stern](https://github.com/stern/stern) - ⎈ Multi pod and container log tailing for Kubernetes -- Friendly fork of https://github.com/wercker/stern
 - [ctrox/zeropod](https://github.com/ctrox/zeropod) - pod that scales down to zero
-- [truefoundry/elasti](https://github.com/truefoundry/elasti) - 
+- [truefoundry/KubeElasti](https://github.com/truefoundry/KubeElasti) - 
 - [hashicorp/vault-secrets-operator](https://github.com/hashicorp/vault-secrets-operator) - The Vault Secrets Operator (VSO) allows Pods to consume Vault secrets natively from Kubernetes Secrets.
 - [backube/volsync](https://github.com/backube/volsync) - Asynchronous data replication for Kubernetes volumes
 - [kro-run/kro](https://github.com/kro-run/kro) - kro | Kube Resource Orchestrator

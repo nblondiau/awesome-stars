@@ -198,6 +198,7 @@
 
 ## Others 
 
+- [photopea/photopea](https://github.com/photopea/photopea) - Photopea is online image editor
 - [Mindbaz/awesome-opensource-email](https://github.com/Mindbaz/awesome-opensource-email) - Awesome Opensource Email Resources
 - [S0und/S0undTV](https://github.com/S0und/S0undTV) - An alternative app to watch the Twitch streaming service for Android TV devices
 - [pleasuredome/pleasuredome](https://github.com/pleasuredome/pleasuredome) - retro arcade

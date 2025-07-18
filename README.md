@@ -396,6 +396,7 @@
 
 ## others 
 
+- [photopea/photopea](https://github.com/photopea/photopea) - Photopea is online image editor
 - [elsesiy/kubectl-view-secret](https://github.com/elsesiy/kubectl-view-secret) - Kubernetes CLI plugin to decode Kubernetes secrets
 - [davidB/kubectl-view-allocations](https://github.com/davidB/kubectl-view-allocations) - kubectl plugin to list allocations (cpu, memory, gpu,... X utilization, requested, limit, allocatable,...)
 - [argoproj-labs/argocd-autopilot](https://github.com/argoproj-labs/argocd-autopilot) - Argo-CD Autopilot

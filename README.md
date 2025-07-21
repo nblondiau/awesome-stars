@@ -40,6 +40,7 @@
 - [html](#html)
 - [java](#java)
 - [javascript](#javascript)
+- [json](#json)
 - [kotlin](#kotlin)
 - [kubernetes](#kubernetes)
 - [linux](#linux)
@@ -287,6 +288,10 @@
 - [nodesource/distributions](https://github.com/nodesource/distributions) - NodeSource Node.js Binary Distributions
 - [mcmonkeyprojects/SwarmUI](https://github.com/mcmonkeyprojects/SwarmUI) - SwarmUI (formerly StableSwarmUI), A Modular Stable Diffusion Web-User-Interface, with an emphasis on making powertools easily accessible, high performance, and extensibility.
 - [jeffpar/pcjs](https://github.com/jeffpar/pcjs) - The original IBM PC and other machine emulations in JavaScript
+
+## json 
+
+- [OpenNX/opennx.github.io](https://github.com/OpenNX/opennx.github.io) - Tinfoil Switch Shop forwarder with .json file link to active and working tinfoil shops for Nintendo Switch.
 
 ## kotlin 
 

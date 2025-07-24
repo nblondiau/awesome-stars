@@ -16,7 +16,6 @@
 - [chatgpt](#chatgpt)
 - [chrome](#chrome)
 - [cli](#cli)
-- [clojure](#clojure)
 - [coding](#coding)
 - [computer-science](#computer-science)
 - [cpp](#cpp)
@@ -24,14 +23,13 @@
 - [csharp](#csharp)
 - [cybersecurity](#cybersecurity)
 - [deep-learning](#deep-learning)
-- [design](#design)
 - [development](#development)
 - [devops](#devops)
 - [docker](#docker)
 - [documentation](#documentation)
+- [dotfiles](#dotfiles)
 - [dotnet](#dotnet)
 - [electron](#electron)
-- [ember](#ember)
 - [emulator](#emulator)
 - [finance](#finance)
 - [firefox](#firefox)
@@ -72,7 +70,6 @@
 - [others](#others)
 - [p2p](#p2p)
 - [package-manager](#package-manager)
-- [postgresql](#postgresql)
 - [powershell](#powershell)
 - [privacy](#privacy)
 - [productivity](#productivity)
@@ -81,11 +78,9 @@
 - [python](#python)
 - [python3](#python3)
 - [pytorch](#pytorch)
-- [rails](#rails)
 - [raspberry-pi](#raspberry-pi)
 - [react](#react)
 - [react-native](#react-native)
-- [ruby](#ruby)
 - [rust](#rust)
 - [security](#security)
 - [security-tools](#security-tools)
@@ -97,7 +92,6 @@
 - [terminal](#terminal)
 - [typescript](#typescript)
 - [ubuntu](#ubuntu)
-- [ui](#ui)
 - [vim](#vim)
 - [vuejs](#vuejs)
 - [windows](#windows)
@@ -156,16 +150,14 @@
 
 ## cli 
 
+- [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - Oh my tmux! My self-contained, pretty & versatile tmux configuration made with 💛🩷💙🖤❤️🤍
+- [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [marticliment/UniGetUI](https://github.com/marticliment/UniGetUI) - UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [marp-team/marp-cli](https://github.com/marp-team/marp-cli) - A CLI interface for Marp and Marpit based converters
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
 - [alexellis/arkade](https://github.com/alexellis/arkade) - Open Source Marketplace For Developer Tools
-
-## clojure 
-
-- [penpot/penpot](https://github.com/penpot/penpot) - Penpot: The open-source design tool for design and code collaboration
 
 ## coding 
 
@@ -197,10 +189,6 @@
 
 - [isl-org/ZoeDepth](https://github.com/isl-org/ZoeDepth) - Metric depth estimation from a single image
 
-## design 
-
-- [penpot/penpot](https://github.com/penpot/penpot) - Penpot: The open-source design tool for design and code collaboration
-
 ## development 
 
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
@@ -220,6 +208,7 @@
 
 ## docker 
 
+- [rook/rook](https://github.com/rook/rook) - Storage Orchestration for Kubernetes
 - [sailor-sh/CK-X](https://github.com/sailor-sh/CK-X) - A realistic exam simulator for CKAD, CKA, and CKS featuring timed sessions and hands-on labs with pre-configured clusters.
 - [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine) - Self-hosted game stream host for Moonlight.
 - [madiele/vod2pod-rss](https://github.com/madiele/vod2pod-rss) - Vod2Pod-RSS converts a YouTube or Twitch channel into a podcast with ease. It creates a podcast RSS that can be listened to directly inside any podcast client. VODs are transcoded to MP3 on the fly an
@@ -234,6 +223,10 @@
 
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 
+## dotfiles 
+
+- [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - Oh my tmux! My self-contained, pretty & versatile tmux configuration made with 💛🩷💙🖤❤️🤍
+
 ## dotnet 
 
 - [stakater/application](https://github.com/stakater/application) - Generic helm chart for all kind of applications
@@ -242,10 +235,6 @@
 ## electron 
 
 - [4gray/iptvnator](https://github.com/4gray/iptvnator) - :tv: Cross-platform IPTV player application with multiple features, such as support of m3u and m3u8 playlists, favorites, TV guide, TV archive/catchup and more.
-
-## ember 
-
-- [discourse/discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
 
 ## emulator 
 
@@ -271,6 +260,7 @@
 
 ## git 
 
+- [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [tummychow/git-absorb](https://github.com/tummychow/git-absorb) - git commit --fixup, but automatic
 
 ## github 
@@ -305,6 +295,7 @@
 
 ## hacktoberfest 
 
+- [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
 - [applejag/kubectl-klock](https://github.com/applejag/kubectl-klock) - A kubectl plugin to render watch output in a more readable fashion
@@ -337,14 +328,12 @@
 
 ## java 
 
-- [apache/directory-studio](https://github.com/apache/directory-studio) - Apache Directory Studio
 - [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) - Browse media content with your own rules on Android TV
 - [stakater/application](https://github.com/stakater/application) - Generic helm chart for all kind of applications
 
 ## javascript 
 
 - [sachin-source/top-github-repositories-which-everyone-should-look](https://github.com/sachin-source/top-github-repositories-which-everyone-should-look) - This repository contains a list of important and useful github repos which a developer, coder, a student should never miss to look at.
-- [discourse/discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
 - [nodesource/distributions](https://github.com/nodesource/distributions) - NodeSource Node.js Binary Distributions
 - [mcmonkeyprojects/SwarmUI](https://github.com/mcmonkeyprojects/SwarmUI) - SwarmUI (formerly StableSwarmUI), A Modular Stable Diffusion Web-User-Interface, with an emphasis on making powertools easily accessible, high performance, and extensibility.
 - [jeffpar/pcjs](https://github.com/jeffpar/pcjs) - The original IBM PC and other machine emulations in JavaScript
@@ -363,6 +352,8 @@
 
 ## kubernetes 
 
+- [rook/rook](https://github.com/rook/rook) - Storage Orchestration for Kubernetes
+- [actions/actions-runner-controller](https://github.com/actions/actions-runner-controller) - Kubernetes controller for GitHub Actions self-hosted runners
 - [sailor-sh/CK-X](https://github.com/sailor-sh/CK-X) - A realistic exam simulator for CKAD, CKA, and CKS featuring timed sessions and hands-on labs with pre-configured clusters.
 - [MacroPower/kat](https://github.com/MacroPower/kat) - TUI and rule-based rendering engine for Kubernetes manifests
 - [etopeter/kubectl-view-utilization](https://github.com/etopeter/kubectl-view-utilization) - kubectl plugin to show cluster CPU and Memory requests utilization
@@ -385,7 +376,6 @@
 - [same7ammar/kube-composer](https://github.com/same7ammar/kube-composer) - Open-Source Kubernetes YAML Builder with Intuitive Web Interface and Dynamic Visualization for Developers and DevOps Engineers
 - [benc-uk/kubeview](https://github.com/benc-uk/kubeview) - KubeView is a Kubernetes cluster visualization tool that provides a graphical representation of your cluster's resources and their relationships
 - [backube/volsync](https://github.com/backube/volsync) - Asynchronous data replication for Kubernetes volumes
-- [onedr0p/home-ops](https://github.com/onedr0p/home-ops) - Wife approved HomeOps driven by Kubernetes and GitOps using Flux
 - [bjw-s-labs/helm-charts](https://github.com/bjw-s-labs/helm-charts) - A collection of Helm charts
 - [stakater/application](https://github.com/stakater/application) - Generic helm chart for all kind of applications
 - [alexellis/arkade](https://github.com/alexellis/arkade) - Open Source Marketplace For Developer Tools
@@ -458,6 +448,7 @@
 
 ## neovim 
 
+- [nvim-treesitter/nvim-treesitter-context](https://github.com/nvim-treesitter/nvim-treesitter-context) - Show code context
 - [lukas-reineke/indent-blankline.nvim](https://github.com/lukas-reineke/indent-blankline.nvim) - Indent guides  for Neovim
 - [psliwka/vim-smoothie](https://github.com/psliwka/vim-smoothie) - Smooth scrolling for Vim done right🥤
 - [samirettali/shebang.nvim](https://github.com/samirettali/shebang.nvim) - A Neovim plugin that inserts a shebang line when editing a new file.
@@ -500,6 +491,7 @@
 
 ## others 
 
+- [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared) - Cloudflare Tunnel client (formerly Argo Tunnel)
 - [vpinball/vpinball](https://github.com/vpinball/vpinball) - Visual Pinball
 - [eliboa/TegraRcmGUI](https://github.com/eliboa/TegraRcmGUI) - C++ GUI for TegraRcmSmash (Fusée Gelée exploit for Nintendo Switch)
 - [SideQuestVR/SideQuest](https://github.com/SideQuestVR/SideQuest) - The SideQuest desktop application
@@ -569,10 +561,6 @@
 
 - [marticliment/UniGetUI](https://github.com/marticliment/UniGetUI) - UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
 
-## postgresql 
-
-- [discourse/discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
-
 ## powershell 
 
 - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
@@ -611,12 +599,9 @@
 
 - [n00mkrad/flowframes](https://github.com/n00mkrad/flowframes) - Flowframes Windows GUI for video interpolation using DAIN (NCNN) or RIFE (CUDA/NCNN)
 
-## rails 
-
-- [discourse/discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
-
 ## raspberry-pi 
 
+- [RetroPie/RetroPie-Setup](https://github.com/RetroPie/RetroPie-Setup) - Shell script to set up a Raspberry Pi/Odroid/PC with RetroArch emulator and various cores
 - [madiele/vod2pod-rss](https://github.com/madiele/vod2pod-rss) - Vod2Pod-RSS converts a YouTube or Twitch channel into a podcast with ease. It creates a podcast RSS that can be listened to directly inside any podcast client. VODs are transcoded to MP3 on the fly an
 - [Charlie-Hill/ePaper-Stock-Ticker](https://github.com/Charlie-Hill/ePaper-Stock-Ticker) - Raspberry PI desktop stock ticker with a Waveshare e-Paper display. Made with Python.
 - [hiulit/RetroPie-Convert-Videos](https://github.com/hiulit/RetroPie-Convert-Videos) - A tool for RetroPie to convert videos.
@@ -629,12 +614,9 @@
 
 - [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
 
-## ruby 
-
-- [discourse/discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
-
 ## rust 
 
+- [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [microsoft/edit](https://github.com/microsoft/edit) - We all edit.
 - [ratatui/awesome-ratatui](https://github.com/ratatui/awesome-ratatui) - A curated list of TUI apps and libraries built with Ratatui
 
@@ -665,6 +647,7 @@
 
 ## shell 
 
+- [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - Oh my tmux! My self-contained, pretty & versatile tmux configuration made with 💛🩷💙🖤❤️🤍
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 
 ## software 
@@ -677,6 +660,8 @@
 
 ## terminal 
 
+- [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - Oh my tmux! My self-contained, pretty & versatile tmux configuration made with 💛🩷💙🖤❤️🤍
+- [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
 - [microsoft/edit](https://github.com/microsoft/edit) - We all edit.
@@ -691,12 +676,9 @@
 
 - [Anduin2017/AnduinOS](https://github.com/Anduin2017/AnduinOS) - AnduinOS is a custom Ubuntu-based Linux distribution that aims to facilitate developers transitioning from Windows to Linux by maintaining familiar operational habits and workflows.
 
-## ui 
-
-- [penpot/penpot](https://github.com/penpot/penpot) - Penpot: The open-source design tool for design and code collaboration
-
 ## vim 
 
+- [nvim-treesitter/nvim-treesitter-context](https://github.com/nvim-treesitter/nvim-treesitter-context) - Show code context
 - [lukas-reineke/indent-blankline.nvim](https://github.com/lukas-reineke/indent-blankline.nvim) - Indent guides  for Neovim
 - [psliwka/vim-smoothie](https://github.com/psliwka/vim-smoothie) - Smooth scrolling for Vim done right🥤
 - [mhinz/vim-startify](https://github.com/mhinz/vim-startify) - :link: The fancy start screen for Vim.

@@ -245,6 +245,7 @@
 
 ## Rust 
 
+- [tattoy-org/tattoy](https://github.com/tattoy-org/tattoy) - A text-based compositor for modern terminals
 - [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder 📹
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [davidB/kubectl-view-allocations](https://github.com/davidB/kubectl-view-allocations) - kubectl plugin to list allocations (cpu, memory, gpu,... X utilization, requested, limit, allocatable,...)
@@ -289,6 +290,7 @@
 
 ## TypeScript 
 
+- [Viren070/AIOStreams](https://github.com/Viren070/AIOStreams) - One addon to rule them all. AIOStreams consolidates multiple Stremio addons and debrid services into a single, highly customisable super-addon.
 - [SideQuestVR/SideQuest](https://github.com/SideQuestVR/SideQuest) - The SideQuest desktop application
 - [4gray/iptvnator](https://github.com/4gray/iptvnator) - :tv: Cross-platform IPTV player application with multiple features, such as support of m3u and m3u8 playlists, favorites, TV guide, TV archive/catchup and more.
 - [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world

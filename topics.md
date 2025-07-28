@@ -23,6 +23,7 @@
 - [csharp](#csharp)
 - [cybersecurity](#cybersecurity)
 - [deep-learning](#deep-learning)
+- [developer-tools](#developer-tools)
 - [development](#development)
 - [devops](#devops)
 - [docker](#docker)
@@ -191,6 +192,10 @@
 ## deep-learning 
 
 - [isl-org/ZoeDepth](https://github.com/isl-org/ZoeDepth) - Metric depth estimation from a single image
+
+## developer-tools 
+
+- [sachin-source/top-github-repositories-which-everyone-should-look](https://github.com/sachin-source/top-github-repositories-which-everyone-should-look) - This repository contains a list of important and useful github repos which a developer, coder, a student should never miss to look at.
 
 ## development 
 

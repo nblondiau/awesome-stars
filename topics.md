@@ -22,6 +22,7 @@
 - [crystal](#crystal)
 - [csharp](#csharp)
 - [cybersecurity](#cybersecurity)
+- [data-visualization](#data-visualization)
 - [deep-learning](#deep-learning)
 - [developer-tools](#developer-tools)
 - [development](#development)
@@ -91,6 +92,7 @@
 - [shell](#shell)
 - [software](#software)
 - [stable-diffusion](#stable-diffusion)
+- [tailwind](#tailwind)
 - [terminal](#terminal)
 - [typescript](#typescript)
 - [ubuntu](#ubuntu)
@@ -188,6 +190,10 @@
 ## cybersecurity 
 
 - [wazuh/wazuh](https://github.com/wazuh/wazuh) - Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.
+
+## data-visualization 
+
+- [gnovotny/nothing-to-watch](https://github.com/gnovotny/nothing-to-watch) - An experimental webgl gallery that can visualize tens of thousands of film posters as a voronoi diagram
 
 ## deep-learning 
 
@@ -624,6 +630,7 @@
 
 ## react 
 
+- [gnovotny/nothing-to-watch](https://github.com/gnovotny/nothing-to-watch) - An experimental webgl gallery that can visualize tens of thousands of film posters as a voronoi diagram
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 
 ## react-native 
@@ -640,6 +647,7 @@
 
 ## security 
 
+- [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis) - Weighs the soul of incoming HTTP requests to stop AI crawlers
 - [kubescape/kubescape](https://github.com/kubescape/kubescape) - Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters. It includes risk analysis, security, compliance, and misconfiguration scanning, saving Kubernetes 
 - [wazuh/wazuh](https://github.com/wazuh/wazuh) - Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.
 
@@ -676,6 +684,10 @@
 ## stable-diffusion 
 
 - [mcmonkeyprojects/SwarmUI](https://github.com/mcmonkeyprojects/SwarmUI) - SwarmUI (formerly StableSwarmUI), A Modular Stable Diffusion Web-User-Interface, with an emphasis on making powertools easily accessible, high performance, and extensibility.
+
+## tailwind 
+
+- [gnovotny/nothing-to-watch](https://github.com/gnovotny/nothing-to-watch) - An experimental webgl gallery that can visualize tens of thousands of film posters as a voronoi diagram
 
 ## terminal 
 

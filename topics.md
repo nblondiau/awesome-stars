@@ -512,6 +512,7 @@
 
 ## others 
 
+- [Flugan/Geo3D](https://github.com/Flugan/Geo3D) - 
 - [Viren070/AIOStreams](https://github.com/Viren070/AIOStreams) - One addon to rule them all. AIOStreams consolidates multiple Stremio addons and debrid services into a single, highly customisable super-addon.
 - [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared) - Cloudflare Tunnel client (formerly Argo Tunnel)
 - [vpinball/vpinball](https://github.com/vpinball/vpinball) - Visual Pinball
@@ -721,6 +722,7 @@
 
 ## windows 
 
+- [ShivamXD6/Optimize-Windows](https://github.com/ShivamXD6/Optimize-Windows) - This repository contains an Answer File and Scripts designed to optimize and streamline your Windows installation, making it perfect for gaming, power users, and even low-end laptops or PCs. 🎮💻
 - [notepad-plus-plus/notepad-plus-plus](https://github.com/notepad-plus-plus/notepad-plus-plus) - Notepad++ official repository
 - [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
 - [marticliment/UniGetUI](https://github.com/marticliment/UniGetUI) - UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers

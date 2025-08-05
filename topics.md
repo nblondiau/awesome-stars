@@ -7,6 +7,7 @@
 
 - [ai](#ai)
 - [android](#android)
+- [angular](#angular)
 - [automation](#automation)
 - [awesome](#awesome)
 - [awesome-list](#awesome-list)
@@ -36,6 +37,7 @@
 - [emulator](#emulator)
 - [finance](#finance)
 - [firefox](#firefox)
+- [flask](#flask)
 - [flutter](#flutter)
 - [flutter-apps](#flutter-apps)
 - [framework](#framework)
@@ -79,6 +81,7 @@
 - [p2p](#p2p)
 - [package-manager](#package-manager)
 - [pixel-art](#pixel-art)
+- [postgresql](#postgresql)
 - [powershell](#powershell)
 - [privacy](#privacy)
 - [productivity](#productivity)
@@ -121,6 +124,10 @@
 - [ReVanced/revanced-manager](https://github.com/ReVanced/revanced-manager) - 💊 Application to use ReVanced on Android
 - [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) - Browse media content with your own rules on Android TV
 - [parallelcc/MiCTS](https://github.com/parallelcc/MiCTS) - Trigger Circle to Search on any Android 9–15 device
+
+## angular 
+
+- [PnX-SI/GeoNature](https://github.com/PnX-SI/GeoNature) - Application de saisie et de synthèse des observations faune et flore
 
 ## automation 
 
@@ -241,6 +248,7 @@
 
 ## docker 
 
+- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [games-on-whales/wolf](https://github.com/games-on-whales/wolf) - Stream virtual desktops and games running in Docker
 - [sailor-sh/CK-X](https://github.com/sailor-sh/CK-X) - A realistic exam simulator for CKAD, CKA, and CKS featuring timed sessions and hands-on labs with pre-configured clusters.
 - [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine) - Self-hosted game stream host for Moonlight.
@@ -284,6 +292,10 @@
 
 - [Floorp-Projects/Floorp](https://github.com/Floorp-Projects/Floorp) - All of source code of version 10 or later of Floorp Browser, the most Advanced and Fastest Firefox derivative 🦊
 
+## flask 
+
+- [PnX-SI/GeoNature](https://github.com/PnX-SI/GeoNature) - Application de saisie et de synthèse des observations faune et flore
+
 ## flutter 
 
 - [ReVanced/revanced-manager](https://github.com/ReVanced/revanced-manager) - 💊 Application to use ReVanced on Android
@@ -324,6 +336,7 @@
 
 ## go 
 
+- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [derailed/popeye](https://github.com/derailed/popeye) - 👀 A Kubernetes cluster resource sanitizer
 - [yonahd/kor](https://github.com/yonahd/kor) - A Golang Tool to discover unused Kubernetes Resources
 - [applejag/kubectl-klock](https://github.com/applejag/kubectl-klock) - A kubectl plugin to render watch output in a more readable fashion
@@ -331,6 +344,7 @@
 
 ## golang 
 
+- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [rajatjindal/kubectl-whoami](https://github.com/rajatjindal/kubectl-whoami) - This plugin gets the subject name using the effective kubeconfig
 - [derailed/popeye](https://github.com/derailed/popeye) - 👀 A Kubernetes cluster resource sanitizer
 - [int128/kubelogin](https://github.com/int128/kubelogin) - kubectl plugin for Kubernetes OpenID Connect authentication (kubectl oidc-login)
@@ -349,6 +363,7 @@
 
 ## hacktoberfest 
 
+- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [j0k3r/banditore](https://github.com/j0k3r/banditore) - Banditore retrieves new releases from your starred GitHub repositories and generate an Atom feed with them.
 - [trueforge-org/truecharts](https://github.com/trueforge-org/truecharts) - Community Helm Chart Repository
 - [CopilotC-Nvim/CopilotChat.nvim](https://github.com/CopilotC-Nvim/CopilotChat.nvim) - Chat with GitHub Copilot in Neovim
@@ -391,6 +406,7 @@
 
 ## javascript 
 
+- [PnX-SI/GeoNature](https://github.com/PnX-SI/GeoNature) - Application de saisie et de synthèse des observations faune et flore
 - [commitizen/cz-cli](https://github.com/commitizen/cz-cli) - The commitizen command line utility. #BlackLivesMatter
 - [sachin-source/top-github-repositories-which-everyone-should-look](https://github.com/sachin-source/top-github-repositories-which-everyone-should-look) - This repository contains a list of important and useful github repos which a developer, coder, a student should never miss to look at.
 - [nodesource/distributions](https://github.com/nodesource/distributions) - NodeSource Node.js Binary Distributions
@@ -411,6 +427,8 @@
 
 ## kubernetes 
 
+- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
+- [inspektor-gadget/inspektor-gadget](https://github.com/inspektor-gadget/inspektor-gadget) - Inspektor Gadget is a set of tools and framework for data collection and system inspection on Kubernetes clusters and Linux hosts using eBPF
 - [datreeio/CRDs-catalog](https://github.com/datreeio/CRDs-catalog) - Popular Kubernetes CRDs (CustomResourceDefinition) in JSON schema format.
 - [yannh/kubeconform](https://github.com/yannh/kubeconform) - A FAST Kubernetes manifests validator, with support for Custom Resources!
 - [enix/kube-image-keeper](https://github.com/enix/kube-image-keeper) - kuik is a container image caching system for Kubernetes
@@ -561,6 +579,8 @@
 
 ## others 
 
+- [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open framework for building developer portals
+- [owasp-modsecurity/ModSecurity](https://github.com/owasp-modsecurity/ModSecurity) - ModSecurity is an open source, cross platform web application firewall (WAF) engine for Apache, IIS and Nginx. It has a robust event-based programming language which provides protection from a range o
 - [martymcmodding/qUINT](https://github.com/martymcmodding/qUINT) - Collection of general-purpose effects for the ReShade shader injector.
 - [martymcmodding/iMMERSE](https://github.com/martymcmodding/iMMERSE) - Marty's Mods Epic ReShade Effects
 - [neatnik/calendar](https://github.com/neatnik/calendar) - A simple printable calendar with the full year on a single page
@@ -639,6 +659,10 @@
 
 - [PixiEditor/PixiEditor](https://github.com/PixiEditor/PixiEditor) - PixiEditor is a Universal Editor for all your 2D needs
 
+## postgresql 
+
+- [PnX-SI/GeoNature](https://github.com/PnX-SI/GeoNature) - Application de saisie et de synthèse des observations faune et flore
+
 ## powershell 
 
 - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
@@ -662,6 +686,7 @@
 
 ## python 
 
+- [PnX-SI/GeoNature](https://github.com/PnX-SI/GeoNature) - Application de saisie et de synthèse des observations faune et flore
 - [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine) - Self-hosted game stream host for Moonlight.
 - [sachin-source/top-github-repositories-which-everyone-should-look](https://github.com/sachin-source/top-github-repositories-which-everyone-should-look) - This repository contains a list of important and useful github repos which a developer, coder, a student should never miss to look at.
 - [EvanLi/Github-Ranking](https://github.com/EvanLi/Github-Ranking) - :star:Github Ranking:star: Github stars and forks ranking list. Github Top100 stars list of different languages. Automatically update daily. | Github仓库排名，每日自动更新
@@ -709,12 +734,14 @@
 
 ## security 
 
+- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis) - Weighs the soul of incoming HTTP requests to stop AI crawlers
 - [kubescape/kubescape](https://github.com/kubescape/kubescape) - Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters. It includes risk analysis, security, compliance, and misconfiguration scanning, saving Kubernetes 
 - [wazuh/wazuh](https://github.com/wazuh/wazuh) - Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.
 
 ## security-tools 
 
+- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [wazuh/wazuh](https://github.com/wazuh/wazuh) - Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.
 
 ## self-hosted 

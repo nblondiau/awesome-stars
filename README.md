@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [Astro](#astro)
 - [Awk](#awk)
 - [Batchfile](#batchfile)
 - [C](#c)
@@ -23,7 +24,6 @@
 - [Jupyter Notebook](#jupyter-notebook)
 - [Kotlin](#kotlin)
 - [Lua](#lua)
-- [MDX](#mdx)
 - [Mustache](#mustache)
 - [Others](#others)
 - [PHP](#php)
@@ -37,6 +37,10 @@
 - [TypeScript](#typescript)
 - [Vim Script](#vim-script)
 - [Vue](#vue)
+
+## Astro 
+
+- [webtui/webtui](https://github.com/webtui/webtui) - 
 
 ## Awk 
 
@@ -218,10 +222,6 @@
 - [lukas-reineke/indent-blankline.nvim](https://github.com/lukas-reineke/indent-blankline.nvim) - Indent guides  for Neovim
 - [samirettali/shebang.nvim](https://github.com/samirettali/shebang.nvim) - A Neovim plugin that inserts a shebang line when editing a new file.
 - [nvim-lua/kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim) - A launch point for your personal nvim configuration
-
-## MDX 
-
-- [webtui/webtui](https://github.com/webtui/webtui) - 
 
 ## Mustache 
 

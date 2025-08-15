@@ -351,6 +351,7 @@
 
 ## Vim Script 
 
+- [Einenlum/yaml-revealer](https://github.com/Einenlum/yaml-revealer) - A vim plugin to easily navigate through Yaml files
 - [github/copilot.vim](https://github.com/github/copilot.vim) - Neovim plugin for GitHub Copilot
 - [psliwka/vim-smoothie](https://github.com/psliwka/vim-smoothie) - Smooth scrolling for Vim done right🥤
 - [mhinz/vim-startify](https://github.com/mhinz/vim-startify) - :link: The fancy start screen for Vim.

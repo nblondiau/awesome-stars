@@ -111,7 +111,6 @@
 - [vuejs](#vuejs)
 - [windows](#windows)
 - [xml](#xml)
-- [zsh](#zsh)
 
 ## ai 
 
@@ -606,6 +605,7 @@
 - [eliboa/TegraRcmGUI](https://github.com/eliboa/TegraRcmGUI) - C++ GUI for TegraRcmSmash (Fusée Gelée exploit for Nintendo Switch)
 - [SideQuestVR/SideQuest](https://github.com/SideQuestVR/SideQuest) - The SideQuest desktop application
 - [zhongyang219/TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor) - 这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。
+- [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
 - [photopea/photopea](https://github.com/photopea/photopea) - Photopea is online image editor
 - [elsesiy/kubectl-view-secret](https://github.com/elsesiy/kubectl-view-secret) - Kubernetes CLI plugin to decode Kubernetes secrets
 - [davidB/kubectl-view-allocations](https://github.com/davidB/kubectl-view-allocations) - kubectl plugin to list allocations (cpu, memory, gpu,... X utilization, requested, limit, allocatable,...)
@@ -843,12 +843,6 @@
 
 - [iptv-org/epg](https://github.com/iptv-org/epg) - Utilities for downloading the EPG (Electronic Program Guide) for thousands of TV channels from hundreds of sources.
 - [koodo-reader/koodo-reader](https://github.com/koodo-reader/koodo-reader) - A modern ebook manager and reader with sync and backup capacities for Windows, macOS, Linux, Android, iOS and Web
-
-## zsh 
-
-- [loiccoyle/zsh-github-copilot](https://github.com/loiccoyle/zsh-github-copilot) - 🧠 GitHub Copilot for your command line
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
-- [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
 
 
 ## License

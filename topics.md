@@ -41,6 +41,7 @@
 - [flutter](#flutter)
 - [flutter-apps](#flutter-apps)
 - [framework](#framework)
+- [game](#game)
 - [game-development](#game-development)
 - [games](#games)
 - [gh-extension](#gh-extension)
@@ -121,6 +122,7 @@
 
 ## android 
 
+- [Anuken/Mindustry](https://github.com/Anuken/Mindustry) - The automation tower defense RTS
 - [ReVanced/revanced-manager](https://github.com/ReVanced/revanced-manager) - 💊 Application to use ReVanced on Android
 - [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) - Browse media content with your own rules on Android TV
 - [parallelcc/MiCTS](https://github.com/parallelcc/MiCTS) - Trigger Circle to Search on any Android 9–15 device
@@ -315,6 +317,10 @@
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
 - [videolan/vlc](https://github.com/videolan/vlc) - VLC media player - All pull requests are ignored, please use MRs on https://code.videolan.org/videolan/vlc
 
+## game 
+
+- [Anuken/Mindustry](https://github.com/Anuken/Mindustry) - The automation tower defense RTS
+
 ## game-development 
 
 - [PixiEditor/PixiEditor](https://github.com/PixiEditor/PixiEditor) - PixiEditor is a Universal Editor for all your 2D needs
@@ -413,6 +419,7 @@
 
 ## java 
 
+- [Anuken/Mindustry](https://github.com/Anuken/Mindustry) - The automation tower defense RTS
 - [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) - Browse media content with your own rules on Android TV
 - [stakater/application](https://github.com/stakater/application) - Generic helm chart for all kind of applications
 
@@ -439,6 +446,7 @@
 
 ## kubernetes 
 
+- [yashbhutwala/kubectl-df-pv](https://github.com/yashbhutwala/kubectl-df-pv) - kubectl plugin - giving admins df (disk free) like utility for persistent volumes
 - [utkuozdemir/pv-migrate](https://github.com/utkuozdemir/pv-migrate) - CLI tool to easily migrate Kubernetes persistent volumes
 - [hcavarsan/kftray](https://github.com/hcavarsan/kftray) - 🦀 ⚡ kubectl port-forward manager with traffic inspection, udp support, proxy connections through k8s clusters and state via local files or git repos
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
@@ -594,6 +602,7 @@
 
 ## others 
 
+- [argoproj-labs/argocd-extension-metrics](https://github.com/argoproj-labs/argocd-extension-metrics) - An Argo CD extension to enable visualization of metrics in Argo CD UI.
 - [newren/git-filter-repo](https://github.com/newren/git-filter-repo) - Quickly rewrite git repository history (filter-branch replacement)
 - [Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows) - all of the workflows of n8n i could find (also from the site itself)
 - [pacoxu/AI-Infra](https://github.com/pacoxu/AI-Infra) - init to record my learning path of AI Infra, especially on inference.

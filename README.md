@@ -222,6 +222,7 @@
 
 ## Kotlin 
 
+- [zacharee/Tweaker](https://github.com/zacharee/Tweaker) - 
 - [parallelcc/MiCTS](https://github.com/parallelcc/MiCTS) - Trigger Circle to Search on any Android 9–15 device
 
 ## Lua 
@@ -243,7 +244,6 @@
 
 - [pacoxu/AI-Infra](https://github.com/pacoxu/AI-Infra) - init to record my learning path of AI Infra, especially on inference.
 - [Astienth/VR-Mods-Projects](https://github.com/Astienth/VR-Mods-Projects) - 
-- [neatnik/calendar](https://github.com/neatnik/calendar) - A simple printable calendar with the full year on a single page
 - [github/gh-copilot](https://github.com/github/gh-copilot) - Ask for assistance right in your terminal.
 - [photopea/photopea](https://github.com/photopea/photopea) - Photopea is online image editor
 - [Mindbaz/awesome-opensource-email](https://github.com/Mindbaz/awesome-opensource-email) - Awesome Opensource Email Resources

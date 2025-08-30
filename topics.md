@@ -25,7 +25,6 @@
 - [csharp](#csharp)
 - [cybersecurity](#cybersecurity)
 - [data-visualization](#data-visualization)
-- [deep-learning](#deep-learning)
 - [developer-tools](#developer-tools)
 - [development](#development)
 - [devops](#devops)
@@ -225,10 +224,6 @@
 ## data-visualization 
 
 - [gnovotny/nothing-to-watch](https://github.com/gnovotny/nothing-to-watch) - An experimental webgl gallery that can visualize tens of thousands of film posters as a voronoi diagram
-
-## deep-learning 
-
-- [isl-org/ZoeDepth](https://github.com/isl-org/ZoeDepth) - Metric depth estimation from a single image
 
 ## developer-tools 
 
@@ -605,6 +600,7 @@
 
 ## others 
 
+- [CloudPirates-io/helm-charts](https://github.com/CloudPirates-io/helm-charts) - This repository contains public Helm Charts for commonly used software
 - [DepthAnything/Depth-Anything-V2](https://github.com/DepthAnything/Depth-Anything-V2) - [NeurIPS 2024] Depth Anything V2. A More Capable Foundation Model for Monocular Depth Estimation
 - [zacharee/Tweaker](https://github.com/zacharee/Tweaker) - 
 - [argoproj-labs/argocd-extension-metrics](https://github.com/argoproj-labs/argocd-extension-metrics) - An Argo CD extension to enable visualization of metrics in Argo CD UI.

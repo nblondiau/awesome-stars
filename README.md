@@ -218,7 +218,6 @@
 
 ## Jupyter Notebook 
 
-- [isl-org/ZoeDepth](https://github.com/isl-org/ZoeDepth) - Metric depth estimation from a single image
 - [OpenGenerativeAI/llm-colosseum](https://github.com/OpenGenerativeAI/llm-colosseum) - Benchmark LLMs by fighting in Street Fighter 3! The new way to evaluate the quality of an LLM
 
 ## Kotlin 
@@ -332,6 +331,7 @@
 
 ## Smarty 
 
+- [CloudPirates-io/helm-charts](https://github.com/CloudPirates-io/helm-charts) - This repository contains public Helm Charts for commonly used software
 - [trueforge-org/truecharts](https://github.com/trueforge-org/truecharts) - Community Helm Chart Repository
 - [bjw-s-labs/helm-charts](https://github.com/bjw-s-labs/helm-charts) - A collection of Helm charts
 - [MediaMarktSaturn/helm-charts](https://github.com/MediaMarktSaturn/helm-charts) - Helm charts maintained and used by the MMS Technology team.

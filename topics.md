@@ -175,6 +175,7 @@
 
 ## cli 
 
+- [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
 - [superstarryeyes/lue](https://github.com/superstarryeyes/lue) - Terminal eBook Reader with Text-to-Speech
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
 - [darksworm/argonaut](https://github.com/darksworm/argonaut) - Argo CD Terminal User Interface (TUI)
@@ -436,6 +437,7 @@
 
 ## json 
 
+- [alurm/json2dir](https://github.com/alurm/json2dir) - A JSON-to-directory converter, a fast alternative to home-manager for managing dotfiles
 - [OpenNX/opennx.github.io](https://github.com/OpenNX/opennx.github.io) - Tinfoil Switch Shop forwarder with .json file link to active and working tinfoil shops for Nintendo Switch.
 
 ## kotlin 
@@ -600,6 +602,7 @@
 
 ## others 
 
+- [robchahin/sso-wall-of-shame](https://github.com/robchahin/sso-wall-of-shame) - A list of vendors that treat single sign-on as a luxury feature, not a core security requirement.
 - [CloudPirates-io/helm-charts](https://github.com/CloudPirates-io/helm-charts) - This repository contains public Helm Charts for commonly used software
 - [DepthAnything/Depth-Anything-V2](https://github.com/DepthAnything/Depth-Anything-V2) - [NeurIPS 2024] Depth Anything V2. A More Capable Foundation Model for Monocular Depth Estimation
 - [zacharee/Tweaker](https://github.com/zacharee/Tweaker) - 
@@ -608,9 +611,7 @@
 - [Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows) - all of the workflows of n8n i could find (also from the site itself)
 - [pacoxu/AI-Infra](https://github.com/pacoxu/AI-Infra) - init to record my learning path of AI Infra, especially on inference.
 - [djyt/cannonball](https://github.com/djyt/cannonball) - Cannonball: An Enhanced OutRun Engine
-- [einenlum/yaml-revealer](https://github.com/einenlum/yaml-revealer) - A vim plugin to easily navigate through Yaml files
 - [Astienth/VR-Mods-Projects](https://github.com/Astienth/VR-Mods-Projects) - 
-- [alurm/json2dir](https://github.com/alurm/json2dir) - A JSON-to-directory converter, a fast alternative to home-manager for managing dotfiles
 - [deskflow/deskflow](https://github.com/deskflow/deskflow) - Share a single keyboard and mouse between multiple computers.
 - [pancake3000/stremio-addon-manager](https://github.com/pancake3000/stremio-addon-manager) - Manage your Stremio Addons
 - [RigsOfRods/rigs-of-rods](https://github.com/RigsOfRods/rigs-of-rods) - Main development repository for Rigs of Rods soft-body physics simulator
@@ -721,6 +722,7 @@
 
 ## python 
 
+- [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
 - [PnX-SI/GeoNature](https://github.com/PnX-SI/GeoNature) - Application de saisie et de synthèse des observations faune et flore
 - [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine) - Self-hosted game stream host for Moonlight.
 - [sachin-source/top-github-repositories-which-everyone-should-look](https://github.com/sachin-source/top-github-repositories-which-everyone-should-look) - This repository contains a list of important and useful github repos which a developer, coder, a student should never miss to look at.

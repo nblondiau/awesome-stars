@@ -303,6 +303,7 @@
 
 ## Rust 
 
+- [garyttierney/me3](https://github.com/garyttierney/me3) - A framework for modding and instrumenting games.
 - [hcavarsan/kftray](https://github.com/hcavarsan/kftray) - kubectl port-forward manager with traffic inspection, udp support, proxy connections through k8s clusters and state via local files or git repos
 - [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, and blame output
 - [alurm/json2dir](https://github.com/alurm/json2dir) - A JSON-to-directory converter, a fast alternative to home-manager for managing dotfiles

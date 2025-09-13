@@ -67,8 +67,10 @@
 - [machine-learning](#machine-learning)
 - [macos](#macos)
 - [markdown](#markdown)
+- [material-design](#material-design)
 - [microsoft](#microsoft)
 - [monitoring](#monitoring)
+- [music](#music)
 - [neovim](#neovim)
 - [nextjs](#nextjs)
 - [no-code](#no-code)
@@ -122,6 +124,7 @@
 
 ## android 
 
+- [mostafaalagamy/Metrolist](https://github.com/mostafaalagamy/Metrolist) - YouTube Music client for Android
 - [Anuken/Mindustry](https://github.com/Anuken/Mindustry) - The automation tower defense RTS
 - [ReVanced/revanced-manager](https://github.com/ReVanced/revanced-manager) - 💊 Application to use ReVanced on Android
 - [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) - Browse media content with your own rules on Android TV
@@ -543,6 +546,10 @@
 - [hedgedoc/hedgedoc](https://github.com/hedgedoc/hedgedoc) - HedgeDoc - Ideas grow better together
 - [koodo-reader/koodo-reader](https://github.com/koodo-reader/koodo-reader) - A modern ebook manager and reader with sync and backup capacities for Windows, macOS, Linux, Android, iOS and Web
 
+## material-design 
+
+- [mostafaalagamy/Metrolist](https://github.com/mostafaalagamy/Metrolist) - YouTube Music client for Android
+
 ## microsoft 
 
 - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
@@ -555,6 +562,10 @@
 - [shizunge/endlessh-go](https://github.com/shizunge/endlessh-go) - A golang implementation of endlessh (SSH tarpit) exporting Prometheus metrics, visualized by a Grafana dashboard.
 - [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - Best and simplest tool for website change detection, web page monitoring, and website change alerts. Perfect for tracking content changes, price drops, restock alerts, and website defacement monitorin
 - [collabnix/kubetools](https://github.com/collabnix/kubetools) - Kubetools - Curated List of Kubernetes Tools
+
+## music 
+
+- [mostafaalagamy/Metrolist](https://github.com/mostafaalagamy/Metrolist) - YouTube Music client for Android
 
 ## neovim 
 
@@ -660,7 +671,7 @@
 - [ramensoftware/windhawk](https://github.com/ramensoftware/windhawk) - The customization marketplace for Windows programs: https://windhawk.net/
 - [nagadomi/nunif](https://github.com/nagadomi/nunif) - Misc; latest version of waifu2x;  2D video to stereo 3D video conversion
 - [dremin/RetroBar](https://github.com/dremin/RetroBar) - Classic Windows 95, 98, Me, 2000, XP, Vista taskbar for modern versions of Windows
-- [kro-run/kro](https://github.com/kro-run/kro) - kro | Kube Resource Orchestrator
+- [kubernetes-sigs/kro](https://github.com/kubernetes-sigs/kro) - kro | Kube Resource Orchestrator
 - [cncf/clomonitor](https://github.com/cncf/clomonitor) - CLOMonitor is a tool that periodically checks open source projects repositories to verify they meet certain project health best practices
 - [ios12checker/Windows-Maintenance-Tool](https://github.com/ios12checker/Windows-Maintenance-Tool) - 
 - [pvdlg/conventional-changelog-metahub](https://github.com/pvdlg/conventional-changelog-metahub) - conventional-changelog preset

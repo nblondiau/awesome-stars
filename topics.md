@@ -871,7 +871,7 @@
 
 ## ubuntu 
 
-- [Anduin2017/AnduinOS](https://github.com/Anduin2017/AnduinOS) - AnduinOS is a custom Ubuntu-based Linux distribution that aims to facilitate developers transitioning from Windows to Linux by maintaining familiar operational habits and workflows.
+- [Anduin2017/AnduinOS](https://github.com/Anduin2017/AnduinOS) - AnduinOS is a custom Ubuntu-based Linux distribution that offers a familiar and easy-to-use experience for anyone moving to Linux.
 
 ## vim 
 

@@ -650,6 +650,7 @@
 
 ## others 
 
+- [rn10950/RetroZilla](https://github.com/rn10950/RetroZilla) - A fork of Gecko 1.8.1 to improve support for the modern web in older versions of Windows
 - [ThirteenAG/GTAIV.EFLC.FusionFix](https://github.com/ThirteenAG/GTAIV.EFLC.FusionFix) - This project aims to fix or address some issues in Grand Theft Auto IV: The Complete Edition
 - [sannysanoff/SDRPlusPlusBrown](https://github.com/sannysanoff/SDRPlusPlusBrown) - Cross-Platform SDR Software
 - [Julien-cpsn/desktop-tui](https://github.com/Julien-cpsn/desktop-tui) - A desktop environment without graphics
@@ -703,7 +704,7 @@
 - [ramensoftware/windhawk](https://github.com/ramensoftware/windhawk) - The customization marketplace for Windows programs: https://windhawk.net/
 - [nagadomi/nunif](https://github.com/nagadomi/nunif) - Misc; latest version of waifu2x;  2D video to stereo 3D video conversion
 - [dremin/RetroBar](https://github.com/dremin/RetroBar) - Classic Windows 95, 98, Me, 2000, XP, Vista taskbar for modern versions of Windows
-- [kubernetes-sigs/kro](https://github.com/kubernetes-sigs/kro) - kro | Kubernetes Resource Orchestrator
+- [kubernetes-sigs/kro](https://github.com/kubernetes-sigs/kro) - kro | Kube Resource Orchestrator
 - [cncf/clomonitor](https://github.com/cncf/clomonitor) - CLOMonitor is a tool that periodically checks open source projects repositories to verify they meet certain project health best practices
 - [ios12checker/Windows-Maintenance-Tool](https://github.com/ios12checker/Windows-Maintenance-Tool) - A powerful, all-in-one Windows maintenance toolkit built entirely in Batch & PowerShell. Designed for power users, sysadmins, and curious tinkerers – now smarter, safer, and fully offline-compatible.
 - [pvdlg/conventional-changelog-metahub](https://github.com/pvdlg/conventional-changelog-metahub) - conventional-changelog preset

@@ -117,6 +117,7 @@
 
 ## GDScript 
 
+- [DyingStar-game/DyingStar](https://github.com/DyingStar-game/DyingStar) - 
 - [m4ym4y/museum-of-all-things](https://github.com/m4ym4y/museum-of-all-things) - a nearly infinite 3d museum, dynamically generated from wikipedia
 
 ## Go 

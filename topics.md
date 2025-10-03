@@ -414,7 +414,6 @@
 
 ## hacktoberfest 
 
-- [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line media player
 - [winapps-org/winapps](https://github.com/winapps-org/winapps) - Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork of https://github.com/Fmstrat/
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [j0k3r/banditore](https://github.com/j0k3r/banditore) - Banditore retrieves new releases from your starred GitHub repositories and generate an Atom feed with them.
@@ -470,7 +469,7 @@
 
 ## json 
 
-- [alurm/json2dir](https://github.com/alurm/json2dir) - A JSON-to-directory converter, a fast alternative to home-manager for managing dotfiles
+- [alurm/json2dir](https://github.com/alurm/json2dir) - Directory archives, made human-readable
 - [OpenNX/opennx.github.io](https://github.com/OpenNX/opennx.github.io) - Tinfoil Switch Shop forwarder with .json file link to active and working tinfoil shops for Nintendo Switch.
 
 ## kotlin 

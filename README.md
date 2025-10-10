@@ -75,6 +75,7 @@
 
 ## C++ 
 
+- [audacity/audacity](https://github.com/audacity/audacity) - Audio Editor
 - [rn10950/RetroZilla](https://github.com/rn10950/RetroZilla) - A fork of Gecko 1.8.1 to improve support for the modern web in older versions of Windows
 - [ThirteenAG/GTAIV.EFLC.FusionFix](https://github.com/ThirteenAG/GTAIV.EFLC.FusionFix) - This project aims to fix or address some issues in Grand Theft Auto IV: The Complete Edition
 - [mausimus/ShaderGlass](https://github.com/mausimus/ShaderGlass) - Overlay for running GPU shaders on top of Windows desktop

@@ -11,6 +11,7 @@
 - [automation](#automation)
 - [awesome](#awesome)
 - [awesome-list](#awesome-list)
+- [aws](#aws)
 - [bash](#bash)
 - [c](#c)
 - [c-plus-plus](#c-plus-plus)
@@ -163,6 +164,10 @@
 - [Mindbaz/awesome-opensource-email](https://github.com/Mindbaz/awesome-opensource-email) - Awesome Opensource Email Resources
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [ratatui/awesome-ratatui](https://github.com/ratatui/awesome-ratatui) - A curated list of TUI apps and libraries built with Ratatui
+
+## aws 
+
+- [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) - Configure external DNS servers dynamically from Kubernetes resources
 
 ## bash 
 
@@ -494,6 +499,7 @@
 
 ## kubernetes 
 
+- [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) - Configure external DNS servers dynamically from Kubernetes resources
 - [robusta-dev/krr](https://github.com/robusta-dev/krr) - Prometheus-based Kubernetes Resource Recommendations
 - [tazjin/nixery](https://github.com/tazjin/nixery) - Container registry which transparently builds images using the Nix package manager. Canonical repository is https://cs.tvl.fyi/depot/-/tree/tools/nixery
 - [dirathea/kubectl-unused-volumes](https://github.com/dirathea/kubectl-unused-volumes) - List all unused volumes on your cluster

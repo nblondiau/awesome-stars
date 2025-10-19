@@ -678,6 +678,8 @@
 
 ## others 
 
+- [mmcgrana/gobyexample](https://github.com/mmcgrana/gobyexample) - Go by Example
+- [edneyosf/Edconv](https://github.com/edneyosf/Edconv) - An intuitive FFmpeg GUI
 - [audacity/audacity](https://github.com/audacity/audacity) - Audio Editor
 - [crazii/SBEMU](https://github.com/crazii/SBEMU) - legacy sound blaster emulation for DOS
 - [DryKillLogic/stremio-account-bootstrapper](https://github.com/DryKillLogic/stremio-account-bootstrapper) - Bootstrap your Stremio account

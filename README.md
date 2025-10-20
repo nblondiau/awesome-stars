@@ -247,6 +247,7 @@
 
 ## Lua 
 
+- [BeamMP/BeamMP](https://github.com/BeamMP/BeamMP) - Bringing multiplayer to BeamNG.drive
 - [CopilotC-Nvim/CopilotChat.nvim](https://github.com/CopilotC-Nvim/CopilotChat.nvim) - Chat with GitHub Copilot in Neovim
 - [lukas-reineke/indent-blankline.nvim](https://github.com/lukas-reineke/indent-blankline.nvim) - Indent guides  for Neovim
 - [samirettali/shebang.nvim](https://github.com/samirettali/shebang.nvim) - A Neovim plugin that inserts a shebang line when editing a new file.

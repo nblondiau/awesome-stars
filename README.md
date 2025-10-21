@@ -292,6 +292,7 @@
 
 ## Python 
 
+- [VisionDepth/VisionDepth3D](https://github.com/VisionDepth/VisionDepth3D) - Generates 3D from 2D videos in multiple output formats using AI-powered depth mapping.
 - [dr-mod/zero-btc-screen](https://github.com/dr-mod/zero-btc-screen) - Crypto stock price for RPi Zero
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - If you live in the terminal, kitty is made for you! Cross-platform, fast, feature-rich, GPU based.
 - [robusta-dev/krr](https://github.com/robusta-dev/krr) - Prometheus-based Kubernetes Resource Recommendations
@@ -377,6 +378,7 @@
 
 ## TypeScript 
 
+- [zxh326/kite](https://github.com/zxh326/kite) - 🪁 A modern, lightweight Kubernetes dashboard.
 - [argoproj-labs/argocd-extension-metrics](https://github.com/argoproj-labs/argocd-extension-metrics) - An Argo CD extension to enable visualization of metrics in Argo CD UI.
 - [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open framework for building developer portals
 - [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️ Self-hosted collaborative bookmark manager to collect, read, annotate, and fully preserve what matters, all in one place.

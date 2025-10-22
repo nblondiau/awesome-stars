@@ -240,7 +240,7 @@
 
 ## Kotlin 
 
-- [edneyosf/Edconv](https://github.com/edneyosf/Edconv) - An intuitive FFmpeg GUI
+- [edneyosf/Edconv](https://github.com/edneyosf/Edconv) - A user-friendly FFmpeg GUI
 - [mostafaalagamy/Metrolist](https://github.com/mostafaalagamy/Metrolist) - YouTube Music client for Android
 - [zacharee/Tweaker](https://github.com/zacharee/Tweaker) - 
 - [parallelcc/MiCTS](https://github.com/parallelcc/MiCTS) - Trigger Circle to Search on any Android 9–15 device

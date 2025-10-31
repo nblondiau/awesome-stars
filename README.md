@@ -110,6 +110,7 @@
 
 ## CSS 
 
+- [Diolinux/PhotoGIMP](https://github.com/Diolinux/PhotoGIMP) - A Patch for GIMP 3+ for Photoshop Users
 - [Floorp-Projects/Floorp](https://github.com/Floorp-Projects/Floorp) - All of source code of version 10 or later of Floorp Browser, the most Advanced and Fastest Firefox derivative 🦊
 
 ## Crystal 

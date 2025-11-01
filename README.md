@@ -130,9 +130,7 @@
 
 - [openpubkey/opkssh](https://github.com/openpubkey/opkssh) - opkssh (OpenPubkey SSH)
 - [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator) - A Kubernetes Operator to create and manage Cloudflare Tunnels and DNS records  for (HTTP/TCP/UDP*) Service Resources
-- [lablabs/cloudflare-exporter](https://github.com/lablabs/cloudflare-exporter) - Prometheus CloudFlare Exporter
 - [STRRL/cloudflare-tunnel-ingress-controller](https://github.com/STRRL/cloudflare-tunnel-ingress-controller) - 🚀 Expose the website directly into the internet! The Kuberntes Ingress Controller based on Cloudflare Tunnel.
-- [mmcgrana/gobyexample](https://github.com/mmcgrana/gobyexample) - Go by Example
 - [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) - Configure external DNS servers dynamically from Kubernetes resources
 - [go-shiori/shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go
 - [rancher/k3k](https://github.com/rancher/k3k) - Kubernetes in Kubernetes

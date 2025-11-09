@@ -47,6 +47,7 @@
 - [flutter](#flutter)
 - [flutter-apps](#flutter-apps)
 - [framework](#framework)
+- [frontend](#frontend)
 - [game](#game)
 - [game-development](#game-development)
 - [games](#games)
@@ -371,6 +372,10 @@
 
 - [videolan/vlc](https://github.com/videolan/vlc) - VLC media player - All pull requests are ignored, please use MRs on https://code.videolan.org/videolan/vlc
 
+## frontend 
+
+- [marko-js/marko](https://github.com/marko-js/marko) - A declarative, HTML-based language that makes building web apps fun
+
 ## game 
 
 - [BeamMP/BeamMP](https://github.com/BeamMP/BeamMP) - Bringing multiplayer to BeamNG.drive
@@ -496,6 +501,7 @@
 
 ## javascript 
 
+- [marko-js/marko](https://github.com/marko-js/marko) - A declarative, HTML-based language that makes building web apps fun
 - [PnX-SI/GeoNature](https://github.com/PnX-SI/GeoNature) - Application de saisie et de synthèse des observations faune et flore
 - [commitizen/cz-cli](https://github.com/commitizen/cz-cli) - The commitizen command line utility. #BlackLivesMatter
 - [sachin-source/top-github-repositories-which-everyone-should-look](https://github.com/sachin-source/top-github-repositories-which-everyone-should-look) - This repository contains a list of important and useful github repos which a developer, coder, a student should never miss to look at.
@@ -675,6 +681,7 @@
 
 ## nodejs 
 
+- [marko-js/marko](https://github.com/marko-js/marko) - A declarative, HTML-based language that makes building web apps fun
 - [schlagmichdoch/PairDrop](https://github.com/schlagmichdoch/PairDrop) - PairDrop: Transfer Files Cross-Platform. No Setup, No Signup.
 - [dgtlmoon/sockpuppetbrowser](https://github.com/dgtlmoon/sockpuppetbrowser) - A scalable server for providing Chrome interfaces where needed
 - [nodesource/distributions](https://github.com/nodesource/distributions) - NodeSource Node.js Binary Distributions

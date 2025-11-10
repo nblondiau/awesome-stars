@@ -516,7 +516,6 @@
 ## json 
 
 - [alurm/json2dir](https://github.com/alurm/json2dir) - Directory archives, made human-readable
-- [OpenNX/opennx.github.io](https://github.com/OpenNX/opennx.github.io) - Tinfoil Switch Shop forwarder with .json file link to active and working tinfoil shops for Nintendo Switch.
 
 ## kotlin 
 
@@ -713,6 +712,7 @@
 
 ## others 
 
+- [GNOME/gimp](https://github.com/GNOME/gimp) - Read-only mirror of https://gitlab.gnome.org/GNOME/gimp
 - [azahar-emu/azahar](https://github.com/azahar-emu/azahar) - An open-source 3DS emulator project based on Citra.
 - [Diolinux/PhotoGIMP](https://github.com/Diolinux/PhotoGIMP) - A Patch for GIMP 3+ for Photoshop Users
 - [openpubkey/opkssh](https://github.com/openpubkey/opkssh) - opkssh (OpenPubkey SSH)
@@ -730,7 +730,6 @@
 - [brunodev85/winlator](https://github.com/brunodev85/winlator) - Android application for running Windows applications with Wine and Box86/Box64
 - [rancher/k3k](https://github.com/rancher/k3k) - Kubernetes in Kubernetes
 - [basecamp/omakub](https://github.com/basecamp/omakub) - Opinionated Ubuntu Setup
-- [DyingStar-game/DyingStar](https://github.com/DyingStar-game/DyingStar) - 
 - [rn10950/RetroZilla](https://github.com/rn10950/RetroZilla) - A fork of Gecko 1.8.1 to improve support for the modern web in older versions of Windows
 - [ThirteenAG/GTAIV.EFLC.FusionFix](https://github.com/ThirteenAG/GTAIV.EFLC.FusionFix) - This project aims to fix or address some issues in Grand Theft Auto IV: The Complete Edition
 - [sannysanoff/SDRPlusPlusBrown](https://github.com/sannysanoff/SDRPlusPlusBrown) - Cross-Platform SDR Software

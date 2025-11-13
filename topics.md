@@ -711,6 +711,7 @@
 
 ## others 
 
+- [retrofw/retrofw.github.io](https://github.com/retrofw/retrofw.github.io) - RetroFW Firmware releases
 - [firehol/blocklist-ipsets](https://github.com/firehol/blocklist-ipsets) - ipsets dynamically updated with firehol's update-ipsets.sh script
 - [GNOME/gimp](https://github.com/GNOME/gimp) - Read-only mirror of https://gitlab.gnome.org/GNOME/gimp
 - [azahar-emu/azahar](https://github.com/azahar-emu/azahar) - An open-source 3DS emulator project based on Citra.
@@ -756,7 +757,6 @@
 - [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser
 - [openwrt/openwrt](https://github.com/openwrt/openwrt) - This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins.  We will continue to accept Pull Requests here. They will be merged
 - [drdv/makefile-doc](https://github.com/drdv/makefile-doc) - AWK script for Makefile docs
-- [Flugan/Geo3D](https://github.com/Flugan/Geo3D) - 
 - [Viren070/AIOStreams](https://github.com/Viren070/AIOStreams) - One addon to rule them all. AIOStreams consolidates multiple Stremio addons and debrid services into a single, highly customisable super-addon.
 - [vpinball/vpinball](https://github.com/vpinball/vpinball) - Visual Pinball
 - [eliboa/TegraRcmGUI](https://github.com/eliboa/TegraRcmGUI) - C++ GUI for TegraRcmSmash (Fusée Gelée exploit for Nintendo Switch)

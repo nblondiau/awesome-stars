@@ -48,6 +48,7 @@
 
 ## C 
 
+- [taichikuji/simplemenu](https://github.com/taichikuji/simplemenu) - Simple menu launcher for the v90-q90
 - [GNOME/gimp](https://github.com/GNOME/gimp) - Read-only mirror of https://gitlab.gnome.org/GNOME/gimp
 - [crazii/SBEMU](https://github.com/crazii/SBEMU) - legacy sound blaster emulation for DOS
 - [brunodev85/winlator](https://github.com/brunodev85/winlator) - Android application for running Windows applications with Wine and Box86/Box64
@@ -129,6 +130,7 @@
 
 ## Go 
 
+- [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
 - [alexellis/k3sup](https://github.com/alexellis/k3sup) - bootstrap K3s over SSH in &lt; 60s 🚀
 - [openpubkey/opkssh](https://github.com/openpubkey/opkssh) - opkssh (OpenPubkey SSH)
 - [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator) - A Kubernetes Operator to create and manage Cloudflare Tunnels and DNS records  for (HTTP/TCP/UDP*) Service Resources

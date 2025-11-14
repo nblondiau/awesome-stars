@@ -304,6 +304,7 @@
 
 ## docker 
 
+- [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
 - [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-based, multi-site remote access platform using WireGuard®
 - [Seji64/SniDust](https://github.com/Seji64/SniDust) - SmartDNS Proxy to hide your GeoLocation. Based on DnsDist and nginx
 - [tazjin/nixery](https://github.com/tazjin/nixery) - Container registry which transparently builds images using the Nix package manager. Canonical repository is https://cs.tvl.fyi/depot/-/tree/tools/nixery
@@ -414,6 +415,7 @@
 
 ## go 
 
+- [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
 - [alexellis/k3sup](https://github.com/alexellis/k3sup) - bootstrap K3s over SSH in &lt; 60s 🚀
 - [go-shiori/shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - If you live in the terminal, kitty is made for you! Cross-platform, fast, feature-rich, GPU based.
@@ -426,6 +428,7 @@
 
 ## golang 
 
+- [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
 - [go-shiori/shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - If you live in the terminal, kitty is made for you! Cross-platform, fast, feature-rich, GPU based.
 - [control-theory/gonzo](https://github.com/control-theory/gonzo) - Gonzo! The Go based TUI log analysis tool
@@ -522,6 +525,7 @@
 
 ## kubernetes 
 
+- [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
 - [alexellis/k3sup](https://github.com/alexellis/k3sup) - bootstrap K3s over SSH in &lt; 60s 🚀
 - [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator) - A Kubernetes Operator to create and manage Cloudflare Tunnels and DNS records  for (HTTP/TCP/UDP*) Service Resources
 - [STRRL/cloudflare-tunnel-ingress-controller](https://github.com/STRRL/cloudflare-tunnel-ingress-controller) - 🚀 Expose the website directly into the internet! The Kuberntes Ingress Controller based on Cloudflare Tunnel.
@@ -711,6 +715,7 @@
 
 ## others 
 
+- [taichikuji/simplemenu](https://github.com/taichikuji/simplemenu) - Simple menu launcher for the v90-q90
 - [retrofw/retrofw.github.io](https://github.com/retrofw/retrofw.github.io) - RetroFW Firmware releases
 - [firehol/blocklist-ipsets](https://github.com/firehol/blocklist-ipsets) - ipsets dynamically updated with firehol's update-ipsets.sh script
 - [GNOME/gimp](https://github.com/GNOME/gimp) - Read-only mirror of https://gitlab.gnome.org/GNOME/gimp

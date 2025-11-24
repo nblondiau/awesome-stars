@@ -48,6 +48,7 @@
 
 ## C 
 
+- [XITRIX/Moonlight-Switch](https://github.com/XITRIX/Moonlight-Switch) - Moonlight port for Nintendo Switch
 - [taichikuji/simplemenu](https://github.com/taichikuji/simplemenu) - Simple menu launcher for the v90-q90
 - [GNOME/gimp](https://github.com/GNOME/gimp) - Read-only mirror of https://gitlab.gnome.org/GNOME/gimp
 - [crazii/SBEMU](https://github.com/crazii/SBEMU) - legacy sound blaster emulation for DOS

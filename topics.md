@@ -60,6 +60,7 @@
 - [good-first-issue](#good-first-issue)
 - [google](#google)
 - [hacktoberfest](#hacktoberfest)
+- [homebrew](#homebrew)
 - [html](#html)
 - [image-processing](#image-processing)
 - [iot](#iot)
@@ -486,6 +487,10 @@
 - [collabnix/kubetools](https://github.com/collabnix/kubetools) - Kubetools - Curated List of Kubernetes Tools
 - [reacherhq/check-if-email-exists](https://github.com/reacherhq/check-if-email-exists) - Check if an email address exists without sending any email, written in Rust. Comes with a ⚙️ HTTP backend.
 - [butlerx/wetty](https://github.com/butlerx/wetty) - Terminal in browser over http/https. (Ajaxterm/Anyterm alternative, but much better)
+
+## homebrew 
+
+- [XITRIX/Moonlight-Switch](https://github.com/XITRIX/Moonlight-Switch) - Moonlight port for Nintendo Switch
 
 ## html 
 

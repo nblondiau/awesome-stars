@@ -37,6 +37,7 @@
 - [Tree-sitter Query](#tree-sitter-query)
 - [TypeScript](#typescript)
 - [Vim Script](#vim-script)
+- [Visual Basic .NET](#visual-basic-.net)
 - [Vue](#vue)
 
 ## Awk 
@@ -435,6 +436,10 @@
 - [github/copilot.vim](https://github.com/github/copilot.vim) - Neovim plugin for GitHub Copilot
 - [psliwka/vim-smoothie](https://github.com/psliwka/vim-smoothie) - Smooth scrolling for Vim done right🥤
 - [mhinz/vim-startify](https://github.com/mhinz/vim-startify) - :link: The fancy start screen for Vim.
+
+## Visual Basic .NET 
+
+- [PeterStrick/ViVeTool-GUI](https://github.com/PeterStrick/ViVeTool-GUI) - Windows Feature Control GUI based on ViVe / ViVeTool
 
 ## Vue 
 

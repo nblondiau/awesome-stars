@@ -134,6 +134,7 @@
 
 ## Go 
 
+- [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
 - [veloxpack/csi-driver-rclone](https://github.com/veloxpack/csi-driver-rclone) - CSI driver built on top of rclone bringing cloud storage mounts to your pods with ease.
 - [howardjohn/gateway-api-bench](https://github.com/howardjohn/gateway-api-bench) - Gateway API Benchmarks provides a common set of tests to evaluate a Gateway API implementation.
 - [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy

@@ -749,6 +749,7 @@
 
 ## others 
 
+- [paintdotnet/release](https://github.com/paintdotnet/release) - Downloads for Paint.NET, such as installer EXEs and portable ZIPs
 - [RetroDriven/Pocket_Updater](https://github.com/RetroDriven/Pocket_Updater) - Windows GUI Application to Update Cores for the Analogue Pocket
 - [veloxpack/csi-driver-rclone](https://github.com/veloxpack/csi-driver-rclone) - CSI driver built on top of rclone bringing cloud storage mounts to your pods with ease.
 - [FrenzyByte/fluidfrenzy](https://github.com/FrenzyByte/fluidfrenzy) - 

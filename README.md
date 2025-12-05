@@ -50,6 +50,7 @@
 
 ## C 
 
+- [sthetix/hekate-ext](https://github.com/sthetix/hekate-ext) - A GUI based Nintendo Switch Bootloader with extended feature
 - [XITRIX/Moonlight-Switch](https://github.com/XITRIX/Moonlight-Switch) - Moonlight port for Nintendo Switch
 - [taichikuji/simplemenu](https://github.com/taichikuji/simplemenu) - Simple menu launcher for the v90-q90
 - [GNOME/gimp](https://github.com/GNOME/gimp) - Read-only mirror of https://gitlab.gnome.org/GNOME/gimp
@@ -81,6 +82,7 @@
 
 ## C++ 
 
+- [pingflood/gmenunx](https://github.com/pingflood/gmenunx) - A menu system for embedded devices, originally developed for the GP2X. Modernized for RetroFW and other systems under the name GMenuNX.
 - [OpenTTD/OpenTTD](https://github.com/OpenTTD/OpenTTD) - OpenTTD is an open source simulation game based upon Transport Tycoon Deluxe
 - [azahar-emu/azahar](https://github.com/azahar-emu/azahar) - An open-source 3DS emulator project based on Citra.
 - [SourMesen/Mesen2](https://github.com/SourMesen/Mesen2) - Multi-system emulator (NES, SNES, GB, GBA, PCE, SMS/GG, WS) for Windows, Linux and macOS
@@ -412,6 +414,7 @@
 
 ## TypeScript 
 
+- [electric-sql/pglite](https://github.com/electric-sql/pglite) - Embeddable Postgres with real-time, reactive bindings.
 - [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-Aware Tunneled Reverse Proxy Server with Dashboard UI
 - [zxh326/kite](https://github.com/zxh326/kite) - 🪁 A modern, lightweight Kubernetes dashboard.
 - [spookyhost1/yarr-stremio](https://github.com/spookyhost1/yarr-stremio) - YARR! (Yet Another Rapid Retriever) - A Powerful Torrent Aggregator and Debrid Addon for Stremio

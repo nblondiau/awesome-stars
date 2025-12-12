@@ -34,6 +34,7 @@
 - [Shell](#shell)
 - [Smarty](#smarty)
 - [Starlark](#starlark)
+- [Swift](#swift)
 - [Tree-sitter Query](#tree-sitter-query)
 - [TypeScript](#typescript)
 - [Vim Script](#vim-script)
@@ -410,6 +411,10 @@
 
 - [stakater/application](https://github.com/stakater/application) - Generic helm chart for all kind of applications
 
+## Swift 
+
+- [achtungsoftware/alarik](https://github.com/achtungsoftware/alarik) - High performance S3 compatible object storage focused on speed and simplicity and designed to be an open alternative to MinIO and RustFS.
+
 ## Tree-sitter Query 
 
 - [nvim-treesitter/nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter) - Nvim Treesitter configurations and abstraction layer
@@ -417,7 +422,7 @@
 ## TypeScript 
 
 - [electric-sql/pglite](https://github.com/electric-sql/pglite) - Embeddable Postgres with real-time, reactive bindings.
-- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-Aware Tunneled Reverse Proxy Server with Dashboard UI
+- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-based VPN and proxy for remote access to anything anywhere
 - [zxh326/kite](https://github.com/zxh326/kite) - 🪁 A modern, lightweight Kubernetes dashboard.
 - [spookyhost1/yarr-stremio](https://github.com/spookyhost1/yarr-stremio) - YARR! (Yet Another Rapid Retriever) - A Powerful Torrent Aggregator and Debrid Addon for Stremio
 - [argoproj-labs/argocd-extension-metrics](https://github.com/argoproj-labs/argocd-extension-metrics) - An Argo CD extension to enable visualization of metrics in Argo CD UI.

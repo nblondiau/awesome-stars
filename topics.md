@@ -330,7 +330,7 @@
 - [karanhudia/borg-ui](https://github.com/karanhudia/borg-ui) - Replace complex Borg Backup terminal commands with a beautiful web UI. Create, schedule, and   restore backups with just a few clicks.
 - [qdm12/gluetun](https://github.com/qdm12/gluetun) - VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in.
 - [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
-- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-based VPN and proxy for remote access to anything anywhere
+- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-aware VPN and proxy for remote access to anything, anywhere.
 - [Seji64/SniDust](https://github.com/Seji64/SniDust) - SmartDNS Proxy to hide your GeoLocation. Based on DnsDist and nginx
 - [tazjin/nixery](https://github.com/tazjin/nixery) - Container registry which transparently builds images using the Nix package manager. Canonical repository is https://cs.tvl.fyi/depot/-/tree/tools/nixery
 - [drakkan/sftpgo](https://github.com/drakkan/sftpgo) - Full-featured and highly configurable SFTP, HTTP/S, FTP/S and WebDAV server - S3, Google Cloud Storage, Azure Blob
@@ -530,7 +530,7 @@
 
 ## iot 
 
-- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-based VPN and proxy for remote access to anything anywhere
+- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-aware VPN and proxy for remote access to anything, anywhere.
 - [collabnix/kubetools](https://github.com/collabnix/kubetools) - Kubetools - Curated List of Kubernetes Tools
 
 ## java 
@@ -990,7 +990,7 @@
 ## self-hosted 
 
 - [karanhudia/borg-ui](https://github.com/karanhudia/borg-ui) - Replace complex Borg Backup terminal commands with a beautiful web UI. Create, schedule, and   restore backups with just a few clicks.
-- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-based VPN and proxy for remote access to anything anywhere
+- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-aware VPN and proxy for remote access to anything, anywhere.
 - [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok/Cloudflare Tunnel alternatives and other tunneling software and services. Focus on self-hosting.
 - [sandstorm-io/sandstorm](https://github.com/sandstorm-io/sandstorm) - Sandstorm is a self-hostable web productivity suite. It's implemented as a security-hardened web app package manager. | Actively sponsored by our friends at LambdaTest
 - [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️ Self-hosted collaborative bookmark manager to collect, read, annotate, and fully preserve what matters, all in one place.
@@ -1074,7 +1074,7 @@
 
 ## vpn 
 
-- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-based VPN and proxy for remote access to anything anywhere
+- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-aware VPN and proxy for remote access to anything, anywhere.
 
 ## vuejs 
 

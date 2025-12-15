@@ -32,7 +32,6 @@
 - [data-analysis](#data-analysis)
 - [data-science](#data-science)
 - [data-visualization](#data-visualization)
-- [database](#database)
 - [deep-learning](#deep-learning)
 - [developer-tools](#developer-tools)
 - [development](#development)
@@ -290,10 +289,6 @@
 
 - [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps.
 - [gnovotny/nothing-to-watch](https://github.com/gnovotny/nothing-to-watch) - An experimental webgl gallery that can visualize tens of thousands of film posters as a voronoi diagram
-
-## database 
-
-- [electric-sql/pglite](https://github.com/electric-sql/pglite) - Embeddable Postgres with real-time, reactive bindings.
 
 ## deep-learning 
 
@@ -755,6 +750,7 @@
 
 ## others 
 
+- [kiemlicz/charter](https://github.com/kiemlicz/charter) - Generate Chart from plain manifests
 - [impeeza/linkalho](https://github.com/impeeza/linkalho) - LinkAlho
 - [Atmosphere-NX/Atmosphere](https://github.com/Atmosphere-NX/Atmosphere) - Atmosphère is a work-in-progress customized firmware for the Nintendo Switch.
 - [achtungsoftware/alarik](https://github.com/achtungsoftware/alarik) - High performance S3 compatible object storage focused on speed and simplicity and designed to be an open alternative to MinIO and RustFS.

@@ -147,6 +147,7 @@
 
 ## android 
 
+- [entr0pia/trichromelibrary-squoosh](https://github.com/entr0pia/trichromelibrary-squoosh) - Remove the outdated TrichromeLibrary | 移除过时的 TrichromeLibrary
 - [kavishdevar/librepods](https://github.com/kavishdevar/librepods) - AirPods liberated from Apple's ecosystem.
 - [mostafaalagamy/Metrolist](https://github.com/mostafaalagamy/Metrolist) - YouTube Music client for Android
 - [Anuken/Mindustry](https://github.com/Anuken/Mindustry) - The automation tower defense RTS
@@ -207,6 +208,7 @@
 
 ## chrome 
 
+- [entr0pia/trichromelibrary-squoosh](https://github.com/entr0pia/trichromelibrary-squoosh) - Remove the outdated TrichromeLibrary | 移除过时的 TrichromeLibrary
 - [dgtlmoon/sockpuppetbrowser](https://github.com/dgtlmoon/sockpuppetbrowser) - A scalable server for providing Chrome interfaces where needed
 
 ## cli 
@@ -364,6 +366,7 @@
 
 ## emulator 
 
+- [ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle) - A Flash Player emulator written in Rust
 - [SourMesen/Mesen2](https://github.com/SourMesen/Mesen2) - Multi-system emulator (NES, SNES, GB, GBA, PCE, SMS/GG, WS) for Windows, Linux and macOS
 - [86Box/86Box](https://github.com/86Box/86Box) - Emulator of x86-based machines.
 - [finalburnneo/FBNeo](https://github.com/finalburnneo/FBNeo) - FinalBurn Neo - We are Team FBNeo.
@@ -481,6 +484,7 @@
 
 ## hacktoberfest 
 
+- [ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle) - A Flash Player emulator written in Rust
 - [kubevirt/kubevirt](https://github.com/kubevirt/kubevirt) - Kubernetes Virtualization API and runtime in order to define and manage virtual machines.
 - [winapps-org/winapps](https://github.com/winapps-org/winapps) - Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork of https://github.com/Fmstrat/
 - [sandstorm-io/sandstorm](https://github.com/sandstorm-io/sandstorm) - Sandstorm is a self-hostable web productivity suite. It's implemented as a security-hardened web app package manager. | Actively sponsored by our friends at LambdaTest
@@ -752,6 +756,7 @@
 
 ## others 
 
+- [OldUnreal/UT2004Patches](https://github.com/OldUnreal/UT2004Patches) - 
 - [RikkaApps/Shizuku](https://github.com/RikkaApps/Shizuku) - Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.
 - [kiemlicz/charter](https://github.com/kiemlicz/charter) - Generate Chart from plain manifests
 - [impeeza/linkalho](https://github.com/impeeza/linkalho) - LinkAlho
@@ -964,6 +969,7 @@
 
 ## rust 
 
+- [ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle) - A Flash Player emulator written in Rust
 - [MrCreativ3001/moonlight-web-stream](https://github.com/MrCreativ3001/moonlight-web-stream) - This is a web server which allows you to stream games with sunshine into a web browser.
 - [hcavarsan/kftray](https://github.com/hcavarsan/kftray) - kubectl port-forward manager and reverse tunnel (ngrok-like) for exposing local  services publicly, with TLS termination, HTTP traffic inspection, UDP forwarding,  multi-hop proxy routing through k8s 
 - [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, and blame output

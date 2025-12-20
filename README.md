@@ -428,6 +428,7 @@
 
 ## TypeScript 
 
+- [nicotsx/zerobyte](https://github.com/nicotsx/zerobyte) - Backup automation for self-hosters. Built on top of restic
 - [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-aware VPN and proxy for remote access to anything, anywhere.
 - [zxh326/kite](https://github.com/zxh326/kite) - 🪁 A modern, lightweight Kubernetes dashboard.
 - [spookyhost1/yarr-stremio](https://github.com/spookyhost1/yarr-stremio) - YARR! (Yet Another Rapid Retriever) - A Powerful Torrent Aggregator and Debrid Addon for Stremio

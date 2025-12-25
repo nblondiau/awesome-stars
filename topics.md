@@ -775,6 +775,8 @@
 
 ## others 
 
+- [nbarkhina/DosWasmX](https://github.com/nbarkhina/DosWasmX) - Build your own DOS/Windows machine in the browser
+- [rancher/channelserver](https://github.com/rancher/channelserver) - Channel server for System Upgrade Controller
 - [argoproj-labs/argocd-monorepo-controller](https://github.com/argoproj-labs/argocd-monorepo-controller) - 
 - [fsquillace/kyrat](https://github.com/fsquillace/kyrat) - SSH wrapper script that brings your dotfiles always with you on Linux and OSX
 - [nicotsx/zerobyte](https://github.com/nicotsx/zerobyte) - Backup automation for self-hosters. Built on top of restic

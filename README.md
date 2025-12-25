@@ -51,6 +51,7 @@
 
 ## C 
 
+- [nbarkhina/DosWasmX](https://github.com/nbarkhina/DosWasmX) - Build your own DOS/Windows machine in the browser
 - [hpjansson/chafa](https://github.com/hpjansson/chafa) - 📺🗿 Terminal graphics for the 21st century.
 - [impeeza/linkalho](https://github.com/impeeza/linkalho) - LinkAlho
 - [sthetix/hekate-ext](https://github.com/sthetix/hekate-ext) - A GUI based Nintendo Switch Bootloader with extended feature
@@ -140,6 +141,7 @@
 
 ## Go 
 
+- [rancher/channelserver](https://github.com/rancher/channelserver) - Channel server for System Upgrade Controller
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA.
 - [argoproj-labs/argocd-monorepo-controller](https://github.com/argoproj-labs/argocd-monorepo-controller) - 
 - [google/kube-startup-cpu-boost](https://github.com/google/kube-startup-cpu-boost) - Kube Startup CPU Boost is a controller that increases CPU resource requests and limits during Kubernetes workload startup time

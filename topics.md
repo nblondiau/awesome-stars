@@ -783,6 +783,7 @@
 
 ## others 
 
+- [indraAsLesmana/WRTune](https://github.com/indraAsLesmana/WRTune) - Issue tracker and community support for WRTune, a free companion app for OpenWRT routers.
 - [nbarkhina/DosWasmX](https://github.com/nbarkhina/DosWasmX) - Build your own DOS/Windows machine in the browser
 - [rancher/channelserver](https://github.com/rancher/channelserver) - Channel server for System Upgrade Controller
 - [argoproj-labs/argocd-monorepo-controller](https://github.com/argoproj-labs/argocd-monorepo-controller) - 

@@ -121,6 +121,7 @@
 - [security](#security)
 - [security-tools](#security-tools)
 - [self-hosted](#self-hosted)
+- [server](#server)
 - [serverless](#serverless)
 - [shell](#shell)
 - [software](#software)
@@ -147,6 +148,7 @@
 
 ## ai 
 
+- [thisnameissoclever/STFUAI-Podcasts](https://github.com/thisnameissoclever/STFUAI-Podcasts) - STFUAI Podcasts - podcast player app that auto-skips ads. https://stfuai.com. Join the community at https://discord.stfuai.com
 - [taubyte/tau](https://github.com/taubyte/tau) - Fullstack Workspace for Humans & Machines
 - [control-theory/gonzo](https://github.com/control-theory/gonzo) - Gonzo! The Go based TUI log analysis tool
 - [loiccoyle/zsh-github-copilot](https://github.com/loiccoyle/zsh-github-copilot) - 🧠 GitHub Copilot for your command line
@@ -155,6 +157,7 @@
 
 ## android 
 
+- [thisnameissoclever/STFUAI-Podcasts](https://github.com/thisnameissoclever/STFUAI-Podcasts) - STFUAI Podcasts - podcast player app that auto-skips ads. https://stfuai.com. Join the community at https://discord.stfuai.com
 - [Generator/Awesome-Android-TV-FOSS-Apps](https://github.com/Generator/Awesome-Android-TV-FOSS-Apps) - A curated list of FOSS Android TV apps
 - [entr0pia/trichromelibrary-squoosh](https://github.com/entr0pia/trichromelibrary-squoosh) - Remove the outdated TrichromeLibrary | 移除过时的 TrichromeLibrary
 - [kavishdevar/librepods](https://github.com/kavishdevar/librepods) - AirPods liberated from Apple's ecosystem.
@@ -581,6 +584,7 @@
 
 ## kubernetes 
 
+- [vince-riv/argo-diff](https://github.com/vince-riv/argo-diff) - Go application that provides Github Pull Request comments to preview live Kubernetes manifest changes managed by ArgoCD
 - [sergelogvinov/proxmox-csi-plugin](https://github.com/sergelogvinov/proxmox-csi-plugin) - Proxmox CSI Plugin
 - [google/kube-startup-cpu-boost](https://github.com/google/kube-startup-cpu-boost) - Kube Startup CPU Boost is a controller that increases CPU resource requests and limits during Kubernetes workload startup time
 - [philippemerle/Awesome-Kubernetes-Architecture-Diagrams](https://github.com/philippemerle/Awesome-Kubernetes-Architecture-Diagrams) - Awesome Kubernetes Architecture Diagrams
@@ -753,6 +757,7 @@
 
 ## nodejs 
 
+- [Sync-in/server](https://github.com/Sync-in/server) - Sync-in server · Secure, open-source platform for file storage, sharing, collaboration, and syncing.
 - [marko-js/marko](https://github.com/marko-js/marko) - A declarative, HTML-based language that makes building web apps fun
 - [schlagmichdoch/PairDrop](https://github.com/schlagmichdoch/PairDrop) - PairDrop: Transfer Files Cross-Platform. No Setup, No Signup.
 - [dgtlmoon/sockpuppetbrowser](https://github.com/dgtlmoon/sockpuppetbrowser) - A scalable server for providing Chrome interfaces where needed
@@ -789,6 +794,8 @@
 
 ## others 
 
+- [home-sweet-gnome/dash-to-panel](https://github.com/home-sweet-gnome/dash-to-panel) - An icon taskbar for the Gnome Shell. This extension moves the dash into the gnome main panel so that the application launchers and system tray are combined into a single panel, similar to that found i
+- [jdrbc/podly_pure_podcasts](https://github.com/jdrbc/podly_pure_podcasts) - Ad-block for podcasts
 - [saitoha/libsixel](https://github.com/saitoha/libsixel) - A SIXEL encoder/decoder implementation derived from kmiya's sixel (https://github.com/saitoha/sixel).
 - [indraAsLesmana/WRTune](https://github.com/indraAsLesmana/WRTune) - Issue tracker and community support for WRTune, a free companion app for OpenWRT routers.
 - [nbarkhina/DosWasmX](https://github.com/nbarkhina/DosWasmX) - Build your own DOS/Windows machine in the browser
@@ -938,6 +945,7 @@
 
 ## privacy 
 
+- [Sync-in/server](https://github.com/Sync-in/server) - Sync-in server · Secure, open-source platform for file storage, sharing, collaboration, and syncing.
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 
 ## productivity 
@@ -1035,6 +1043,7 @@
 
 ## self-hosted 
 
+- [Sync-in/server](https://github.com/Sync-in/server) - Sync-in server · Secure, open-source platform for file storage, sharing, collaboration, and syncing.
 - [karanhudia/borg-ui](https://github.com/karanhudia/borg-ui) - Replace complex Borg Backup terminal commands with a beautiful web UI. Create, schedule, and   restore backups with just a few clicks.
 - [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-aware VPN and proxy for remote access to anything, anywhere.
 - [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok/Cloudflare Tunnel alternatives and other tunneling software and services. Focus on self-hosting.
@@ -1049,6 +1058,10 @@
 - [nelsontky/gh-pages-url-shortener](https://github.com/nelsontky/gh-pages-url-shortener) - Minimal URL shortener that can be entirely hosted on GitHub pages.
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 - [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - Best and simplest tool for website change detection, web page monitoring, and website change alerts. Perfect for tracking content changes, price drops, restock alerts, and website defacement monitorin
+
+## server 
+
+- [Sync-in/server](https://github.com/Sync-in/server) - Sync-in server · Secure, open-source platform for file storage, sharing, collaboration, and syncing.
 
 ## serverless 
 
@@ -1113,6 +1126,7 @@
 
 ## typescript 
 
+- [Sync-in/server](https://github.com/Sync-in/server) - Sync-in server · Secure, open-source platform for file storage, sharing, collaboration, and syncing.
 - [MrCreativ3001/moonlight-web-stream](https://github.com/MrCreativ3001/moonlight-web-stream) - This is a web server which allows you to stream games with sunshine into a web browser.
 - [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️ Self-hosted collaborative bookmark manager to collect, read, annotate, and fully preserve what matters, all in one place.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
@@ -1155,6 +1169,7 @@
 
 ## windows 
 
+- [thisnameissoclever/STFUAI-Podcasts](https://github.com/thisnameissoclever/STFUAI-Podcasts) - STFUAI Podcasts - podcast player app that auto-skips ads. https://stfuai.com. Join the community at https://discord.stfuai.com
 - [CodingWonders/DISMTools](https://github.com/CodingWonders/DISMTools) - The connected place for Windows system administration
 - [PeterStrick/ViVeTool-GUI](https://github.com/PeterStrick/ViVeTool-GUI) - Windows Feature Control GUI based on ViVe / ViVeTool
 - [mausimus/ShaderGlass](https://github.com/mausimus/ShaderGlass) - Overlay for running GPU shaders on top of Windows desktop

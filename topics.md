@@ -794,8 +794,10 @@
 
 ## others 
 
+- [afkarxyz/SpotiFLAC](https://github.com/afkarxyz/SpotiFLAC) - Get Spotify tracks in true FLAC from Tidal, Qobuz & Amazon Music — no account required.
+- [Zayno/DoomScreenSaver](https://github.com/Zayno/DoomScreenSaver) - Fun screen saver projects for Windows
 - [home-sweet-gnome/dash-to-panel](https://github.com/home-sweet-gnome/dash-to-panel) - An icon taskbar for the Gnome Shell. This extension moves the dash into the gnome main panel so that the application launchers and system tray are combined into a single panel, similar to that found i
-- [jdrbc/podly_pure_podcasts](https://github.com/jdrbc/podly_pure_podcasts) - Ad-block for podcasts
+- [podly-pure-podcasts/podly_pure_podcasts](https://github.com/podly-pure-podcasts/podly_pure_podcasts) - Ad-block for podcasts
 - [saitoha/libsixel](https://github.com/saitoha/libsixel) - A SIXEL encoder/decoder implementation derived from kmiya's sixel (https://github.com/saitoha/sixel).
 - [indraAsLesmana/WRTune](https://github.com/indraAsLesmana/WRTune) - Issue tracker and community support for WRTune, a free companion app for OpenWRT routers.
 - [nbarkhina/DosWasmX](https://github.com/nbarkhina/DosWasmX) - Build your own DOS/Windows machine in the browser
@@ -806,7 +808,6 @@
 - [OldUnreal/UT2004Patches](https://github.com/OldUnreal/UT2004Patches) - 
 - [RikkaApps/Shizuku](https://github.com/RikkaApps/Shizuku) - Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.
 - [kiemlicz/charter](https://github.com/kiemlicz/charter) - Generate Chart from plain manifests
-- [impeeza/linkalho](https://github.com/impeeza/linkalho) - LinkAlho
 - [Atmosphere-NX/Atmosphere](https://github.com/Atmosphere-NX/Atmosphere) - Atmosphère is a work-in-progress customized firmware for the Nintendo Switch.
 - [achtungsoftware/alarik](https://github.com/achtungsoftware/alarik) - High performance S3 compatible object storage focused on speed and simplicity and designed to be an open alternative to MinIO and RustFS.
 - [traefik/ingress-nginx-migration](https://github.com/traefik/ingress-nginx-migration) - Ingress Nginx Migration

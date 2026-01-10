@@ -41,6 +41,7 @@
 - [Vim Script](#vim-script)
 - [Visual Basic .NET](#visual-basic-.net)
 - [Vue](#vue)
+- [Zig](#zig)
 
 ## Awk 
 
@@ -376,6 +377,7 @@
 
 ## Rust 
 
+- [ck-zhang/reddix](https://github.com/ck-zhang/reddix) - Reddix – Reddit, refined for the terminal.
 - [ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle) - A Flash Player emulator written in Rust
 - [a-b-street/abstreet](https://github.com/a-b-street/abstreet) - Transportation planning and traffic simulation software for creating cities friendlier to walking, biking, and public transit
 - [MrCreativ3001/moonlight-web-stream](https://github.com/MrCreativ3001/moonlight-web-stream) - This is a web server which allows you to stream games with sunshine into a web browser.
@@ -493,6 +495,10 @@
 
 - [DryKillLogic/stremio-account-bootstrapper](https://github.com/DryKillLogic/stremio-account-bootstrapper) - Bootstrap your Stremio account
 - [pancake3000/stremio-addon-manager](https://github.com/pancake3000/stremio-addon-manager) - Manage your Stremio Addons
+
+## Zig 
+
+- [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
 
 
 ## License

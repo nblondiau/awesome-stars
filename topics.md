@@ -793,6 +793,7 @@
 
 ## others 
 
+- [SimonHalvdansson/Harmonic-HN](https://github.com/SimonHalvdansson/Harmonic-HN) - Modern Android client for Hacker News
 - [ClassicOldSong/moonlight-android](https://github.com/ClassicOldSong/moonlight-android) - GameStream client for Android
 - [karpach/remote-shutdown-pc](https://github.com/karpach/remote-shutdown-pc) - Remote Shutdown Manager is a windows application, which gives an ability to shutdown, suspend, hibernate PC or turn screen off using HTTP GET request.
 - [tmux-plugins/list](https://github.com/tmux-plugins/list) - A list of tmux plugins.

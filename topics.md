@@ -78,6 +78,7 @@
 - [llm](#llm)
 - [low-code](#low-code)
 - [lua](#lua)
+- [mac](#mac)
 - [machine-learning](#machine-learning)
 - [macos](#macos)
 - [markdown](#markdown)
@@ -112,6 +113,7 @@
 - [python](#python)
 - [python3](#python3)
 - [pytorch](#pytorch)
+- [qt](#qt)
 - [raspberry-pi](#raspberry-pi)
 - [react](#react)
 - [react-native](#react-native)
@@ -135,6 +137,7 @@
 - [typescript](#typescript)
 - [ubuntu](#ubuntu)
 - [unreal-engine](#unreal-engine)
+- [video](#video)
 - [vim](#vim)
 - [virtual-reality](#virtual-reality)
 - [vpn](#vpn)
@@ -377,6 +380,7 @@
 
 ## electron 
 
+- [pear-devs/pear-desktop](https://github.com/pear-devs/pear-desktop) - Pear 🍐 is extension for music player
 - [OrangeJedi/Aerial](https://github.com/OrangeJedi/Aerial) - Apple TV screen saver for Windows
 - [4gray/iptvnator](https://github.com/4gray/iptvnator) - :tv: Cross-platform IPTV player application with multiple features, such as support of m3u and m3u8 playlists, favorites, TV guide, TV archive/catchup and more.
 
@@ -658,6 +662,8 @@
 
 ## linux 
 
+- [pear-devs/pear-desktop](https://github.com/pear-devs/pear-desktop) - Pear 🍐 is extension for music player
+- [dail8859/NotepadNext](https://github.com/dail8859/NotepadNext) - A cross-platform, reimplementation of Notepad++
 - [kavishdevar/librepods](https://github.com/kavishdevar/librepods) - AirPods liberated from Apple's ecosystem.
 - [ColinIanKing/stress-ng](https://github.com/ColinIanKing/stress-ng) - This is the stress-ng upstream project git repository.  stress-ng will stress test a computer system in various selectable ways. It was designed to exercise various physical subsystems of a computer a
 - [winapps-org/winapps](https://github.com/winapps-org/winapps) - Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork of https://github.com/Fmstrat/
@@ -679,6 +685,10 @@
 
 - [BeamMP/BeamMP](https://github.com/BeamMP/BeamMP) - Bringing multiplayer to BeamNG.drive
 
+## mac 
+
+- [pear-devs/pear-desktop](https://github.com/pear-devs/pear-desktop) - Pear 🍐 is extension for music player
+
 ## machine-learning 
 
 - [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps.
@@ -686,6 +696,7 @@
 
 ## macos 
 
+- [dail8859/NotepadNext](https://github.com/dail8859/NotepadNext) - A cross-platform, reimplementation of Notepad++
 - [4gray/iptvnator](https://github.com/4gray/iptvnator) - :tv: Cross-platform IPTV player application with multiple features, such as support of m3u and m3u8 playlists, favorites, TV guide, TV archive/catchup and more.
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 
@@ -725,6 +736,7 @@
 
 ## music 
 
+- [pear-devs/pear-desktop](https://github.com/pear-devs/pear-desktop) - Pear 🍐 is extension for music player
 - [mostafaalagamy/Metrolist](https://github.com/mostafaalagamy/Metrolist) - YouTube Music client for Android
 
 ## neovim 
@@ -748,6 +760,7 @@
 
 ## node 
 
+- [pear-devs/pear-desktop](https://github.com/pear-devs/pear-desktop) - Pear 🍐 is extension for music player
 - [commitizen/cz-cli](https://github.com/commitizen/cz-cli) - The commitizen command line utility. #BlackLivesMatter
 - [tl-open-source/tl-rtc-file](https://github.com/tl-open-source/tl-rtc-file) - WebRTC P2P online web media streaming tool (for files, video, screen, live streaming, text) with management and statistical monitoring capabilities.
 - [stakater/application](https://github.com/stakater/application) - Generic helm chart for all kind of applications
@@ -793,6 +806,7 @@
 
 ## others 
 
+- [elementdavv/internet_archive_downloader](https://github.com/elementdavv/internet_archive_downloader) - A chrome/firefox extension that download books from Internet Archive(archive.org) and HathiTrust Digital Library (hathitrust.org)
 - [SimonHalvdansson/Harmonic-HN](https://github.com/SimonHalvdansson/Harmonic-HN) - Modern Android client for Hacker News
 - [ClassicOldSong/moonlight-android](https://github.com/ClassicOldSong/moonlight-android) - GameStream client for Android
 - [karpach/remote-shutdown-pc](https://github.com/karpach/remote-shutdown-pc) - Remote Shutdown Manager is a windows application, which gives an ability to shutdown, suspend, hibernate PC or turn screen off using HTTP GET request.
@@ -995,6 +1009,10 @@
 - [VisionDepth/VisionDepth3D](https://github.com/VisionDepth/VisionDepth3D) - Generates 3D from 2D videos in multiple output formats using AI-powered depth mapping.
 - [n00mkrad/flowframes](https://github.com/n00mkrad/flowframes) - Flowframes Windows GUI for video interpolation using DAIN (NCNN) or RIFE (CUDA/NCNN)
 
+## qt 
+
+- [dail8859/NotepadNext](https://github.com/dail8859/NotepadNext) - A cross-platform, reimplementation of Notepad++
+
 ## raspberry-pi 
 
 - [alexellis/k3sup](https://github.com/alexellis/k3sup) - bootstrap K3s over SSH in &lt; 60s 🚀
@@ -1146,6 +1164,13 @@
 
 - [praydog/UEVR](https://github.com/praydog/UEVR) - Universal Unreal Engine VR Mod (4.8 - 5.4)
 
+## video 
+
+- [HaveAGitGat/Tdarr](https://github.com/HaveAGitGat/Tdarr) - Tdarr - Distributed transcode automation using FFmpeg/HandBrake + Audio/Video library analytics + video health checking (Windows, macOS, Linux & Docker)
+- [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line media player
+- [OrangeJedi/Aerial](https://github.com/OrangeJedi/Aerial) - Apple TV screen saver for Windows
+- [4gray/iptvnator](https://github.com/4gray/iptvnator) - :tv: Cross-platform IPTV player application with multiple features, such as support of m3u and m3u8 playlists, favorites, TV guide, TV archive/catchup and more.
+
 ## vim 
 
 - [nvim-treesitter/nvim-treesitter-context](https://github.com/nvim-treesitter/nvim-treesitter-context) - Show code context
@@ -1176,6 +1201,7 @@
 
 ## windows 
 
+- [pear-devs/pear-desktop](https://github.com/pear-devs/pear-desktop) - Pear 🍐 is extension for music player
 - [CodingWonders/DISMTools](https://github.com/CodingWonders/DISMTools) - The connected place for Windows system administration
 - [PeterStrick/ViVeTool-GUI](https://github.com/PeterStrick/ViVeTool-GUI) - Windows Feature Control GUI based on ViVe / ViVeTool
 - [mausimus/ShaderGlass](https://github.com/mausimus/ShaderGlass) - Overlay for running GPU shaders on top of Windows desktop

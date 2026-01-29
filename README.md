@@ -224,6 +224,7 @@
 
 ## HLSL 
 
+- [Blinue/Magpie](https://github.com/Blinue/Magpie) - A general-purpose window upscaler for Windows 10/11.
 - [martymcmodding/qUINT](https://github.com/martymcmodding/qUINT) - Collection of general-purpose effects for the ReShade shader injector.
 - [martymcmodding/iMMERSE](https://github.com/martymcmodding/iMMERSE) - Marty's Mods Epic ReShade Effects
 - [BlueSkyDefender/Depth3D](https://github.com/BlueSkyDefender/Depth3D) - Depth Based 3D & Other post-process shaders
@@ -351,6 +352,8 @@
 
 ## Python 
 
+- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
+- [simonw/llm](https://github.com/simonw/llm) - Access large language models from the command-line
 - [sthetix/3DS-Starterpack](https://github.com/sthetix/3DS-Starterpack) - 
 - [BerriAI/litellm](https://github.com/BerriAI/litellm) - Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails, loadbalancing and logging. [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropi
 - [podly-pure-podcasts/podly_pure_podcasts](https://github.com/podly-pure-podcasts/podly_pure_podcasts) - Ad-block for podcasts
@@ -382,6 +385,7 @@
 
 ## Rust 
 
+- [agavra/tuicr](https://github.com/agavra/tuicr) - A human-in-the-loop code review TUI for AI-generated changes.
 - [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
 - [ck-zhang/reddix](https://github.com/ck-zhang/reddix) - Reddix – Reddit, refined for the terminal.
 - [ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle) - A Flash Player emulator written in Rust

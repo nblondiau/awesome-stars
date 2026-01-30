@@ -29,6 +29,7 @@
 - [Mustache](#mustache)
 - [Others](#others)
 - [PHP](#php)
+- [Perl](#perl)
 - [PowerShell](#powershell)
 - [Python](#python)
 - [Rust](#rust)
@@ -342,6 +343,10 @@
 - [astralapp/astral](https://github.com/astralapp/astral) - Organize Your GitHub Stars With Ease
 - [koken/docker-koken-lemp](https://github.com/koken/docker-koken-lemp) - Docker image for Koken. Uses Ubuntu, nginx, MySQL, and PHP 5.
 - [modufolio/Koken-App](https://github.com/modufolio/Koken-App) - 
+
+## Perl 
+
+- [jetmore/swaks](https://github.com/jetmore/swaks) - Swaks - Swiss Army Knife for SMTP
 
 ## PowerShell 
 

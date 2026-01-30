@@ -133,6 +133,7 @@
 - [symfony](#symfony)
 - [tailwind](#tailwind)
 - [terminal](#terminal)
+- [testing](#testing)
 - [text-to-speech](#text-to-speech)
 - [tui](#tui)
 - [typescript](#typescript)
@@ -1139,6 +1140,10 @@
 - [microsoft/edit](https://github.com/microsoft/edit) - We all edit.
 - [tsl0922/ttyd](https://github.com/tsl0922/ttyd) - Share your terminal over the web
 - [butlerx/wetty](https://github.com/butlerx/wetty) - Terminal in browser over http/https. (Ajaxterm/Anyterm alternative, but much better)
+
+## testing 
+
+- [jetmore/swaks](https://github.com/jetmore/swaks) - Swaks - Swiss Army Knife for SMTP
 
 ## text-to-speech 
 

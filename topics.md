@@ -153,6 +153,7 @@
 
 ## ai 
 
+- [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
 - [simonw/llm](https://github.com/simonw/llm) - Access large language models from the command-line
 - [taubyte/tau](https://github.com/taubyte/tau) - Fullstack Workspace for Humans & Machines
 - [control-theory/gonzo](https://github.com/control-theory/gonzo) - Gonzo! The Go based TUI log analysis tool
@@ -811,6 +812,7 @@
 
 ## others 
 
+- [Omodaka9375/peerweb](https://github.com/Omodaka9375/peerweb) - Decentralized website hosting powered by WebTorrent
 - [sthetix/3DS-Starterpack](https://github.com/sthetix/3DS-Starterpack) - 
 - [cogwheel0/conduit](https://github.com/cogwheel0/conduit) - Native mobile client for OpenWebUI. Chat with your self‑hosted AI.
 - [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal

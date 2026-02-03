@@ -469,6 +469,7 @@
 
 ## TypeScript 
 
+- [pd4d10/http-indicator](https://github.com/pd4d10/http-indicator) - Indicator for HTTP/2, QUIC and HTTP/3
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
 - [pear-devs/pear-desktop](https://github.com/pear-devs/pear-desktop) - Pear 🍐 is extension for music player
 - [afkarxyz/SpotiFLAC](https://github.com/afkarxyz/SpotiFLAC) - Get Spotify tracks in true FLAC from Tidal, Qobuz & Amazon Music — no account required.

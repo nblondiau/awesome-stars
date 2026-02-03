@@ -18,6 +18,7 @@
 - [c-plus-plus](#c-plus-plus)
 - [chatgpt](#chatgpt)
 - [chrome](#chrome)
+- [chrome-extension](#chrome-extension)
 - [cli](#cli)
 - [cloud](#cloud)
 - [code-review](#code-review)
@@ -233,6 +234,10 @@
 - [corbindavenport/just-the-browser](https://github.com/corbindavenport/just-the-browser) - Remove AI features, telemetry data reporting, sponsored content, product integrations, and other annoyances from web browsers.
 - [entr0pia/trichromelibrary-squoosh](https://github.com/entr0pia/trichromelibrary-squoosh) - Remove the outdated TrichromeLibrary | 移除过时的 TrichromeLibrary
 - [dgtlmoon/sockpuppetbrowser](https://github.com/dgtlmoon/sockpuppetbrowser) - A scalable server for providing Chrome interfaces where needed
+
+## chrome-extension 
+
+- [pd4d10/http-indicator](https://github.com/pd4d10/http-indicator) - Indicator for HTTP/2, QUIC and HTTP/3
 
 ## cli 
 

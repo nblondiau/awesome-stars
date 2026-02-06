@@ -56,6 +56,7 @@
 
 ## C 
 
+- [fgl82/simplemenu](https://github.com/fgl82/simplemenu) - Simple menu launcher for the new Bittboy, Pocket Go, RetroFW and OpenDingux devices
 - [Zayno/DoomScreenSaver](https://github.com/Zayno/DoomScreenSaver) - Fun screen saver projects for Windows
 - [nbarkhina/DosWasmX](https://github.com/nbarkhina/DosWasmX) - Build your own DOS/Windows machine in the browser
 - [hpjansson/chafa](https://github.com/hpjansson/chafa) - 📺🗿 Terminal graphics for the 21st century.
@@ -148,7 +149,6 @@
 - [ctrox/zeropod](https://github.com/ctrox/zeropod) - pod that scales down to zero
 - [spegel-org/spegel](https://github.com/spegel-org/spegel) - Stateless cluster local OCI registry mirror.
 - [vince-riv/argo-diff](https://github.com/vince-riv/argo-diff) - Go application that provides Github Pull Request comments to preview live Kubernetes manifest changes managed by ArgoCD
-- [rancher/channelserver](https://github.com/rancher/channelserver) - Channel server for System Upgrade Controller
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA.
 - [argoproj-labs/argocd-monorepo-controller](https://github.com/argoproj-labs/argocd-monorepo-controller) - 
 - [google/kube-startup-cpu-boost](https://github.com/google/kube-startup-cpu-boost) - Kube Startup CPU Boost is a controller that increases CPU resource requests and limits during Kubernetes workload startup time
@@ -490,7 +490,6 @@
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
 - [same7ammar/kube-composer](https://github.com/same7ammar/kube-composer) - Open-Source Kubernetes YAML Builder with Intuitive Web Interface and Dynamic Visualization for Developers and DevOps Engineers
-- [cncf/clomonitor](https://github.com/cncf/clomonitor) - CLOMonitor is a tool that periodically checks open source projects repositories to verify they meet certain project health best practices
 - [marp-team/marp-cli](https://github.com/marp-team/marp-cli) - A CLI interface for Marp and Marpit based converters
 - [hedgedoc/hedgedoc](https://github.com/hedgedoc/hedgedoc) - HedgeDoc - Ideas grow better together
 - [mihaip/infinite-mac](https://github.com/mihaip/infinite-mac) - A classic Mac loaded with everything you'd want

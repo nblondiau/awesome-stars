@@ -10,7 +10,6 @@
 - [angular](#angular)
 - [api](#api)
 - [awesome](#awesome)
-- [awesome-list](#awesome-list)
 - [aws](#aws)
 - [azure](#azure)
 - [bash](#bash)
@@ -21,12 +20,10 @@
 - [cli](#cli)
 - [code-review](#code-review)
 - [compiler](#compiler)
-- [computer-vision](#computer-vision)
 - [cpp](#cpp)
 - [cryptocurrency](#cryptocurrency)
 - [crystal](#crystal)
 - [csharp](#csharp)
-- [data-science](#data-science)
 - [data-visualization](#data-visualization)
 - [deep-learning](#deep-learning)
 - [docker](#docker)
@@ -36,13 +33,9 @@
 - [emulator](#emulator)
 - [firefox](#firefox)
 - [flask](#flask)
-- [flutter](#flutter)
 - [frontend](#frontend)
-- [game](#game)
 - [git](#git)
 - [go](#go)
-- [golang](#golang)
-- [good-first-issue](#good-first-issue)
 - [google](#google)
 - [hacktoberfest](#hacktoberfest)
 - [homebrew](#homebrew)
@@ -59,10 +52,8 @@
 - [markdown](#markdown)
 - [material-design](#material-design)
 - [monitoring](#monitoring)
-- [nextjs](#nextjs)
 - [nodejs](#nodejs)
 - [npm](#npm)
-- [open-source](#open-source)
 - [opengl](#opengl)
 - [operating-system](#operating-system)
 - [others](#others)
@@ -73,7 +64,6 @@
 - [project-management](#project-management)
 - [pwa](#pwa)
 - [python](#python)
-- [python3](#python3)
 - [qt](#qt)
 - [raspberry-pi](#raspberry-pi)
 - [react](#react)
@@ -83,7 +73,6 @@
 - [server](#server)
 - [serverless](#serverless)
 - [shell](#shell)
-- [support](#support)
 - [symfony](#symfony)
 - [terminal](#terminal)
 - [testing](#testing)
@@ -131,14 +120,6 @@
 - [hotheadhacker/no-as-a-service](https://github.com/hotheadhacker/no-as-a-service) - No-as-a-Service (NaaS) is a simple API that returns a random rejection reason. Use it when you need a realistic excuse, a fun “no,” or want to simulate being turned down in style.
 
 ## awesome 
-
-- [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
-- [awesome-lists/awesome-bash](https://github.com/awesome-lists/awesome-bash) - A curated list of delightful Bash scripts and resources.
-- [Mindbaz/awesome-opensource-email](https://github.com/Mindbaz/awesome-opensource-email) - Awesome Opensource Email Resources
-- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
-- [ratatui/awesome-ratatui](https://github.com/ratatui/awesome-ratatui) - A curated list of TUI apps and libraries built with Ratatui
-
-## awesome-list 
 
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [awesome-lists/awesome-bash](https://github.com/awesome-lists/awesome-bash) - A curated list of delightful Bash scripts and resources.
@@ -205,10 +186,6 @@
 
 - [crosire/reshade](https://github.com/crosire/reshade) - A generic post-processing injector for games and video software.
 
-## computer-vision 
-
-- [VisionDepth/VisionDepth3D](https://github.com/VisionDepth/VisionDepth3D) - Generates 3D from 2D videos in multiple output formats using AI-powered depth mapping.
-
 ## cpp 
 
 - [praydog/UEVR](https://github.com/praydog/UEVR) - Universal Unreal Engine VR Mod (4.8 - 5.4)
@@ -231,10 +208,6 @@
 - [PixiEditor/PixiEditor](https://github.com/PixiEditor/PixiEditor) - PixiEditor is a Universal Editor for all your 2D needs
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System - Server Backend & API
 - [mcmonkeyprojects/SwarmUI](https://github.com/mcmonkeyprojects/SwarmUI) - SwarmUI (formerly StableSwarmUI), A Modular Stable Diffusion Web-User-Interface, with an emphasis on making powertools easily accessible, high performance, and extensibility.
-
-## data-science 
-
-- [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps.
 
 ## data-visualization 
 
@@ -300,20 +273,9 @@
 
 - [PnX-SI/GeoNature](https://github.com/PnX-SI/GeoNature) - Application de saisie et de synthèse des observations faune et flore
 
-## flutter 
-
-- [ReVanced/revanced-manager](https://github.com/ReVanced/revanced-manager) - 💊 Application to use ReVanced on Android
-
 ## frontend 
 
 - [marko-js/marko](https://github.com/marko-js/marko) - A declarative, HTML-based language that makes building web apps fun
-
-## game 
-
-- [a-b-street/abstreet](https://github.com/a-b-street/abstreet) - Transportation planning and traffic simulation software for creating cities friendlier to walking, biking, and public transit
-- [OpenTTD/OpenTTD](https://github.com/OpenTTD/OpenTTD) - OpenTTD is an open source simulation game based upon Transport Tycoon Deluxe
-- [BeamMP/BeamMP](https://github.com/BeamMP/BeamMP) - Bringing multiplayer to BeamNG.drive
-- [Anuken/Mindustry](https://github.com/Anuken/Mindustry) - The automation tower defense RTS
 
 ## git 
 
@@ -330,23 +292,6 @@
 - [yonahd/kor](https://github.com/yonahd/kor) - A Golang Tool to discover unused Kubernetes Resources
 - [applejag/kubectl-klock](https://github.com/applejag/kubectl-klock) - A kubectl plugin to render watch output in a more readable fashion
 - [zyedidia/eget](https://github.com/zyedidia/eget) - Easily install prebuilt binaries from GitHub.
-
-## golang 
-
-- [spegel-org/spegel](https://github.com/spegel-org/spegel) - Stateless cluster local OCI registry mirror.
-- [qdm12/gluetun](https://github.com/qdm12/gluetun) - VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in.
-- [control-theory/gonzo](https://github.com/control-theory/gonzo) - Gonzo! The Go based TUI log analysis tool
-- [rajatjindal/kubectl-whoami](https://github.com/rajatjindal/kubectl-whoami) - This plugin gets the subject name using the effective kubeconfig
-- [int128/kubelogin](https://github.com/int128/kubelogin) - kubectl plugin for Kubernetes OpenID Connect authentication (kubectl oidc-login)
-- [vladimirvivien/ktop](https://github.com/vladimirvivien/ktop) - A top-like tool for your Kubernetes cluster metrics
-- [yonahd/kor](https://github.com/yonahd/kor) - A Golang Tool to discover unused Kubernetes Resources
-- [applejag/kubectl-klock](https://github.com/applejag/kubectl-klock) - A kubectl plugin to render watch output in a more readable fashion
-- [keisku/kubectl-explore](https://github.com/keisku/kubectl-explore) - A better kubectl explain with the fuzzy finder
-- [zyedidia/eget](https://github.com/zyedidia/eget) - Easily install prebuilt binaries from GitHub.
-
-## good-first-issue 
-
-- [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
 
 ## google 
 
@@ -533,12 +478,6 @@
 - [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - Best and simplest tool for website change detection, web page monitoring, and website change alerts. Perfect for tracking content changes, price drops, restock alerts, and website defacement monitorin
 - [collabnix/kubetools](https://github.com/collabnix/kubetools) - Kubetools - Curated List of Kubernetes Tools
 
-## nextjs 
-
-- [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️ Self-hosted collaborative bookmark manager to collect, read, annotate, and fully preserve what matters, all in one place.
-- [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
-- [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
-
 ## nodejs 
 
 - [Sync-in/server](https://github.com/Sync-in/server) - Sync-in server · Secure, open-source platform for file storage, sharing, collaboration, and syncing.
@@ -552,12 +491,6 @@
 - [marticliment/UniGetUI](https://github.com/marticliment/UniGetUI) - UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 
-## open-source 
-
-- [rainxchzed/Github-Store](https://github.com/rainxchzed/Github-Store) - A free, open-source app store for GitHub releases — browse, discover, and install apps with one click. Powered by Kotlin and Compose Multiplatform for Android & Desktop (Linux, MacOS, Windows).
-- [CelestiaProject/Celestia](https://github.com/CelestiaProject/Celestia) - Real-time 3D visualization of space.
-- [rommapp/romm](https://github.com/rommapp/romm) - A beautiful, powerful, self-hosted rom manager and player.
-
 ## opengl 
 
 - [CelestiaProject/Celestia](https://github.com/CelestiaProject/Celestia) - Real-time 3D visualization of space.
@@ -569,6 +502,7 @@
 
 ## others 
 
+- [fgl82/simplemenu](https://github.com/fgl82/simplemenu) - Simple menu launcher for the new Bittboy, Pocket Go, RetroFW and OpenDingux devices
 - [ctrox/zeropod](https://github.com/ctrox/zeropod) - pod that scales down to zero
 - [sruckh/astral](https://github.com/sruckh/astral) - Organize your GitHub Stars with ease - A powerful Laravel + Vue.js application for managing starred repositories with tags, notes, and smart filters
 - [spocky/miproja1](https://github.com/spocky/miproja1) - 
@@ -599,7 +533,6 @@
 - [indraAsLesmana/WRTune](https://github.com/indraAsLesmana/WRTune) - Issue tracker and community support for WRTune, a free companion app for OpenWRT routers.
 - [HaveAGitGat/Tdarr](https://github.com/HaveAGitGat/Tdarr) - Tdarr - Distributed transcode automation using FFmpeg/HandBrake + Audio/Video library analytics + video health checking (Windows, macOS, Linux & Docker)
 - [nbarkhina/DosWasmX](https://github.com/nbarkhina/DosWasmX) - Build your own DOS/Windows machine in the browser
-- [rancher/channelserver](https://github.com/rancher/channelserver) - Channel server for System Upgrade Controller
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA.
 - [argoproj-labs/argocd-monorepo-controller](https://github.com/argoproj-labs/argocd-monorepo-controller) - 
 - [fsquillace/kyrat](https://github.com/fsquillace/kyrat) - SSH wrapper script that brings your dotfiles always with you on Linux and OSX
@@ -615,7 +548,9 @@
 - [paintdotnet/release](https://github.com/paintdotnet/release) - Downloads for Paint.NET, such as installer EXEs and portable ZIPs
 - [RetroDriven/Pocket_Updater](https://github.com/RetroDriven/Pocket_Updater) - Windows GUI Application to Update Cores for the Analogue Pocket
 - [veloxpack/csi-driver-rclone](https://github.com/veloxpack/csi-driver-rclone) - CSI driver built on top of rclone bringing cloud storage mounts to your pods with ease.
+- [a-b-street/abstreet](https://github.com/a-b-street/abstreet) - Transportation planning and traffic simulation software for creating cities friendlier to walking, biking, and public transit
 - [FrenzyByte/fluidfrenzy](https://github.com/FrenzyByte/fluidfrenzy) - 
+- [OpenTTD/OpenTTD](https://github.com/OpenTTD/OpenTTD) - OpenTTD is an open source simulation game based upon Transport Tycoon Deluxe
 - [taichikuji/simplemenu](https://github.com/taichikuji/simplemenu) - Simple menu launcher for the v90-q90
 - [retrofw/retrofw.github.io](https://github.com/retrofw/retrofw.github.io) - RetroFW Firmware releases
 - [firehol/blocklist-ipsets](https://github.com/firehol/blocklist-ipsets) - ipsets dynamically updated with firehol's update-ipsets.sh script
@@ -628,6 +563,7 @@
 - [ardoviniandrea/ViniPlay](https://github.com/ardoviniandrea/ViniPlay) - 
 - [UZDoom/UZDoom](https://github.com/UZDoom/UZDoom) - UZDoom is a feature centric port for all Doom engine games, based on GZDoom, adding an advanced renderer and powerful scripting capabilities
 - [houseabsolute/ubi](https://github.com/houseabsolute/ubi) - The Universal Binary Installer
+- [VisionDepth/VisionDepth3D](https://github.com/VisionDepth/VisionDepth3D) - Generates 3D from 2D videos in multiple output formats using AI-powered depth mapping.
 - [edneyosf/Edconv](https://github.com/edneyosf/Edconv) - A user-friendly FFmpeg GUI
 - [spookyhost1/yarr-stremio](https://github.com/spookyhost1/yarr-stremio) - YARR! (Yet Another Rapid Retriever) - A Powerful Torrent Aggregator and Debrid Addon for Stremio
 - [crazii/SBEMU](https://github.com/crazii/SBEMU) - legacy sound blaster emulation for DOS
@@ -665,6 +601,8 @@
 - [n00mkrad/flowframes](https://github.com/n00mkrad/flowframes) - Flowframes Windows GUI for video interpolation using DAIN (NCNN) or RIFE (CUDA/NCNN)
 - [zhongyang219/TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor) - 这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。
 - [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
+- [rommapp/romm](https://github.com/rommapp/romm) - A beautiful, powerful, self-hosted rom manager and player.
+- [rajatjindal/kubectl-whoami](https://github.com/rajatjindal/kubectl-whoami) - This plugin gets the subject name using the effective kubeconfig
 - [elsesiy/kubectl-view-secret](https://github.com/elsesiy/kubectl-view-secret) - Kubernetes CLI plugin to decode Kubernetes secrets
 - [davidB/kubectl-view-allocations](https://github.com/davidB/kubectl-view-allocations) - kubectl plugin to list allocations (cpu, memory, gpu,... X utilization, requested, limit, allocatable,...)
 - [lockfale/OSINT-Framework](https://github.com/lockfale/OSINT-Framework) - OSINT Framework
@@ -685,7 +623,6 @@
 - [nagadomi/nunif](https://github.com/nagadomi/nunif) - Misc; latest version of waifu2x;  2D video to stereo 3D video conversion
 - [dremin/RetroBar](https://github.com/dremin/RetroBar) - Classic Windows 95, 98, Me, 2000, XP, Vista taskbar for modern versions of Windows
 - [kubernetes-sigs/kro](https://github.com/kubernetes-sigs/kro) - kro | Kube Resource Orchestrator
-- [cncf/clomonitor](https://github.com/cncf/clomonitor) - CLOMonitor is a tool that periodically checks open source projects repositories to verify they meet certain project health best practices
 - [ios12checker/Windows-Maintenance-Tool](https://github.com/ios12checker/Windows-Maintenance-Tool) - A powerful, all-in-one Windows maintenance toolkit built entirely in Batch & PowerShell. Designed for power users, sysadmins, and curious tinkerers – now smarter, safer, and fully offline-compatible.
 - [pvdlg/conventional-changelog-metahub](https://github.com/pvdlg/conventional-changelog-metahub) - conventional-changelog preset
 - [mihaip/infinite-mac](https://github.com/mihaip/infinite-mac) - A classic Mac loaded with everything you'd want
@@ -760,10 +697,6 @@
 - [mcmonkeyprojects/SwarmUI](https://github.com/mcmonkeyprojects/SwarmUI) - SwarmUI (formerly StableSwarmUI), A Modular Stable Diffusion Web-User-Interface, with an emphasis on making powertools easily accessible, high performance, and extensibility.
 - [Charlie-Hill/ePaper-Stock-Ticker](https://github.com/Charlie-Hill/ePaper-Stock-Ticker) - Raspberry PI desktop stock ticker with a Waveshare e-Paper display. Made with Python.
 
-## python3 
-
-- [dgtlmoon/sockpuppetbrowser](https://github.com/dgtlmoon/sockpuppetbrowser) - A scalable server for providing Chrome interfaces where needed
-
 ## qt 
 
 - [dail8859/NotepadNext](https://github.com/dail8859/NotepadNext) - A cross-platform, reimplementation of Notepad++
@@ -825,10 +758,6 @@
 - [tattoy-org/tattoy](https://github.com/tattoy-org/tattoy) - A text-based compositor for modern terminals
 - [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - Oh my tmux! My self-contained, pretty & versatile tmux configuration made with 💛🩷💙🖤❤️🤍
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
-
-## support 
-
-- [frappe/erpnext](https://github.com/frappe/erpnext) - Free and Open Source Enterprise Resource Planning (ERP)
 
 ## symfony 
 

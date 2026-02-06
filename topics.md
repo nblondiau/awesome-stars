@@ -5,7 +5,6 @@
 
 ## Contents
 
-- [ai](#ai)
 - [android](#android)
 - [angular](#angular)
 - [api](#api)
@@ -14,7 +13,6 @@
 - [azure](#azure)
 - [bash](#bash)
 - [c](#c)
-- [chatgpt](#chatgpt)
 - [chrome](#chrome)
 - [chrome-extension](#chrome-extension)
 - [cli](#cli)
@@ -22,7 +20,6 @@
 - [compiler](#compiler)
 - [cpp](#cpp)
 - [cryptocurrency](#cryptocurrency)
-- [crystal](#crystal)
 - [csharp](#csharp)
 - [data-visualization](#data-visualization)
 - [deep-learning](#deep-learning)
@@ -73,7 +70,6 @@
 - [server](#server)
 - [serverless](#serverless)
 - [shell](#shell)
-- [symfony](#symfony)
 - [terminal](#terminal)
 - [testing](#testing)
 - [typescript](#typescript)
@@ -84,18 +80,6 @@
 - [webapp](#webapp)
 - [windows](#windows)
 - [xml](#xml)
-
-## ai 
-
-- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
-- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message se
-- [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
-- [simonw/llm](https://github.com/simonw/llm) - Access large language models from the command-line
-- [taubyte/tau](https://github.com/taubyte/tau) - Fullstack Workspace for Humans & Machines
-- [control-theory/gonzo](https://github.com/control-theory/gonzo) - Gonzo! The Go based TUI log analysis tool
-- [loiccoyle/zsh-github-copilot](https://github.com/loiccoyle/zsh-github-copilot) - 🧠 GitHub Copilot for your command line
-- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
-- [mcmonkeyprojects/SwarmUI](https://github.com/mcmonkeyprojects/SwarmUI) - SwarmUI (formerly StableSwarmUI), A Modular Stable Diffusion Web-User-Interface, with an emphasis on making powertools easily accessible, high performance, and extensibility.
 
 ## android 
 
@@ -146,11 +130,6 @@
 - [ColinIanKing/stress-ng](https://github.com/ColinIanKing/stress-ng) - This is the stress-ng upstream project git repository.  stress-ng will stress test a computer system in various selectable ways. It was designed to exercise various physical subsystems of a computer a
 - [sachin-source/top-github-repositories-which-everyone-should-look](https://github.com/sachin-source/top-github-repositories-which-everyone-should-look) - This repository contains a list of important and useful github repos which a developer, coder, a student should never miss to look at.
 
-## chatgpt 
-
-- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message se
-- [miroslavpejic85/mirotalksfu](https://github.com/miroslavpejic85/mirotalksfu) - 🏆 WebRTC - SFU - Simple, Secure, Scalable Real-Time Video Conferences Up to 8k, compatible with all browsers and platforms.
-
 ## chrome 
 
 - [corbindavenport/just-the-browser](https://github.com/corbindavenport/just-the-browser) - Remove AI features, telemetry data reporting, sponsored content, product integrations, and other annoyances from web browsers.
@@ -196,10 +175,6 @@
 ## cryptocurrency 
 
 - [dr-mod/zero-btc-screen](https://github.com/dr-mod/zero-btc-screen) - Crypto stock price for RPi Zero
-
-## crystal 
-
-- [vitobotta/hetzner-k3s](https://github.com/vitobotta/hetzner-k3s) - The easiest and fastest way to create production-ready Kubernetes clusters on Hetzner Cloud
 
 ## csharp 
 
@@ -506,10 +481,13 @@
 - [ctrox/zeropod](https://github.com/ctrox/zeropod) - pod that scales down to zero
 - [sruckh/astral](https://github.com/sruckh/astral) - Organize your GitHub Stars with ease - A powerful Laravel + Vue.js application for managing starred repositories with tags, notes, and smart filters
 - [spocky/miproja1](https://github.com/spocky/miproja1) - 
+- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [argoproj/argocd-example-apps](https://github.com/argoproj/argocd-example-apps) - Example Apps to Demonstrate Argo CD
 - [serhanekicii/openclaw-helm](https://github.com/serhanekicii/openclaw-helm) - 🦞 Helm chart for OpenClaw - personal AI assistant
 - [Omodaka9375/peerweb](https://github.com/Omodaka9375/peerweb) - Decentralized website hosting powered by WebTorrent
+- [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
 - [ran-j/PS2Recomp](https://github.com/ran-j/PS2Recomp) - Playstation 2 Static Recompiler & Runtime Tool to make native PC ports
+- [simonw/llm](https://github.com/simonw/llm) - Access large language models from the command-line
 - [sthetix/3DS-Starterpack](https://github.com/sthetix/3DS-Starterpack) - 
 - [BerriAI/litellm](https://github.com/BerriAI/litellm) - Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails, loadbalancing and logging. [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropi
 - [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
@@ -594,6 +572,7 @@
 - [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.
 - [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser
 - [drdv/makefile-doc](https://github.com/drdv/makefile-doc) - AWK script for Makefile docs
+- [loiccoyle/zsh-github-copilot](https://github.com/loiccoyle/zsh-github-copilot) - 🧠 GitHub Copilot for your command line
 - [Viren070/AIOStreams](https://github.com/Viren070/AIOStreams) - One addon to rule them all. AIOStreams consolidates multiple Stremio addons and debrid services into a single, highly customisable super-addon.
 - [vpinball/vpinball](https://github.com/vpinball/vpinball) - Visual Pinball
 - [eliboa/TegraRcmGUI](https://github.com/eliboa/TegraRcmGUI) - C++ GUI for TegraRcmSmash (Fusée Gelée exploit for Nintendo Switch)
@@ -621,6 +600,7 @@
 - [OpenGenerativeAI/llm-colosseum](https://github.com/OpenGenerativeAI/llm-colosseum) - Benchmark LLMs by fighting in Street Fighter 3! The new way to evaluate the quality of an LLM
 - [ramensoftware/windhawk](https://github.com/ramensoftware/windhawk) - The customization marketplace for Windows programs: https://windhawk.net/
 - [nagadomi/nunif](https://github.com/nagadomi/nunif) - Misc; latest version of waifu2x;  2D video to stereo 3D video conversion
+- [miroslavpejic85/mirotalksfu](https://github.com/miroslavpejic85/mirotalksfu) - 🏆 WebRTC - SFU - Simple, Secure, Scalable Real-Time Video Conferences Up to 8k, compatible with all browsers and platforms.
 - [dremin/RetroBar](https://github.com/dremin/RetroBar) - Classic Windows 95, 98, Me, 2000, XP, Vista taskbar for modern versions of Windows
 - [kubernetes-sigs/kro](https://github.com/kubernetes-sigs/kro) - kro | Kube Resource Orchestrator
 - [ios12checker/Windows-Maintenance-Tool](https://github.com/ios12checker/Windows-Maintenance-Tool) - A powerful, all-in-one Windows maintenance toolkit built entirely in Batch & PowerShell. Designed for power users, sysadmins, and curious tinkerers – now smarter, safer, and fully offline-compatible.
@@ -758,10 +738,6 @@
 - [tattoy-org/tattoy](https://github.com/tattoy-org/tattoy) - A text-based compositor for modern terminals
 - [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - Oh my tmux! My self-contained, pretty & versatile tmux configuration made with 💛🩷💙🖤❤️🤍
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
-
-## symfony 
-
-- [j0k3r/banditore](https://github.com/j0k3r/banditore) - Banditore retrieves new releases from your starred GitHub repositories and generate an Atom feed with them.
 
 ## terminal 
 

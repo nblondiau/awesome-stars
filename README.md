@@ -821,6 +821,9 @@
 
 ## others 
 
+- [localgpt-app/localgpt](https://github.com/localgpt-app/localgpt) - 
+- [anujja/DoNotNotify](https://github.com/anujja/DoNotNotify) - DoNotNotify app
+- [yancharkin/SpelunkyClassicHDhtml5](https://github.com/yancharkin/SpelunkyClassicHDhtml5) - HTML5 version of Spelunky Classic HD.
 - [snesrev/smw](https://github.com/snesrev/smw) - Smw
 - [snesrev/zelda3](https://github.com/snesrev/zelda3) - 
 - [zeldaret/tp](https://github.com/zeldaret/tp) - Decompilation of The Legend of Zelda: Twilight Princess

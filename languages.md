@@ -259,6 +259,7 @@
 
 ## JavaScript 
 
+- [yancharkin/SpelunkyClassicHDhtml5](https://github.com/yancharkin/SpelunkyClassicHDhtml5) - HTML5 version of Spelunky Classic HD.
 - [Omodaka9375/peerweb](https://github.com/Omodaka9375/peerweb) - Decentralized website hosting powered by WebTorrent
 - [elementdavv/internet_archive_downloader](https://github.com/elementdavv/internet_archive_downloader) - A chrome/firefox extension that download books from Internet Archive(archive.org) and HathiTrust Digital Library (hathitrust.org)
 - [home-sweet-gnome/dash-to-panel](https://github.com/home-sweet-gnome/dash-to-panel) - An icon taskbar for the Gnome Shell. This extension moves the dash into the gnome main panel so that the application launchers and system tray are combined into a single panel, similar to that found i
@@ -293,6 +294,7 @@
 
 ## Kotlin 
 
+- [anujja/DoNotNotify](https://github.com/anujja/DoNotNotify) - DoNotNotify app
 - [rainxchzed/Github-Store](https://github.com/rainxchzed/Github-Store) - A free, open-source app store for GitHub releases — browse, discover, and install apps with one click. Powered by Kotlin and Compose Multiplatform for Android & Desktop (Linux, MacOS, Windows).
 - [BLE-Research-Group/MetaRadar](https://github.com/BLE-Research-Group/MetaRadar) - A tool for BLE environment monitoring. Find and track Bluetooth devices around, and get notified when the target device is detected.
 - [sam1am/anyapk](https://github.com/sam1am/anyapk) - Install any apk on the device you own.
@@ -400,6 +402,7 @@
 
 ## Rust 
 
+- [localgpt-app/localgpt](https://github.com/localgpt-app/localgpt) - 
 - [agavra/tuicr](https://github.com/agavra/tuicr) - A human-in-the-loop code review TUI for AI-generated changes.
 - [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
 - [ck-zhang/reddix](https://github.com/ck-zhang/reddix) - Reddix – Reddit, refined for the terminal.

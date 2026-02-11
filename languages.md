@@ -323,6 +323,7 @@
 
 ## Others 
 
+- [bluszcz/awesome-xmpp](https://github.com/bluszcz/awesome-xmpp) - A curated list of delightful XMPP related resources.
 - [spocky/miproja1](https://github.com/spocky/miproja1) - 
 - [serhanekicii/openclaw-helm](https://github.com/serhanekicii/openclaw-helm) - 🦞 Helm chart for OpenClaw - personal AI assistant
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.

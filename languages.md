@@ -33,6 +33,7 @@
 - [Perl](#perl)
 - [PowerShell](#powershell)
 - [Python](#python)
+- [Ruby](#ruby)
 - [Rust](#rust)
 - [SCSS](#scss)
 - [Shell](#shell)
@@ -57,6 +58,7 @@
 
 ## C 
 
+- [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) - A maintained, feature-rich and performance oriented, neofetch like system information tool.
 - [snesrev/smw](https://github.com/snesrev/smw) - Smw
 - [snesrev/zelda3](https://github.com/snesrev/zelda3) - 
 - [fgl82/simplemenu](https://github.com/fgl82/simplemenu) - Simple menu launcher for the new Bittboy, Pocket Go, RetroFW and OpenDingux devices
@@ -151,6 +153,8 @@
 
 ## Go 
 
+- [mogenius/renovate-operator](https://github.com/mogenius/renovate-operator) - Operator to streamline renovate executions in Kubernetes
+- [boyter/scc](https://github.com/boyter/scc) - Sloc, Cloc and Code: scc is a very fast accurate code counter with complexity calculations and COCOMO estimates written in pure Go
 - [ctrox/zeropod](https://github.com/ctrox/zeropod) - pod that scales down to zero
 - [spegel-org/spegel](https://github.com/spegel-org/spegel) - Stateless cluster local OCI registry mirror.
 - [vince-riv/argo-diff](https://github.com/vince-riv/argo-diff) - Go application that provides Github Pull Request comments to preview live Kubernetes manifest changes managed by ArgoCD
@@ -234,6 +238,7 @@
 
 ## HTML 
 
+- [promptpirate-x/discord-id-bypass-tool](https://github.com/promptpirate-x/discord-id-bypass-tool) - A verified tool that works on any potato computer that will let you bypass discord verification
 - [ParticularCatch449/aio-tvflix-builder](https://github.com/ParticularCatch449/aio-tvflix-builder) - A configuration tool for Stremio AIO builds.
 - [Pankajtanwarbanna/stfu](https://github.com/Pankajtanwarbanna/stfu) - stfu
 - [traefik/ingress-nginx-migration](https://github.com/traefik/ingress-nginx-migration) - Ingress Nginx Migration
@@ -400,6 +405,10 @@
 - [Charlie-Hill/ePaper-Stock-Ticker](https://github.com/Charlie-Hill/ePaper-Stock-Ticker) - Raspberry PI desktop stock ticker with a Waveshare e-Paper display. Made with Python.
 - [mth75/retropie-demomode](https://github.com/mth75/retropie-demomode) - The demo mode starts and switches to a new random game after a minute unless controller or keyboard input is detected. The demo mode is a great way to discover new games in large collections. This ver
 - [vinayak-mehta/present](https://github.com/vinayak-mehta/present) - A terminal-based presentation tool with colors and effects.
+
+## Ruby 
+
+- [opf/openproject](https://github.com/opf/openproject) - OpenProject is the leading open source project management software.
 
 ## Rust 
 

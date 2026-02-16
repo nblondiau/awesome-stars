@@ -97,6 +97,7 @@
 
 ## C++ 
 
+- [kiwibrowser/src.next](https://github.com/kiwibrowser/src.next) - Source-code for Kiwi Next, a Kiwi Browser auto-rebased with latest Chromium
 - [zeldaret/tp](https://github.com/zeldaret/tp) - Decompilation of The Legend of Zelda: Twilight Princess
 - [ran-j/PS2Recomp](https://github.com/ran-j/PS2Recomp) - Playstation 2 Static Recompiler & Runtime Tool to make native PC ports
 - [VirtualDrivers/Virtual-Display-Driver](https://github.com/VirtualDrivers/Virtual-Display-Driver) - Add virtual monitors to your windows 10/11 device! Works with VR, OBS, Sunshine, and/or any desktop sharing software.

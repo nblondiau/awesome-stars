@@ -97,6 +97,7 @@
 
 ## C++ 
 
+- [reisxd/TizenTubeCobalt](https://github.com/reisxd/TizenTubeCobalt) - Experience TizenTube on other devices that are not Tizen.
 - [kiwibrowser/src.next](https://github.com/kiwibrowser/src.next) - Source-code for Kiwi Next, a Kiwi Browser auto-rebased with latest Chromium
 - [zeldaret/tp](https://github.com/zeldaret/tp) - Decompilation of The Legend of Zelda: Twilight Princess
 - [ran-j/PS2Recomp](https://github.com/ran-j/PS2Recomp) - Playstation 2 Static Recompiler & Runtime Tool to make native PC ports
@@ -156,6 +157,7 @@
 
 ## Go 
 
+- [cpcloud/micasa](https://github.com/cpcloud/micasa) - A modal TUI for tracking home projects, maintenance schedules, appliances, and vendor quotes.
 - [google/gvisor](https://github.com/google/gvisor) - Application Kernel for Containers
 - [mickamy/sql-tap](https://github.com/mickamy/sql-tap) - Watch SQL traffic in real-time with a TUI
 - [mogenius/renovate-operator](https://github.com/mogenius/renovate-operator) - Operator to streamline renovate executions in Kubernetes

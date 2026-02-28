@@ -550,6 +550,7 @@
 
 ## hacktoberfest 
 
+- [doitintl/kube-no-trouble](https://github.com/doitintl/kube-no-trouble) - Easily check your clusters for use of deprecated APIs
 - [zarf-dev/zarf](https://github.com/zarf-dev/zarf) - The Airgap Native Package Manager for Kubernetes
 - [variar/klogg](https://github.com/variar/klogg) - Really fast log explorer based on glogg project
 - [iv-org/invidious](https://github.com/iv-org/invidious) - Invidious is an alternative front-end to YouTube
@@ -636,6 +637,8 @@
 
 ## kubernetes 
 
+- [FairwindsOps/pluto](https://github.com/FairwindsOps/pluto) - A cli tool to help discover deprecated apiVersions in Kubernetes
+- [doitintl/kube-no-trouble](https://github.com/doitintl/kube-no-trouble) - Easily check your clusters for use of deprecated APIs
 - [zarf-dev/zarf](https://github.com/zarf-dev/zarf) - The Airgap Native Package Manager for Kubernetes
 - [rohitg00/kubectl-mcp-server](https://github.com/rohitg00/kubectl-mcp-server) - A Model Context Protocol (MCP) server for Kubernetes. Install: npx kubectl-mcp-server or pip install kubectl-mcp-server
 - [google/gvisor](https://github.com/google/gvisor) - Application Kernel for Containers
@@ -874,6 +877,7 @@
 
 ## others 
 
+- [cweagans/n8n-oidc](https://github.com/cweagans/n8n-oidc) - Bolt-on OIDC support for n8n
 - [the-nix-way/dev-templates](https://github.com/the-nix-way/dev-templates) - Dev environments for numerous languages based on Nix flakes [maintainer=@lucperkins]
 - [OldUnreal/FullGameInstallers](https://github.com/OldUnreal/FullGameInstallers) - This is the (partial) source code for the Unreal Gold and Unreal Tournament GOTY installers we host on OldUnreal.com
 - [fmhy/edit](https://github.com/fmhy/edit) - Make changes to FMHY
@@ -943,7 +947,7 @@
 - [edneyosf/Edconv](https://github.com/edneyosf/Edconv) - A user-friendly FFmpeg GUI
 - [spookyhost1/yarr-stremio](https://github.com/spookyhost1/yarr-stremio) - YARR! (Yet Another Rapid Retriever) - A Powerful Torrent Aggregator and Debrid Addon for Stremio
 - [crazii/SBEMU](https://github.com/crazii/SBEMU) - legacy sound blaster emulation for DOS
-- [DryKillLogic/stremio-account-bootstrapper](https://github.com/DryKillLogic/stremio-account-bootstrapper) - Bootstrap your Stremio account
+- [DryKillLogic/stremio-account-bootstrapper](https://github.com/DryKillLogic/stremio-account-bootstrapper) - Set up your Stremio account with just a few clicks
 - [rancher/k3k](https://github.com/rancher/k3k) - Kubernetes in Kubernetes
 - [basecamp/omakub](https://github.com/basecamp/omakub) - Opinionated Ubuntu Setup
 - [rn10950/RetroZilla](https://github.com/rn10950/RetroZilla) - A fork of Gecko 1.8.1 to improve support for the modern web in older versions of Windows

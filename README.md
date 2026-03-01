@@ -473,7 +473,7 @@
 
 ## game 
 
-- [C7-Game/Prototype](https://github.com/C7-Game/Prototype) - OpenCiv3 is an open-source, cross-platform, mod-oriented, modernized remake of Civilization III by the fan community built with the Godot Engine and C#, with capabilities inspired by the best of the 4
+- [C7-Game/OpenCiv3](https://github.com/C7-Game/OpenCiv3) - OpenCiv3 is an open-source, cross-platform, mod-oriented, modernized remake of Civilization III by the fan community built with the Godot Engine and C#, with capabilities inspired by the best of the 4
 - [RyanGrieb/OpenCiv](https://github.com/RyanGrieb/OpenCiv) - An open source civilization-like game made for the web browser.
 - [a-b-street/abstreet](https://github.com/a-b-street/abstreet) - Transportation planning and traffic simulation software for creating cities friendlier to walking, biking, and public transit
 - [OpenTTD/OpenTTD](https://github.com/OpenTTD/OpenTTD) - OpenTTD is an open source simulation game based upon Transport Tycoon Deluxe
@@ -1006,7 +1006,7 @@
 - [robertdavidgraham/masscan](https://github.com/robertdavidgraham/masscan) - TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes.
 - [optiscaler/OptiScaler](https://github.com/optiscaler/OptiScaler) - OptiScaler bridges upscaling/frame gen across GPUs. Supports DLSS2+/XeSS/FSR2+ inputs, replaces native upscalers, enables FSR3 FG on non-FG titles. Supports Nukem mod for DLSSG-to-FSR3 FG.
 - [m4ym4y/museum-of-all-things](https://github.com/m4ym4y/museum-of-all-things) - a nearly infinite 3d museum, dynamically generated from wikipedia
-- [klaudworks/kubeconfig-operator](https://github.com/klaudworks/kubeconfig-operator) - The kubeconfig operator generates (restricted) kubeconfigs for Kubernetes.
+- [klaudworks/kubeconfig-operator](https://github.com/klaudworks/kubeconfig-operator) - Kubernetes operator that creates and manages permission-restricted kubeconfigs
 - [Udinic/FAT32-Sorter](https://github.com/Udinic/FAT32-Sorter) - 
 - [makhowastaken/GWGBC_FW](https://github.com/makhowastaken/GWGBC_FW) - Firmware repository for the Funnyplaying FPGA GBC
 - [BlueSkyDefender/Depth3D](https://github.com/BlueSkyDefender/Depth3D) - Depth Based 3D & Other post-process shaders

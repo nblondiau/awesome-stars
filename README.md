@@ -1008,7 +1008,7 @@
 - [portainer/kubesolo](https://github.com/portainer/kubesolo) - Ultra-lightweight Kubernetes
 - [biggie-boss/NGVO](https://github.com/biggie-boss/NGVO) - A comprehensive visual baseline for you to build off of, featuring the absolute best visual overhauls currently available all in a low-plugin count package.
 - [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary
-- [jaredallard/ingress-anubis](https://github.com/jaredallard/ingress-anubis) - Ingress anubis controller (chaining ingress-nginx)
+- [jaredallard/ingress-anubis](https://github.com/jaredallard/ingress-anubis) - [MIRROR] Ingress anubis controller (chaining ingress-nginx)
 - [nixys/nxs-universal-chart](https://github.com/nixys/nxs-universal-chart) - The Helm chart you can use to install any of your applications into Kubernetes/OpenShift
 - [robertdavidgraham/masscan](https://github.com/robertdavidgraham/masscan) - TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes.
 - [optiscaler/OptiScaler](https://github.com/optiscaler/OptiScaler) - OptiScaler bridges upscaling/frame gen across GPUs. Supports DLSS2+/XeSS/FSR2+ inputs, replaces native upscalers, enables FSR3 FG on non-FG titles. Supports Nukem mod for DLSSG-to-FSR3 FG.

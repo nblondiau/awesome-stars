@@ -251,7 +251,6 @@
 
 ## HTML 
 
-- [es617/claude-replay](https://github.com/es617/claude-replay) - Community tool to convert Claude Code session transcripts into self-contained, embeddable HTML replays
 - [promptpirate-x/discord-id-bypass-tool](https://github.com/promptpirate-x/discord-id-bypass-tool) - A verified tool that works on any potato computer that will let you bypass discord verification
 - [ParticularCatch449/aio-tvflix-builder](https://github.com/ParticularCatch449/aio-tvflix-builder) - A configuration tool for Stremio AIO builds.
 - [Pankajtanwarbanna/stfu](https://github.com/Pankajtanwarbanna/stfu) - stfu
@@ -278,6 +277,7 @@
 
 ## JavaScript 
 
+- [es617/claude-replay](https://github.com/es617/claude-replay) - Community tool to convert Claude Code session transcripts into self-contained, embeddable HTML replays
 - [cweagans/n8n-oidc](https://github.com/cweagans/n8n-oidc) - Bolt-on OIDC support for n8n
 - [plankanban/planka](https://github.com/plankanban/planka) - PLANKA is the Kanban-style project mastering tool for everyone
 - [fmhy/edit](https://github.com/fmhy/edit) - Make changes to FMHY
@@ -397,6 +397,7 @@
 
 ## Python 
 
+- [jtesta/ssh-audit](https://github.com/jtesta/ssh-audit) - SSH server & client security auditing (banner, key exchange, encryption, mac, compression, compatibility, security, etc)
 - [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - An autonomous agent that conducts deep research on any data using any LLM providers
 - [rohitg00/kubectl-mcp-server](https://github.com/rohitg00/kubectl-mcp-server) - A Model Context Protocol (MCP) server for Kubernetes. Install: npx kubectl-mcp-server or pip install kubectl-mcp-server
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)

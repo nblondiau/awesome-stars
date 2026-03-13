@@ -352,6 +352,7 @@
 
 ## Others 
 
+- [ivbeg/awesome-status-pages](https://github.com/ivbeg/awesome-status-pages) - Awesome list of status page open source software, services and public status pages of major internet companies
 - [bluszcz/awesome-xmpp](https://github.com/bluszcz/awesome-xmpp) - A curated list of delightful XMPP related resources.
 - [spocky/miproja1](https://github.com/spocky/miproja1) - 
 - [serhanekicii/openclaw-helm](https://github.com/serhanekicii/openclaw-helm) - 🦞 Helm chart for OpenClaw - personal AI assistant

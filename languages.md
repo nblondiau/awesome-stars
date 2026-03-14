@@ -279,7 +279,8 @@
 
 ## JavaScript 
 
-- [es617/claude-replay](https://github.com/es617/claude-replay) - Community tool to convert Claude Code session transcripts into self-contained, embeddable HTML replays
+- [pbakaus/impeccable](https://github.com/pbakaus/impeccable) - The design language that makes your AI harness better at design.
+- [es617/claude-replay](https://github.com/es617/claude-replay) - Convert AI coding agent sessions (Claude Code, Cursor, Codex) into self-contained, embeddable HTML  replays
 - [cweagans/n8n-oidc](https://github.com/cweagans/n8n-oidc) - Bolt-on OIDC support for n8n
 - [plankanban/planka](https://github.com/plankanban/planka) - PLANKA is the Kanban-style project mastering tool for everyone
 - [fmhy/edit](https://github.com/fmhy/edit) - Make changes to FMHY
@@ -291,6 +292,7 @@
 - [marko-js/marko](https://github.com/marko-js/marko) - A declarative, HTML-based language that makes building web apps fun
 - [ardoviniandrea/ViniPlay](https://github.com/ardoviniandrea/ViniPlay) - 
 - [OrangeJedi/Aerial](https://github.com/OrangeJedi/Aerial) - Apple TV screen saver for Windows
+- [pacoxu/AI-Infra](https://github.com/pacoxu/AI-Infra) - init to record my learning path of AI Infra, especially on inference.
 - [sandstorm-io/sandstorm](https://github.com/sandstorm-io/sandstorm) - Sandstorm is a self-hostable web productivity suite. It's implemented as a security-hardened web app package manager. | Actively sponsored by our friends at TestMu AI
 - [commitizen/cz-cli](https://github.com/commitizen/cz-cli) - The commitizen command line utility. #BlackLivesMatter
 - [lockfale/OSINT-Framework](https://github.com/lockfale/OSINT-Framework) - OSINT Framework
@@ -365,7 +367,6 @@
 - [paintdotnet/release](https://github.com/paintdotnet/release) - Downloads for Paint.NET, such as installer EXEs and portable ZIPs
 - [retrofw/retrofw.github.io](https://github.com/retrofw/retrofw.github.io) - RetroFW Firmware releases
 - [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok, Cloudflare Tunnel, Tailscale, and ZeroTier alternatives and other tunneling software and services. Focus on self-hosting.
-- [pacoxu/AI-Infra](https://github.com/pacoxu/AI-Infra) - init to record my learning path of AI Infra, especially on inference.
 - [Astienth/VR-Mods-Projects](https://github.com/Astienth/VR-Mods-Projects) - 
 - [Mindbaz/awesome-opensource-email](https://github.com/Mindbaz/awesome-opensource-email) - Awesome Opensource Email Resources
 - [S0und/S0undTV](https://github.com/S0und/S0undTV) - An alternative app to watch the Twitch streaming service for Android TV devices
@@ -392,6 +393,7 @@
 
 ## PowerShell 
 
+- [marlocarlo/psmux](https://github.com/marlocarlo/psmux) - Tmux on Windows Powershell - tmux for PowerShell, Windows Terminal, cmd.exe. Includes psmux, pmux, and tmux commands. This is native Powershell Tmux designed for Windows in Rust 🦀
 - [wrinkdater/Posys-Cursors-Improved-by-wrinkdater](https://github.com/wrinkdater/Posys-Cursors-Improved-by-wrinkdater) - The source cursors were created by the Michiel de Boer aka Posy: http://www.michieldb.nl/other/cursors/
 - [ScoopInstaller/Scoop](https://github.com/ScoopInstaller/Scoop) - A command-line installer for Windows.
 - [ShivamXD6/Optimize-Windows](https://github.com/ShivamXD6/Optimize-Windows) - This repository contains an Answer File and Scripts designed to optimize and streamline your Windows installation, making it perfect for gaming, power users, and even low-end laptops or PCs. 🎮💻
@@ -400,6 +402,7 @@
 
 ## Python 
 
+- [p-e-w/heretic](https://github.com/p-e-w/heretic) - Fully automatic censorship removal for language models
 - [jtesta/ssh-audit](https://github.com/jtesta/ssh-audit) - SSH server & client security auditing (banner, key exchange, encryption, mac, compression, compatibility, security, etc)
 - [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - An autonomous agent that conducts deep research on any data using any LLM providers
 - [rohitg00/kubectl-mcp-server](https://github.com/rohitg00/kubectl-mcp-server) - A Model Context Protocol (MCP) server for Kubernetes. Install: npx kubectl-mcp-server or pip install kubectl-mcp-server
@@ -441,10 +444,9 @@
 
 ## Rust 
 
-- [marlocarlo/psmux](https://github.com/marlocarlo/psmux) - Tmux on Windows Powershell - tmux for PowerShell, Windows Terminal, cmd.exe. Includes psmux, pmux, and tmux commands. This is native Powershell Tmux designed for Windows in Rust 🦀
 - [erebe/wstunnel](https://github.com/erebe/wstunnel) - Tunnel all your traffic over Websocket or HTTP2 - Bypass firewalls/DPI - Static binary available
 - [localgpt-app/localgpt](https://github.com/localgpt-app/localgpt) - Local AI assistant, dreaming explorable worlds.
-- [agavra/tuicr](https://github.com/agavra/tuicr) - A human-in-the-loop code review TUI for AI-generated changes.
+- [agavra/tuicr](https://github.com/agavra/tuicr) - a terminal UI for local code review
 - [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
 - [ck-zhang/reddix](https://github.com/ck-zhang/reddix) - Reddix – Reddit, refined for the terminal.
 - [ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle) - A Flash Player emulator written in Rust
@@ -470,6 +472,7 @@
 
 ## Shell 
 
+- [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) - A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, a
 - [OldUnreal/FullGameInstallers](https://github.com/OldUnreal/FullGameInstallers) - This is the (partial) source code for the Unreal Gold and Unreal Tournament GOTY installers we host on OldUnreal.com
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
 - [corbindavenport/just-the-browser](https://github.com/corbindavenport/just-the-browser) - Remove AI features, telemetry data reporting, sponsored content, product integrations, and other annoyances from web browsers.

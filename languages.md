@@ -410,6 +410,7 @@
 
 ## Python 
 
+- [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) - SRE Agent - CNCF Sandbox Project
 - [p-e-w/heretic](https://github.com/p-e-w/heretic) - Fully automatic censorship removal for language models
 - [jtesta/ssh-audit](https://github.com/jtesta/ssh-audit) - SSH server & client security auditing (banner, key exchange, encryption, mac, compression, compatibility, security, etc)
 - [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - An autonomous agent that conducts deep research on any data using any LLM providers
@@ -483,6 +484,7 @@
 
 ## Shell 
 
+- [realad/waf-testing](https://github.com/realad/waf-testing) - A lightweight toolkit for testing Web Application Firewall (WAF) effectiveness and identifying security gaps. This repository is available as a template that you can quickly customize for your own WAF
 - [Steam-Headless/docker-steam-headless](https://github.com/Steam-Headless/docker-steam-headless) - A Headless Steam Docker image supporting NVIDIA GPU and accessible via Web UI
 - [games-on-whales/gow](https://github.com/games-on-whales/gow) - A collection of Dockerized games and apps like Steam, Firefox and Retroarch
 - [crowdsecurity/helm-charts](https://github.com/crowdsecurity/helm-charts) - CrowdSec community kubernetes helm charts
@@ -540,6 +542,7 @@
 
 ## TypeScript 
 
+- [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Make videos programmatically with React
 - [badlogic/pi-mono](https://github.com/badlogic/pi-mono) - AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
 - [SecH0us3/waf-checker](https://github.com/SecH0us3/waf-checker) - 
 - [whazor/k8s-at-home-search](https://github.com/whazor/k8s-at-home-search) - Your Gateway Drug to Kubernetes at Home!

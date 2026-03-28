@@ -598,6 +598,7 @@
 
 ## Zig 
 
+- [nullclaw/nullclaw](https://github.com/nullclaw/nullclaw) - Fastest, smallest, and fully autonomous AI assistant infrastructure written in Zig
 - [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
 
 

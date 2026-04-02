@@ -923,6 +923,8 @@
 
 ## others 
 
+- [rashevskyv/dbi](https://github.com/rashevskyv/dbi) - Author is duckbill
+- [danieldugas/HYPERHELL](https://github.com/danieldugas/HYPERHELL) - Welcome to HYPERHELL, the first 4-Dimensional DOOM-Like of its kind.
 - [hectorm/docker-qemu-win2000](https://github.com/hectorm/docker-qemu-win2000) - A Docker image for Windows 2000 Advanced Server with SP4.
 - [PNRxA/openposterdb](https://github.com/PNRxA/openposterdb) - A self-hosted, drop-in replacement for RPDB (Rating Poster Database).
 - [badlogic/pi-mono](https://github.com/badlogic/pi-mono) - AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
@@ -931,7 +933,7 @@
 - [TonWonton/RE9_CustomCameraFOV](https://github.com/TonWonton/RE9_CustomCameraFOV) - Custom camera FOV mod / plugin for RE9. Set different FOV for third person, first person, and ADS. Can also disable ADS zoom as well as choose between different FOV scaling types (set exact values, or
 - [crowdsecurity/helm-charts](https://github.com/crowdsecurity/helm-charts) - CrowdSec community kubernetes helm charts
 - [crowded-street/3sx](https://github.com/crowded-street/3sx) - "The Third of the Third" ported to modern platforms
-- [aelassas/servy](https://github.com/aelassas/servy) - Turn Any App into a Native Windows Service - Full-Featured Alternative to NSSM, WinSW & FireDaemon Pro
+- [aelassas/servy](https://github.com/aelassas/servy) - Turn Any App into a Native Windows Service - A Modern Alternative to NSSM, WinSW & FireDaemon Pro
 - [pbakaus/impeccable](https://github.com/pbakaus/impeccable) - The design language that makes your AI harness better at design.
 - [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) - A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, a
 - [es617/claude-replay](https://github.com/es617/claude-replay) - Convert AI coding agent sessions (Claude Code, Cursor, Codex, Gemini, OpenCode) into self-contained, embeddable HTML  replays

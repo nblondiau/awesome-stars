@@ -315,7 +315,7 @@
 - [philippemerle/KubeDiagrams](https://github.com/philippemerle/KubeDiagrams) - Generate Kubernetes architecture diagrams from Kubernetes manifest files, kustomization files, Helm charts, helmfiles, and actual cluster state
 - [schlagmichdoch/PairDrop](https://github.com/schlagmichdoch/PairDrop) - PairDrop: Transfer Files Cross-Platform. No Setup, No Signup.
 - [tl-open-source/tl-rtc-file](https://github.com/tl-open-source/tl-rtc-file) - WebRTC P2P online web media streaming tool (for files, video, screen, live streaming, text) with management and statistical monitoring capabilities.
-- [miroslavpejic85/mirotalksfu](https://github.com/miroslavpejic85/mirotalksfu) - 🏆 Open source Zoom alternative you can self host in minutes with WebRTC SFU
+- [miroslavpejic85/mirotalksfu](https://github.com/miroslavpejic85/mirotalksfu) - 🏆 Self-hosted open-source WebRTC video conferencing platform for real-time communication and collaboration. A modern Zoom alternative built on SFU architecture.
 - [benc-uk/kubeview](https://github.com/benc-uk/kubeview) - KubeView is a Kubernetes cluster visualization tool that provides a graphical representation of your cluster's resources and their relationships
 - [koodo-reader/koodo-reader](https://github.com/koodo-reader/koodo-reader) - A modern ebook manager and reader with sync and backup capacities for Windows, macOS, Linux, Android, iOS and Web
 - [pvdlg/conventional-changelog-metahub](https://github.com/pvdlg/conventional-changelog-metahub) - conventional-changelog preset
@@ -378,6 +378,7 @@
 
 ## Others 
 
+- [techiescamp/linux-foundation-coupon](https://github.com/techiescamp/linux-foundation-coupon) - Latest Linux Foundation Coupon Codes  For Certification, Courses, Skillcreds, IT Professional Programs and Skillcreds
 - [wolffcatskyy/awesome-crowdsec](https://github.com/wolffcatskyy/awesome-crowdsec) - A curated list of awesome CrowdSec resources, bouncers, integrations, and tools
 - [ivbeg/awesome-status-pages](https://github.com/ivbeg/awesome-status-pages) - Awesome list of status page open source software, services and public status pages of major internet companies
 - [bluszcz/awesome-xmpp](https://github.com/bluszcz/awesome-xmpp) - A curated list of delightful XMPP related resources.

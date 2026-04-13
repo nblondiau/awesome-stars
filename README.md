@@ -102,6 +102,7 @@
 - [node](#node)
 - [nodejs](#nodejs)
 - [npm](#npm)
+- [open-data](#open-data)
 - [open-source](#open-source)
 - [openai](#openai)
 - [opengl](#opengl)
@@ -477,6 +478,7 @@
 
 ## dotnet 
 
+- [openpotato/openholidaysapi](https://github.com/openpotato/openholidaysapi) - Web service for the OpenHolidays API project
 - [PintaProject/Pinta](https://github.com/PintaProject/Pinta) - Simple GTK Paint Program
 - [stakater/application](https://github.com/stakater/application) - Generic helm chart for all kind of applications
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System - Server Backend & API
@@ -770,6 +772,7 @@
 
 ## linux 
 
+- [ExTV/Podroid](https://github.com/ExTV/Podroid) - Rootless Podman for Android — run Linux containers on your phone
 - [crowdsecurity/crowdsec](https://github.com/crowdsecurity/crowdsec) - CrowdSec - the open-source and participative security solution offering crowdsourced protection against malicious IPs and access to the most advanced real-world CTI.
 - [variar/klogg](https://github.com/variar/klogg) - Really fast log explorer based on glogg project
 - [google/gvisor](https://github.com/google/gvisor) - Application Kernel for Containers
@@ -915,6 +918,10 @@
 - [Devolutions/UniGetUI](https://github.com/Devolutions/UniGetUI) - UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 
+## open-data 
+
+- [openpotato/openholidaysapi](https://github.com/openpotato/openholidaysapi) - Web service for the OpenHolidays API project
+
 ## open-source 
 
 - [OpenHub-Store/GitHub-Store](https://github.com/OpenHub-Store/GitHub-Store) - 🩵 A free, open-source app store for GitHub releases — browse, discover, and install apps with one click. Powered by Kotlin and Compose Multiplatform for Android & Desktop (Linux, MacOS, Windows).
@@ -947,7 +954,6 @@
 
 - [envido32/OR2006Sprites](https://github.com/envido32/OR2006Sprites) - A repository for hosting all the re-done sprites in OutRun2006: Coast 2 Coast.
 - [emoose/OutRun2006Tweaks](https://github.com/emoose/OutRun2006Tweaks) - Turning and spinning and spinning and turning, woah!
-- [ExTV/Podroid](https://github.com/ExTV/Podroid) - Rootless Podman for Android — run Linux containers on your phone
 - [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) - The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https://discord.gg/5TUQKqFWd Built in Rust using oh-my-codex.
 - [rashevskyv/dbi](https://github.com/rashevskyv/dbi) - Author is duckbill
 - [danieldugas/HYPERHELL](https://github.com/danieldugas/HYPERHELL) - Welcome to HYPERHELL, the first 4-Dimensional DOOM-Like of its kind.
@@ -1302,6 +1308,7 @@
 
 ## shell 
 
+- [ExTV/Podroid](https://github.com/ExTV/Podroid) - Rootless Podman for Android — run Linux containers on your phone
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
 - [tattoy-org/tattoy](https://github.com/tattoy-org/tattoy) - A text-based compositor for modern terminals
 - [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - Oh my tmux! My self-contained, pretty & versatile tmux configuration made with 💛🩷💙🖤❤️🤍

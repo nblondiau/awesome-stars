@@ -31,6 +31,7 @@
 - [Makefile](#makefile)
 - [Mustache](#mustache)
 - [Nix](#nix)
+- [OCaml](#ocaml)
 - [Others](#others)
 - [PHP](#php)
 - [Perl](#perl)
@@ -380,6 +381,10 @@
 ## Nix 
 
 - [the-nix-way/dev-templates](https://github.com/the-nix-way/dev-templates) - Dev environments for numerous languages based on Nix flakes [maintainer=@lucperkins]
+
+## OCaml 
+
+- [semgrep/semgrep](https://github.com/semgrep/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
 
 ## Others 
 

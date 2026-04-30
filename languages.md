@@ -170,7 +170,6 @@
 ## Go 
 
 - [project-copacetic/copacetic](https://github.com/project-copacetic/copacetic) - 🧵 CLI tool for directly patching container images!
-- [nakagami/grdpwasm](https://github.com/nakagami/grdpwasm) - 
 - [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server
 - [versity/versitygw](https://github.com/versity/versitygw) - A simple to deploy but feature rich S3 object storage server for your filesystem
 - [prometheus/blackbox_exporter](https://github.com/prometheus/blackbox_exporter) - Blackbox prober exporter
@@ -274,6 +273,7 @@
 
 ## HTML 
 
+- [nakagami/grdpwasm](https://github.com/nakagami/grdpwasm) - 
 - [Psycojoker/prosopopee](https://github.com/Psycojoker/prosopopee) - a static website generator to make beautiful customizable pictures galleries that tell a story
 - [danieldugas/HYPERHELL](https://github.com/danieldugas/HYPERHELL) - Welcome to HYPERHELL, the first 4-Dimensional DOOM-Like of its kind.
 - [promptpirate-x/discord-id-bypass-tool](https://github.com/promptpirate-x/discord-id-bypass-tool) - A verified tool that works on any potato computer that will let you bypass discord verification
@@ -294,6 +294,7 @@
 
 ## Java 
 
+- [ExTV/Podroid](https://github.com/ExTV/Podroid) - Rootless Podman for Android — run Linux containers on your phone
 - [SimonHalvdansson/Harmonic-HN](https://github.com/SimonHalvdansson/Harmonic-HN) - Modern Android client for Hacker News
 - [ClassicOldSong/moonlight-android](https://github.com/ClassicOldSong/moonlight-android) - GameStream client for Android
 - [Anuken/Mindustry](https://github.com/Anuken/Mindustry) - The automation tower defense RTS
@@ -348,7 +349,6 @@
 
 ## Kotlin 
 
-- [ExTV/Podroid](https://github.com/ExTV/Podroid) - Rootless Podman for Android — run Linux containers on your phone
 - [mpv-android/mpv-android](https://github.com/mpv-android/mpv-android) - video player for Android based on libmpv ↦ #mpv-android @ irc.libera.chat
 - [MorpheApp/morphe-manager](https://github.com/MorpheApp/morphe-manager) - Morphe app patcher for Android
 - [anujja/DoNotNotify](https://github.com/anujja/DoNotNotify) - DoNotNotify app
@@ -486,6 +486,9 @@
 
 ## Rust 
 
+- [raine/consult-llm](https://github.com/raine/consult-llm) - Get a second opinion from another AI model
+- [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
+- [linyinfeng/angrr](https://github.com/linyinfeng/angrr) - Auto Nix GC Root Retention
 - [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) - The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https://discord.gg/5TUQKqFWd Built in Rust using oh-my-codex.
 - [aaif-goose/goose](https://github.com/aaif-goose/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
 - [PNRxA/openposterdb](https://github.com/PNRxA/openposterdb) - A self-hosted, drop-in replacement for RPDB (Rating Poster Database).
@@ -572,6 +575,7 @@
 
 ## TypeScript 
 
+- [sirmalloc/ccstatusline](https://github.com/sirmalloc/ccstatusline) - 🚀 Beautiful highly customizable statusline for Claude Code CLI with powerline support, themes, and more.
 - [CyberShadow/CyDo](https://github.com/CyberShadow/CyDo) - UI and orchestration for AI coding agents
 - [OneUptime/oneuptime](https://github.com/OneUptime/oneuptime) - Complete open-source monitoring and observability platform.
 - [emdash-cms/emdash](https://github.com/emdash-cms/emdash) - EmDash is a full-stack TypeScript CMS based on Astro; the spiritual successor to WordPress

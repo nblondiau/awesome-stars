@@ -172,6 +172,7 @@
 
 ## Go 
 
+- [aragossa/pii-shield](https://github.com/aragossa/pii-shield) - Zero-code K8s sidecar for log sanitization. Detects secrets via Entropy Analysis, preserves JSON integrity, and redacts PII deterministically. 🛡️
 - [Evaneos/kubectl-readonly](https://github.com/Evaneos/kubectl-readonly) - A kubectl wrapper that only allows read-only commands. Designed to prevent accidental modifications when AI assistants (like Claude) explore Kubernetes clusters, including production.
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
 - [project-copacetic/copacetic](https://github.com/project-copacetic/copacetic) - 🧵 CLI tool for directly patching container images!
@@ -390,6 +391,7 @@
 
 ## Nix 
 
+- [numtide/devshell](https://github.com/numtide/devshell) - Per project developer environments
 - [the-nix-way/dev-templates](https://github.com/the-nix-way/dev-templates) - Dev environments for numerous languages based on Nix flakes [maintainer=@lucperkins]
 
 ## OCaml 
@@ -587,6 +589,8 @@
 
 ## TypeScript 
 
+- [MasuRii/pi-tool-display](https://github.com/MasuRii/pi-tool-display) - Compact tool call rendering, diff visualization, and output truncation extension for Pi coding agent. Hides, collapses, and truncates verbose tool output for cleaner TUI display.
+- [MasuRii/pi-rtk-optimizer](https://github.com/MasuRii/pi-rtk-optimizer) - Pi extension that optimizes RTK command rewriting and tool output compaction for the coding agent.
 - [sirmalloc/ccstatusline](https://github.com/sirmalloc/ccstatusline) - 🚀 Beautiful highly customizable statusline for Claude Code CLI with powerline support, themes, and more.
 - [CyberShadow/CyDo](https://github.com/CyberShadow/CyDo) - UI and orchestration for AI coding agents
 - [OneUptime/oneuptime](https://github.com/OneUptime/oneuptime) - Complete open-source monitoring and observability platform.

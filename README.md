@@ -1007,6 +1007,7 @@
 
 ## others 
 
+- [BaderBC/halupedia](https://github.com/BaderBC/halupedia) - Encyclopedia that hallucinates articles on the fly
 - [numtide/devshell](https://github.com/numtide/devshell) - Per project developer environments
 - [effcol/wiz3D](https://github.com/effcol/wiz3D) - A universal stereoscopic 3D wrapper for DirectX, OpenGL, AMD HD3D and Nvidia 3D Vision. Based on iZ3D.
 - [ticohq/tico](https://github.com/ticohq/tico) - The first custom emulation frontend for Nintendo Switch — a controller-first, native C++ interface designed for performance, simplicity, and long-term portability.
@@ -1030,7 +1031,7 @@
 - [danieldugas/HYPERHELL](https://github.com/danieldugas/HYPERHELL) - Welcome to HYPERHELL, the first 4-Dimensional DOOM-Like of its kind.
 - [hectorm/docker-qemu-win2000](https://github.com/hectorm/docker-qemu-win2000) - A Docker image for Windows 2000 Advanced Server with SP4.
 - [PNRxA/openposterdb](https://github.com/PNRxA/openposterdb) - A self-hosted, drop-in replacement for RPDB (Rating Poster Database).
-- [badlogic/pi-mono](https://github.com/badlogic/pi-mono) - AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
+- [earendil-works/pi](https://github.com/earendil-works/pi) - AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
 - [SecH0us3/waf-checker](https://github.com/SecH0us3/waf-checker) - 
 - [maxlerebourg/crowdsec-bouncer-traefik-plugin](https://github.com/maxlerebourg/crowdsec-bouncer-traefik-plugin) - Traefik plugin for Crowdsec - WAF and IP protection
 - [TonWonton/RE9_CustomCameraFOV](https://github.com/TonWonton/RE9_CustomCameraFOV) - Custom camera FOV mod / plugin for RE9. Set different FOV for third person, first person, and ADS. Can also disable ADS zoom as well as choose between different FOV scaling types (set exact values, or

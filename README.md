@@ -1018,7 +1018,7 @@
 - [raine/consult-llm](https://github.com/raine/consult-llm) - Get a second opinion from another AI model
 - [linyinfeng/angrr](https://github.com/linyinfeng/angrr) - Auto Nix GC Root Retention
 - [CyberShadow/CyDo](https://github.com/CyberShadow/CyDo) - UI and orchestration for AI coding agents
-- [nakagami/grdpwasm](https://github.com/nakagami/grdpwasm) - 
+- [nakagami/grdpwasm](https://github.com/nakagami/grdpwasm) - A web-based RDP client
 - [kyverno/policies](https://github.com/kyverno/policies) - Kyverno policies for security and best practices
 - [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server
 - [versity/versitygw](https://github.com/versity/versitygw) - A simple to deploy but feature rich S3 object storage server for your filesystem

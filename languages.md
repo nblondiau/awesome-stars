@@ -280,7 +280,7 @@
 
 ## HTML 
 
-- [nakagami/grdpwasm](https://github.com/nakagami/grdpwasm) - 
+- [nakagami/grdpwasm](https://github.com/nakagami/grdpwasm) - A web-based RDP client
 - [Psycojoker/prosopopee](https://github.com/Psycojoker/prosopopee) - a static website generator to make beautiful customizable pictures galleries that tell a story
 - [danieldugas/HYPERHELL](https://github.com/danieldugas/HYPERHELL) - Welcome to HYPERHELL, the first 4-Dimensional DOOM-Like of its kind.
 - [promptpirate-x/discord-id-bypass-tool](https://github.com/promptpirate-x/discord-id-bypass-tool) - A verified tool that works on any potato computer that will let you bypass discord verification

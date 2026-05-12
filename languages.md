@@ -494,7 +494,7 @@
 
 ## Rust 
 
-- [yuanchuan/aivo](https://github.com/yuanchuan/aivo) - Aivo is a command-line tool that connects your coding agent to almost any model. It also includes built-in models out of the box — no API keys, no signup.
+- [yuanchuan/aivo](https://github.com/yuanchuan/aivo) - Aivo is a command-line tool that connects your favorite coding agent to almost any model. It also ships with built-in free models to use — no API keys, no signup.
 - [lahfir/agent-desktop](https://github.com/lahfir/agent-desktop) - Native desktop automation CLI for AI agents. Control any application through OS accessibility trees with structured JSON output and deterministic element refs.
 - [raine/consult-llm](https://github.com/raine/consult-llm) - Get a second opinion from another AI model
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
@@ -578,6 +578,7 @@
 
 ## TypeScript 
 
+- [upstash/context7](https://github.com/upstash/context7) - Context7 Platform -- Up-to-date code documentation for LLMs and AI code editors
 - [sirmalloc/ccstatusline](https://github.com/sirmalloc/ccstatusline) - 🚀 Beautiful highly customizable statusline for Claude Code CLI with powerline support, themes, and more.
 - [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) - DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.
 - [MasuRii/pi-tool-display](https://github.com/MasuRii/pi-tool-display) - Compact tool call rendering, diff visualization, and output truncation extension for Pi coding agent. Hides, collapses, and truncates verbose tool output for cleaner TUI display.

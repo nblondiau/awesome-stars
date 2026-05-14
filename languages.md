@@ -41,7 +41,6 @@
 - [Rust](#rust)
 - [SCSS](#scss)
 - [Shell](#shell)
-- [Starlark](#starlark)
 - [Swift](#swift)
 - [Tree-sitter Query](#tree-sitter-query)
 - [TypeScript](#typescript)
@@ -384,6 +383,7 @@
 
 ## Mustache 
 
+- [stakater/application](https://github.com/stakater/application) - Generic Helm chart for deploying stateless applications on Kubernetes
 - [gimlet-io/onechart](https://github.com/gimlet-io/onechart) - A generic Helm chart for your application deployments
 
 ## Nix 
@@ -563,10 +563,6 @@
 - [jpetazzo/container.training](https://github.com/jpetazzo/container.training) - Slides and code samples for training, tutorials, and workshops about Docker, containers, and Kubernetes.
 - [eduardofilo/RG350_adam_image](https://github.com/eduardofilo/RG350_adam_image) - 
 - [hiulit/RetroPie-Convert-Videos](https://github.com/hiulit/RetroPie-Convert-Videos) - A tool for RetroPie to convert videos.
-
-## Starlark 
-
-- [stakater/application](https://github.com/stakater/application) - Generic helm chart for all kind of applications
 
 ## Swift 
 

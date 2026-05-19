@@ -297,7 +297,7 @@
 ## claude-code 
 
 - [sirmalloc/ccstatusline](https://github.com/sirmalloc/ccstatusline) - 🚀 Beautiful highly customizable statusline for Claude Code CLI with powerline support, themes, and more.
-- [yuanchuan/aivo](https://github.com/yuanchuan/aivo) - Aivo is a command-line tool that connects your favorite coding agent to almost any model. It also ships with built-in free models to use — no API keys, no signup.
+- [yuanchuan/aivo](https://github.com/yuanchuan/aivo) - Aivo is a command-line tool that connects your favorite coding agent to almost any model.
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [Jeffallan/claude-skills](https://github.com/Jeffallan/claude-skills) - 66 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.
 - [es617/claude-replay](https://github.com/es617/claude-replay) - Convert AI coding agent sessions (Claude Code, Cursor, Codex, Gemini, OpenCode) into self-contained, embeddable HTML  replays

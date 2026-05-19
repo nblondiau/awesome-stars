@@ -494,7 +494,7 @@
 
 ## Rust 
 
-- [yuanchuan/aivo](https://github.com/yuanchuan/aivo) - Aivo is a command-line tool that connects your favorite coding agent to almost any model. It also ships with built-in free models to use — no API keys, no signup.
+- [yuanchuan/aivo](https://github.com/yuanchuan/aivo) - Aivo is a command-line tool that connects your favorite coding agent to almost any model.
 - [lahfir/agent-desktop](https://github.com/lahfir/agent-desktop) - Native desktop automation CLI for AI agents. Control any application through OS accessibility trees with structured JSON output and deterministic element refs.
 - [raine/consult-llm](https://github.com/raine/consult-llm) - Get a second opinion from another AI model
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies

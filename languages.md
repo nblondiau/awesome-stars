@@ -136,8 +136,6 @@
 - [eliboa/TegraRcmGUI](https://github.com/eliboa/TegraRcmGUI) - C++ GUI for TegraRcmSmash (Fusée Gelée exploit for Nintendo Switch)
 - [zhongyang219/TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor) - 这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。
 - [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
-- [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine) - Self-hosted game stream host for Moonlight.
-- [wazuh/wazuh](https://github.com/wazuh/wazuh) - Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.
 - [KDE/krita](https://github.com/KDE/krita) - Krita is a free and open source cross-platform application that offers an end-to-end solution for creating digital art files from scratch built on the KDE and Qt frameworks.
 - [finalburnneo/FBNeo](https://github.com/finalburnneo/FBNeo) - FinalBurn Neo - We are Team FBNeo.
 - [ramensoftware/windhawk](https://github.com/ramensoftware/windhawk) - The customization marketplace for Windows programs: https://windhawk.net/
@@ -171,11 +169,9 @@
 
 ## Go 
 
-- [sipeed/picoclaw](https://github.com/sipeed/picoclaw) - Tiny, Fast, and Deployable anywhere — automate the mundane, unleash your creativity
 - [musana/CF-Hero](https://github.com/musana/CF-Hero) - CF-Hero is a reconnaissance tool that uses multiple data sources to discover the origin IP addresses of Cloudflare-protected web applications
 - [actions/actions-runner-controller](https://github.com/actions/actions-runner-controller) - Kubernetes controller for GitHub Actions self-hosted runners
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) - Glamourous agentic coding for all 💘
-- [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) - DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.
 - [Evaneos/kubectl-readonly](https://github.com/Evaneos/kubectl-readonly) - A kubectl wrapper that only allows read-only commands. Designed to prevent accidental modifications when AI assistants (like Claude) explore Kubernetes clusters, including production.
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
 - [project-copacetic/copacetic](https://github.com/project-copacetic/copacetic) - 🧵 CLI tool for directly patching container images!
@@ -183,7 +179,6 @@
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [pinpox/opencrow](https://github.com/pinpox/opencrow) - Personal AI assistant via Matrix Chat - A slightly saner alternative to OpenClaw
 - [maxlerebourg/crowdsec-bouncer-traefik-plugin](https://github.com/maxlerebourg/crowdsec-bouncer-traefik-plugin) - Traefik plugin for Crowdsec - WAF and IP protection
-- [aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator) - Kubernetes-native security toolkit
 - [gianlucam76/k8s-cleaner](https://github.com/gianlucam76/k8s-cleaner) - Cleaner is a Kubernetes controller that identifies unused or unhealthy resources, helping you maintain a streamlined and efficient Kubernetes cluster. It provides flexible scheduling, label filtering,
 - [crowdsecurity/crowdsec](https://github.com/crowdsecurity/crowdsec) - CrowdSec - the open-source and participative security solution offering crowdsourced protection against malicious IPs and access to the most advanced real-world CTI.
 - [FairwindsOps/pluto](https://github.com/FairwindsOps/pluto) - A cli tool to help discover deprecated apiVersions in Kubernetes
@@ -232,10 +227,8 @@
 - [vladimirvivien/ktop](https://github.com/vladimirvivien/ktop) - A top-like tool for your Kubernetes cluster metrics
 - [yonahd/kor](https://github.com/yonahd/kor) - A Golang Tool to discover unused Kubernetes Resources
 - [applejag/kubectl-klock](https://github.com/applejag/kubectl-klock) - A kubectl plugin to render watch output in a more readable fashion
-- [corneliusweig/ketall](https://github.com/corneliusweig/ketall) - Like `kubectl get all`, but get really all resources
 - [clbx/kubectl-browse-pvc](https://github.com/clbx/kubectl-browse-pvc) - Kubectl plugin for browsing PVCs on the command line
 - [keisku/kubectl-explore](https://github.com/keisku/kubectl-explore) - A better kubectl explain with the fuzzy finder
-- [marvasgit/kubestatewatch](https://github.com/marvasgit/kubestatewatch) - KubeStateWatch is a Statemonitor for k8s used  to send notification with when and what exactly was changed to multiple channels
 - [kubernetes-sigs/krew](https://github.com/kubernetes-sigs/krew) - 📦 Find and install kubectl plugins
 - [stern/stern](https://github.com/stern/stern) - ⎈ Multi pod and container log tailing for Kubernetes -- Friendly fork of https://github.com/wercker/stern
 - [KubeElasti/KubeElasti](https://github.com/KubeElasti/KubeElasti) - Kubernetes-native scale-to-zero with zero traffic loss, no code changes, and direct integration with kubernetes resources
@@ -258,7 +251,6 @@
 - [jaredallard/ingress-anubis](https://github.com/jaredallard/ingress-anubis) - [MIRROR] Ingress anubis controller (chaining ingress-nginx)
 - [goodrain/rainbond](https://github.com/goodrain/rainbond) - A container platform that needs no Kubernetes learning, Build, deploy, assemble, and manage apps on Kubernetes, no K8s expertise needed, all in a graphical platform.
 - [klaudworks/kubeconfig-operator](https://github.com/klaudworks/kubeconfig-operator) - Kubernetes operator that creates and manages permission-restricted kubeconfigs
-- [crumbhole/argocd-lovely-plugin](https://github.com/crumbhole/argocd-lovely-plugin) - A plugin to make Argo CD behave like we'd like.
 - [jkulzer/kubefetch](https://github.com/jkulzer/kubefetch) - neofetch-like tool to show info about you Kubernetes Cluster
 - [qdm12/cod4-docker](https://github.com/qdm12/cod4-docker) - Runs a Call of duty 4 Modern Warfare (cod4x) dedicated server in a Docker container.
 
@@ -295,6 +287,7 @@
 
 ## Java 
 
+- [AsamK/signal-cli](https://github.com/AsamK/signal-cli) - signal-cli provides an unofficial commandline, JSON-RPC and dbus interface for the Signal messenger.
 - [SimonHalvdansson/Harmonic-HN](https://github.com/SimonHalvdansson/Harmonic-HN) - Modern Android client for Hacker News
 - [ClassicOldSong/moonlight-android](https://github.com/ClassicOldSong/moonlight-android) - GameStream client for Android
 - [Anuken/Mindustry](https://github.com/Anuken/Mindustry) - The automation tower defense RTS
@@ -324,11 +317,9 @@
 - [sandstorm-io/sandstorm](https://github.com/sandstorm-io/sandstorm) - Sandstorm is a self-hostable web productivity suite. It's implemented as a security-hardened web app package manager. | Actively sponsored by our friends at TestMu AI
 - [commitizen/cz-cli](https://github.com/commitizen/cz-cli) - The commitizen command line utility. #BlackLivesMatter
 - [lockfale/OSINT-Framework](https://github.com/lockfale/OSINT-Framework) - OSINT Framework
-- [philippemerle/KubeDiagrams](https://github.com/philippemerle/KubeDiagrams) - Generate Kubernetes architecture diagrams from Kubernetes manifest files, kustomization files, Helm charts, helmfiles, and actual cluster state
 - [schlagmichdoch/PairDrop](https://github.com/schlagmichdoch/PairDrop) - PairDrop: Transfer Files Cross-Platform. No Setup, No Signup.
 - [tl-open-source/tl-rtc-file](https://github.com/tl-open-source/tl-rtc-file) - WebRTC P2P online web media streaming tool (for files, video, screen, live streaming, text) with management and statistical monitoring capabilities.
 - [miroslavpejic85/mirotalksfu](https://github.com/miroslavpejic85/mirotalksfu) - 🏆 Self-hosted, open-source WebRTC video conferencing platform for real-time communication and collaboration. A modern alternative to Zoom, built on SFU architecture.
-- [benc-uk/kubeview](https://github.com/benc-uk/kubeview) - KubeView is a Kubernetes cluster visualization tool that provides a graphical representation of your cluster's resources and their relationships
 - [koodo-reader/koodo-reader](https://github.com/koodo-reader/koodo-reader) - A modern ebook manager and reader with sync and backup capacities for Windows, macOS, Linux, Android, iOS and Web
 - [pvdlg/conventional-changelog-metahub](https://github.com/pvdlg/conventional-changelog-metahub) - conventional-changelog preset
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
@@ -367,7 +358,6 @@
 - [edneyosf/Edconv](https://github.com/edneyosf/Edconv) - A user-friendly FFmpeg GUI
 - [MetrolistGroup/Metrolist](https://github.com/MetrolistGroup/Metrolist) - YouTube Music client for Android
 - [zacharee/Tweaker](https://github.com/zacharee/Tweaker) - 
-- [ReVanced/revanced-manager](https://github.com/ReVanced/revanced-manager) - 💊 Application to use ReVanced on Android
 - [parallelcc/MiCTS](https://github.com/parallelcc/MiCTS) - Trigger Circle to Search on any Android 9–16 device
 
 ## Lua 
@@ -504,7 +494,6 @@
 
 ## Rust 
 
-- [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) - Fast, small, and fully autonomous AI personal assistant infrastructure, any OS, any platform — deploy anywhere, swap anything 🦀
 - [yuanchuan/aivo](https://github.com/yuanchuan/aivo) - Use your favorite coding agent with the model you want.
 - [lahfir/agent-desktop](https://github.com/lahfir/agent-desktop) - Native desktop automation CLI for AI agents. Control any application through OS accessibility trees with structured JSON output and deterministic element refs.
 - [raine/consult-llm](https://github.com/raine/consult-llm) - Get a second opinion from another AI model

@@ -167,6 +167,7 @@
 
 ## agent 
 
+- [alibaba/open-code-review](https://github.com/alibaba/open-code-review) - Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-
 - [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - An autonomous agent that conducts deep research on any data using any LLM providers
 - [localgpt-app/localgpt](https://github.com/localgpt-app/localgpt) - Local AI assistant, dreaming explorable worlds.
 
@@ -346,6 +347,7 @@
 
 ## code-review 
 
+- [alibaba/open-code-review](https://github.com/alibaba/open-code-review) - Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-
 - [agavra/tuicr](https://github.com/agavra/tuicr) - a code review TUI with vim keybindings
 
 ## coding 
@@ -731,6 +733,7 @@
 
 ## kubernetes 
 
+- [element-hq/ess-helm](https://github.com/element-hq/ess-helm) - Element Server Suite Community Edition
 - [actions/actions-runner-controller](https://github.com/actions/actions-runner-controller) - Kubernetes controller for GitHub Actions self-hosted runners
 - [theplatformlab/CKA-Certified-Kubernetes-Administrator](https://github.com/theplatformlab/CKA-Certified-Kubernetes-Administrator) - CKA Certification Exam Guide 2026 — study notes, practice questions, kubectl cheat sheet, exam tips, and full Kubernetes v1.35 syllabus breakdown. Covers etcd backup, RBAC, kubeadm, Gateway API, Netwo
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
@@ -993,6 +996,8 @@
 
 ## others 
 
+- [speedyapply/JobSpy](https://github.com/speedyapply/JobSpy) - Jobs scraper library for LinkedIn, Indeed, Glassdoor, Google, ZipRecruiter & more
+- [borgius/jobspy-mcp-server](https://github.com/borgius/jobspy-mcp-server) - MCP server to search for jobs across multiple job listing platforms
 - [nikkiluzader/mapng](https://github.com/nikkiluzader/mapng) - 
 - [ultraworkers/hermes-agent-helm-chart](https://github.com/ultraworkers/hermes-agent-helm-chart) - The community-driven unofficial chart packages Hermes Agent for Kubernetes with cloud-native defaults, explicit state-safety guardrails, and flexible composition points for platform teams.
 - [rebane2001/xikipedia](https://github.com/rebane2001/xikipedia) - Wikipedia as a social media feed
@@ -1004,7 +1009,7 @@
 - [FrancescoGrazioso/Meld](https://github.com/FrancescoGrazioso/Meld) - YouTube Music client for Android with Spotify integrations
 - [numtide/devshell](https://github.com/numtide/devshell) - Per project developer environments
 - [effcol/wiz3D](https://github.com/effcol/wiz3D) - A universal stereoscopic 3D wrapper for DirectX, OpenGL, AMD HD3D and Nvidia 3D Vision. Based on iZ3D.
-- [ticohq/tico](https://github.com/ticohq/tico) - The first custom emulation frontend for Nintendo Switch — a controller-first, native C++ interface designed for performance, simplicity, and long-term portability.
+- [ticohq/tico](https://github.com/ticohq/tico) - The first custom emulation frontend for Nintendo Switch. A controller-first interface built for performance and simplicity.
 - [Evaneos/kubectl-readonly](https://github.com/Evaneos/kubectl-readonly) - A kubectl wrapper that only allows read-only commands. Designed to prevent accidental modifications when AI assistants (like Claude) explore Kubernetes clusters, including production.
 - [aattaran/deepclaude](https://github.com/aattaran/deepclaude) - Use Claude Code's autonomous agent loop with DeepSeek V4 Pro, OpenRouter, or any Anthropic-compatible backend. Same UX, 17x cheaper.
 - [breezy-weather/breezy-weather](https://github.com/breezy-weather/breezy-weather) - A feature-rich weather app with good visualizations and more than 50 sources.

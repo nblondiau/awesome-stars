@@ -213,6 +213,7 @@
 
 ## android 
 
+- [avadhesh18/at4k](https://github.com/avadhesh18/at4k) - AT4K Launcher
 - [MorpheApp/morphe-manager](https://github.com/MorpheApp/morphe-manager) - Morphe app patcher for Android
 - [kurikomi-labs/komi-store](https://github.com/kurikomi-labs/komi-store) - 🩵 A free, open-source app store for developers' releases on GitHub, Codeberg & Forgejo — browse, discover, and install apps with one click. Formerly GitHub Store.
 - [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium) - Get Android app updates straight from the source.
@@ -1006,6 +1007,7 @@
 
 ## others 
 
+- [tamnd/kage](https://github.com/tamnd/kage) - Shadow any website for offline viewing, with the JavaScript stripped out
 - [NuvioMedia/NuvioTV](https://github.com/NuvioMedia/NuvioTV) - Official Nuvio Android TV Repository
 - [speedyapply/JobSpy](https://github.com/speedyapply/JobSpy) - Jobs scraper library for LinkedIn, Indeed, Glassdoor, Google, ZipRecruiter & more
 - [borgius/jobspy-mcp-server](https://github.com/borgius/jobspy-mcp-server) - MCP server to search for jobs across multiple job listing platforms

@@ -1095,7 +1095,7 @@
 - [Atmosphere-NX/Atmosphere](https://github.com/Atmosphere-NX/Atmosphere) - Atmosphère is a work-in-progress customized firmware for the Nintendo Switch.
 - [traefik/ingress-nginx-migration](https://github.com/traefik/ingress-nginx-migration) - Ingress Nginx Migration
 - [pingflood/gmenunx](https://github.com/pingflood/gmenunx) - A menu system for embedded devices, originally developed for the GP2X. Modernized for RetroFW and other systems under the name GMenuNX.
-- [sthetix/hekate-ext](https://github.com/sthetix/hekate-ext) - A GUI based Nintendo Switch Bootloader with extended feature
+- [sthetix/Hekatos](https://github.com/sthetix/Hekatos) - A GUI based Nintendo Switch Bootloader with extended feature
 - [paintdotnet/release](https://github.com/paintdotnet/release) - Downloads for Paint.NET, such as installer EXEs and portable ZIPs
 - [RetroDriven/Pocket_Updater](https://github.com/RetroDriven/Pocket_Updater) - Windows GUI Application to Update Cores for the Analogue Pocket
 - [veloxpack/csi-driver-rclone](https://github.com/veloxpack/csi-driver-rclone) - CSI driver built on top of rclone bringing cloud storage mounts to your pods with ease.

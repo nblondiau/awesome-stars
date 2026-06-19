@@ -1017,7 +1017,7 @@
 - [musana/CF-Hero](https://github.com/musana/CF-Hero) - CF-Hero is a reconnaissance tool that uses multiple data sources to discover the origin IP addresses of Cloudflare-protected web applications
 - [deepseek-ai/awesome-deepseek-agent](https://github.com/deepseek-ai/awesome-deepseek-agent) - 
 - [control-theory/dstl8](https://github.com/control-theory/dstl8) - dstl8 CLI distribution
-- [Flugan/Geo3D-Installer](https://github.com/Flugan/Geo3D-Installer) - 
+- [Flugan/Geo3D](https://github.com/Flugan/Geo3D) - 
 - [TwilitRealm/dusklight](https://github.com/TwilitRealm/dusklight) - Dusklight brings a classic adventure to PC and mobile platforms with a variety of fixes and improvements.
 - [FrancescoGrazioso/Meld](https://github.com/FrancescoGrazioso/Meld) - YouTube Music client for Android with Spotify integrations
 - [numtide/devshell](https://github.com/numtide/devshell) - Per project developer environments

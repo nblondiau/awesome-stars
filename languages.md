@@ -456,7 +456,7 @@
 - [element-hq/ess-helm](https://github.com/element-hq/ess-helm) - Element Server Suite Community Edition
 - [speedyapply/JobSpy](https://github.com/speedyapply/JobSpy) - Jobs scraper library for LinkedIn, Indeed, Glassdoor, Google, ZipRecruiter & more
 - [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - Lightweight, open-source AI agent for your tools, chats, and workflows.
-- [zenml-io/kitaru](https://github.com/zenml-io/kitaru) - Open-source platform layer for AI agents in production
+- [zenml-io/kitaru](https://github.com/zenml-io/kitaru) - Record, replay, and improve AI agents in production, built on ZenML
 - [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser) - Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.
 - [envido32/OR2006Sprites](https://github.com/envido32/OR2006Sprites) - A repository for hosting all the re-done sprites in OutRun2006: Coast 2 Coast.
 - [rashevskyv/dbi](https://github.com/rashevskyv/dbi) - Author is duckbill

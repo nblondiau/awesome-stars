@@ -1022,6 +1022,7 @@
 
 ## others 
 
+- [emberstack/helm-charts](https://github.com/emberstack/helm-charts) - Helm Charts
 - [itsthelore/wayfinder-router](https://github.com/itsthelore/wayfinder-router) - Simple CLI tool for deterministic routing of queries between local and hosted LLM models
 - [rixau/mullvad-kubernetes](https://github.com/rixau/mullvad-kubernetes) - 
 - [bitmagnet-io/bitmagnet](https://github.com/bitmagnet-io/bitmagnet) - A self-hosted BitTorrent indexer, DHT crawler, content classifier and torrent search engine with web UI, GraphQL API and Servarr stack integration.

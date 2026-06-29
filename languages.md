@@ -262,6 +262,7 @@
 
 ## Go Template 
 
+- [emberstack/helm-charts](https://github.com/emberstack/helm-charts) - Helm Charts
 - [CloudPirates-io/helm-charts](https://github.com/CloudPirates-io/helm-charts) - This repository contains public Helm Charts for commonly used software
 - [trueforge-org/truecharts](https://github.com/trueforge-org/truecharts) - Community Helm Chart Repository
 - [bjw-s-labs/helm-charts](https://github.com/bjw-s-labs/helm-charts) - A collection of Helm charts

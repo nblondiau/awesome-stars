@@ -1022,6 +1022,7 @@
 
 ## others 
 
+- [ngrok/webernetes](https://github.com/ngrok/webernetes) - Kubernetes in the browser.
 - [google/copybara](https://github.com/google/copybara) - Copybara: A tool for transforming and moving code between repositories.
 - [emberstack/helm-charts](https://github.com/emberstack/helm-charts) - Helm Charts
 - [itsthelore/wayfinder-router](https://github.com/itsthelore/wayfinder-router) - Simple CLI tool for deterministic routing of queries between local and hosted LLM models

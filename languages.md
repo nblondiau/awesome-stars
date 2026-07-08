@@ -395,6 +395,7 @@
 
 ## Nix 
 
+- [cloud-gouv/securix](https://github.com/cloud-gouv/securix) - SécurixOS is a NixOS-based secure operating system tailored for small to medium-sized teams. It provides a minimal, hardened environment with strong isolation, reproducibility, and policy-driven confi
 - [numtide/devshell](https://github.com/numtide/devshell) - Per project developer environments
 - [the-nix-way/dev-templates](https://github.com/the-nix-way/dev-templates) - Dev environments for numerous languages based on Nix flakes [maintainer=@lucperkins]
 
@@ -404,6 +405,7 @@
 
 ## Others 
 
+- [ironbee-ai/ironbee-devtools-skills](https://github.com/ironbee-ai/ironbee-devtools-skills) - Skills for IronBee DevTools MCP/CLI
 - [Lunatic16/paywall-bypass-skill](https://github.com/Lunatic16/paywall-bypass-skill) - Identify paywall types and generate bypass strategies for web scraping and content extraction.
 - [avadhesh18/at4k](https://github.com/avadhesh18/at4k) - AT4K Launcher
 - [deepseek-ai/awesome-deepseek-agent](https://github.com/deepseek-ai/awesome-deepseek-agent) - 
@@ -459,7 +461,7 @@
 
 ## Python 
 
-- [itsthelore/wayfinder-router](https://github.com/itsthelore/wayfinder-router) - Simple CLI tool for deterministic routing of queries between local and hosted LLM models
+- [itsthelore/WayfinderRouter](https://github.com/itsthelore/WayfinderRouter) - Simple CLI tool for deterministic routing of queries between local and hosted LLM models
 - [samba-in-kubernetes/samba-container](https://github.com/samba-in-kubernetes/samba-container) - Build Samba Container Images / Kubernetes & Container Runtime Example Files
 - [ahmetoner/whisper-asr-webservice](https://github.com/ahmetoner/whisper-asr-webservice) - OpenAI Whisper ASR Webservice API
 - [element-hq/ess-helm](https://github.com/element-hq/ess-helm) - Element Server Suite Community Edition

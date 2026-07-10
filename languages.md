@@ -599,6 +599,7 @@
 
 ## TypeScript 
 
+- [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more
 - [ngrok/webernetes](https://github.com/ngrok/webernetes) - Kubernetes in the browser.
 - [codename-co/devs](https://github.com/codename-co/devs) - Delegate complex tasks to AI teams with this browser-based orchestration platform that reproduces real organizational methodologies.
 - [juicesharp/rpiv-mono](https://github.com/juicesharp/rpiv-mono) - Monorepo for @juicesharp/rpiv-* Pi plugins (lockstep versions, single install, single publish pipeline)

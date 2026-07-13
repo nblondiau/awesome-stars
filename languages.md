@@ -88,7 +88,7 @@
 - [Flugan/Geo3D](https://github.com/Flugan/Geo3D) - 
 - [openpotato/openholidaysapi](https://github.com/openpotato/openholidaysapi) - Web service for the OpenHolidays API project
 - [TonWonton/RE9_CustomCameraFOV](https://github.com/TonWonton/RE9_CustomCameraFOV) - Custom camera FOV mod / plugin for RE9. Set different FOV for third person, first person, and ADS. Can also disable ADS zoom as well as choose between different FOV scaling types (set exact values, or
-- [aelassas/servy](https://github.com/aelassas/servy) - Professional-Grade Windows Service Wrapper with Deep Observability
+- [aelassas/servy](https://github.com/aelassas/servy) - Professional-Grade Windows Service Wrapper with Real-Time Monitoring
 - [C7-Game/OpenCiv3](https://github.com/C7-Game/OpenCiv3) - OpenCiv3 is an open-source, cross-platform, mod-oriented, modernized remake of Civilization III by the fan community built with the Godot Engine and C#, with capabilities inspired by the best of the 4
 - [TheJoeFin/Trdo](https://github.com/TheJoeFin/Trdo) - A tiny simple, elegant, internet radio player for Windows which lives completely in the tray.
 - [karpach/remote-shutdown-pc](https://github.com/karpach/remote-shutdown-pc) - Remote Shutdown Manager is a windows application, which gives an ability to shutdown, suspend, hibernate PC or turn screen off using HTTP GET request.
@@ -170,11 +170,13 @@
 
 ## Go 
 
+- [cosmtrek/mindwalk](https://github.com/cosmtrek/mindwalk) - A visualization tool that replays coding-agent sessions on a 3D map of your codebase.
 - [openclaw/gogcli](https://github.com/openclaw/gogcli) - Google Workspace in your terminal.
 - [asciimoo/hister](https://github.com/asciimoo/hister) - Your own search engine
 - [workweave/router](https://github.com/workweave/router) - Model router for agentic systems. Routes every prompt to the right model in &lt;50ms. Cut costs 40-70% with just an endpoint change.
 - [stakater/Reloader](https://github.com/stakater/Reloader) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you're usin
 - [bitmagnet-io/bitmagnet](https://github.com/bitmagnet-io/bitmagnet) - A self-hosted BitTorrent indexer, DHT crawler, content classifier and torrent search engine with web UI, GraphQL API and Servarr stack integration.
+- [Aerion/rss-radio-france-pour-tous](https://github.com/Aerion/rss-radio-france-pour-tous) - Le site pour rétablir les flux RSS de Radio France
 - [tamnd/kage](https://github.com/tamnd/kage) - Shadow any website for offline viewing, with the JavaScript stripped out
 - [alibaba/open-code-review](https://github.com/alibaba/open-code-review) - Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-
 - [musana/CF-Hero](https://github.com/musana/CF-Hero) - CF-Hero is a reconnaissance tool that uses multiple data sources to discover the origin IP addresses of Cloudflare-protected web applications
@@ -306,7 +308,6 @@
 
 ## JavaScript 
 
-- [Aerion/rss-radio-france-pour-tous](https://github.com/Aerion/rss-radio-france-pour-tous) - Le site pour rétablir les flux RSS de Radio France
 - [borgius/jobspy-mcp-server](https://github.com/borgius/jobspy-mcp-server) - MCP server to search for jobs across multiple job listing platforms
 - [nikkiluzader/mapng](https://github.com/nikkiluzader/mapng) - 
 - [aattaran/deepclaude](https://github.com/aattaran/deepclaude) - Use Claude Code's autonomous agent loop with DeepSeek V4 Pro, OpenRouter, or any Anthropic-compatible backend. Same UX, 17x cheaper.
@@ -601,6 +602,7 @@
 
 ## TypeScript 
 
+- [germondai/trawl](https://github.com/germondai/trawl) - Self-hosted scraping engine — bypasses any JS challenge & captcha: Cloudflare, Turnstile, reCAPTCHA, hCaptcha, GeeTest. FlareSolverr & Byparr alternative and drop-in replacement for your *arr stack.
 - [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more
 - [ngrok/webernetes](https://github.com/ngrok/webernetes) - Kubernetes in the browser.
 - [codename-co/devs](https://github.com/codename-co/devs) - Delegate complex tasks to AI teams with this browser-based orchestration platform that reproduces real organizational methodologies.

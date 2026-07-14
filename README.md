@@ -472,6 +472,7 @@
 
 ## devops 
 
+- [control-theory/dstl8](https://github.com/control-theory/dstl8) - dstl8 CLI distribution
 - [theplatformlab/CKA-Certified-Kubernetes-Administrator](https://github.com/theplatformlab/CKA-Certified-Kubernetes-Administrator) - CKA Certification Exam Guide 2026 — study notes, practice questions, kubectl cheat sheet, exam tips, and full Kubernetes v1.35 syllabus breakdown. Covers etcd backup, RBAC, kubeadm, Gateway API, Netwo
 - [techiescamp/linux-foundation-coupon](https://github.com/techiescamp/linux-foundation-coupon) - Latest Linux Foundation Coupon Codes  For Certification, Courses, Skillcreds, IT Professional Programs and Skillcreds
 - [OneUptime/oneuptime](https://github.com/OneUptime/oneuptime) - Complete open-source monitoring and observability platform.
@@ -875,6 +876,7 @@
 - [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integrates with OpenTelemetry, LangChain, OpenAI SDK, LiteLLM, and more. 🍊YC W23
 - [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - Lightweight, open-source AI agent for your tools, chats, and workflows.
 - [zenml-io/kitaru](https://github.com/zenml-io/kitaru) - Record, replay, and improve AI agents in production, built on ZenML
+- [control-theory/dstl8](https://github.com/control-theory/dstl8) - dstl8 CLI distribution
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) - SRE Agent - CNCF Sandbox Project
 - [p-e-w/heretic](https://github.com/p-e-w/heretic) - Fully automatic censorship removal for language models
@@ -1070,7 +1072,6 @@
 - [rebane2001/xikipedia](https://github.com/rebane2001/xikipedia) - Wikipedia as a social media feed
 - [musana/CF-Hero](https://github.com/musana/CF-Hero) - CF-Hero is a reconnaissance tool that uses multiple data sources to discover the origin IP addresses of Cloudflare-protected web applications
 - [deepseek-ai/awesome-deepseek-agent](https://github.com/deepseek-ai/awesome-deepseek-agent) - 
-- [control-theory/dstl8](https://github.com/control-theory/dstl8) - dstl8 CLI distribution
 - [Flugan/Geo3D](https://github.com/Flugan/Geo3D) - 
 - [TwilitRealm/dusklight](https://github.com/TwilitRealm/dusklight) - Dusklight brings a classic adventure to PC and mobile platforms with a variety of fixes and improvements.
 - [FrancescoGrazioso/Meld](https://github.com/FrancescoGrazioso/Meld) - YouTube Music client for Android with Spotify integrations

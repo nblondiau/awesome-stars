@@ -1051,6 +1051,7 @@
 
 ## others 
 
+- [Macs75/pico8-android](https://github.com/Macs75/pico8-android) - A wrapper for PICO-8 to run on Android
 - [cosmtrek/mindwalk](https://github.com/cosmtrek/mindwalk) - A visualization tool that replays coding-agent sessions on a 3D map of your codebase.
 - [cloud-gouv/securix](https://github.com/cloud-gouv/securix) - SécurixOS is a NixOS-based secure operating system tailored for small to medium-sized teams. It provides a minimal, hardened environment with strong isolation, reproducibility, and policy-driven confi
 - [ngrok/webernetes](https://github.com/ngrok/webernetes) - Kubernetes in the browser.

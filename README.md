@@ -185,7 +185,7 @@
 
 ## agents 
 
-- [codename-co/devs](https://github.com/codename-co/devs) - Delegate complex tasks to AI teams with this browser-based orchestration platform that reproduces real organizational methodologies.
+- [codename-co/devs](https://github.com/codename-co/devs) - Delegate tasks to AI agent teams, from a browser tab.
 - [es617/claude-replay](https://github.com/es617/claude-replay) - Convert AI coding agent sessions (Claude Code, Cursor, Codex, Gemini, OpenCode) into self-contained, embeddable HTML  replays
 
 ## ai 
@@ -1284,7 +1284,7 @@
 ## privacy 
 
 - [asciimoo/hister](https://github.com/asciimoo/hister) - Your own search engine
-- [codename-co/devs](https://github.com/codename-co/devs) - Delegate complex tasks to AI teams with this browser-based orchestration platform that reproduces real organizational methodologies.
+- [codename-co/devs](https://github.com/codename-co/devs) - Delegate tasks to AI agent teams, from a browser tab.
 - [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium) - Get Android app updates straight from the source.
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 

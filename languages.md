@@ -317,7 +317,7 @@
 - [browsh-org/browsh](https://github.com/browsh-org/browsh) - A fully-modern text-based browser, rendering to TTY and browsers
 - [matthijs110/chromium-country-flags](https://github.com/matthijs110/chromium-country-flags) - Replaces mysterious country codes automatically with the corresponding flag. The solution for Chromium users on Windows!
 - [pbakaus/impeccable](https://github.com/pbakaus/impeccable) - The design language that makes your AI harness better at design.
-- [es617/claude-replay](https://github.com/es617/claude-replay) - Convert AI coding agent sessions (Claude Code, Cursor, Codex, Gemini, OpenCode) into self-contained, embeddable HTML  replays
+- [es617/claude-replay](https://github.com/es617/claude-replay) - Convert AI coding agent sessions (Claude Code, Cursor, Codex, Gemini, OpenCode, Kimi Code) into self-contained, embeddable HTML  replays
 - [cweagans/n8n-oidc](https://github.com/cweagans/n8n-oidc) - Bolt-on OIDC support for n8n
 - [plankanban/planka](https://github.com/plankanban/planka) - PLANKA is the Kanban-style project mastering tool for everyone
 - [fmhy/edit](https://github.com/fmhy/edit) - Make changes to FMHY

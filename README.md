@@ -186,7 +186,7 @@
 ## agents 
 
 - [codename-co/devs](https://github.com/codename-co/devs) - Delegate tasks to AI agent teams, from a browser tab.
-- [es617/claude-replay](https://github.com/es617/claude-replay) - Convert AI coding agent sessions (Claude Code, Cursor, Codex, Gemini, OpenCode) into self-contained, embeddable HTML  replays
+- [es617/claude-replay](https://github.com/es617/claude-replay) - Convert AI coding agent sessions (Claude Code, Cursor, Codex, Gemini, OpenCode, Kimi Code) into self-contained, embeddable HTML  replays
 
 ## ai 
 
@@ -340,7 +340,7 @@
 - [yuanchuan/aivo](https://github.com/yuanchuan/aivo) - Use your favorite coding agent with the model you want.
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [Jeffallan/claude-skills](https://github.com/Jeffallan/claude-skills) - 66 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.
-- [es617/claude-replay](https://github.com/es617/claude-replay) - Convert AI coding agent sessions (Claude Code, Cursor, Codex, Gemini, OpenCode) into self-contained, embeddable HTML  replays
+- [es617/claude-replay](https://github.com/es617/claude-replay) - Convert AI coding agent sessions (Claude Code, Cursor, Codex, Gemini, OpenCode, Kimi Code) into self-contained, embeddable HTML  replays
 
 ## cli 
 

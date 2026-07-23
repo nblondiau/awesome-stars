@@ -519,6 +519,7 @@
 
 ## Rust 
 
+- [BerZerker96/Osiris-Vr-Viewer](https://github.com/BerZerker96/Osiris-Vr-Viewer) - A full-resolution OpenXR stereoscopic 3D viewer with screen geometry, head-tracking output, and a real-time tuning GUI.
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Making your shell magical
 - [514-labs/dnsglobe](https://github.com/514-labs/dnsglobe) - Global DNS propagation checker TUI — watch a DNS record propagate across 34 public resolvers worldwide, on a world map in your terminal
 - [itsthelore/WayfinderRouter](https://github.com/itsthelore/WayfinderRouter) - Simple CLI tool for deterministic routing of queries between local and hosted LLM models

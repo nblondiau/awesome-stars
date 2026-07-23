@@ -607,6 +607,7 @@
 
 ## gaming 
 
+- [BerZerker96/Osiris-Vr-Viewer](https://github.com/BerZerker96/Osiris-Vr-Viewer) - A full-resolution OpenXR stereoscopic 3D viewer with screen geometry, head-tracking output, and a real-time tuning GUI.
 - [utkarshdalal/GameNative](https://github.com/utkarshdalal/GameNative) - Native PC gaming with Steam, Epic, GOG and Amazon integrations on Android
 - [ClassicOldSong/Apollo](https://github.com/ClassicOldSong/Apollo) - Sunshine fork - The easiest way to stream with the native resolution of your client device
 - [ublue-os/bazzite](https://github.com/ublue-os/bazzite) - Bazzite makes gaming and everyday use smoother and simpler across desktop PCs, handhelds, tablets, and home theater PCs.

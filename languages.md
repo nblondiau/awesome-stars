@@ -522,7 +522,7 @@
 - [BerZerker96/Osiris-Vr-Viewer](https://github.com/BerZerker96/Osiris-Vr-Viewer) - A full-resolution OpenXR stereoscopic 3D viewer with screen geometry, head-tracking output, and a real-time tuning GUI.
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Making your shell magical
 - [514-labs/dnsglobe](https://github.com/514-labs/dnsglobe) - Global DNS propagation checker TUI — watch a DNS record propagate across 34 public resolvers worldwide, on a world map in your terminal
-- [itsthelore/WayfinderRouter](https://github.com/itsthelore/WayfinderRouter) - Simple CLI tool for deterministic routing of queries between local and hosted LLM models
+- [asdecided/WayfinderRouter](https://github.com/asdecided/WayfinderRouter) - Simple CLI tool for deterministic routing of queries between local and hosted LLM models
 - [ntsc-rs/ntsc-rs](https://github.com/ntsc-rs/ntsc-rs) - Free, open-source VHS effect. Standalone application + plugin (After Effects, Premiere, and OpenFX).
 - [yuanchuan/aivo](https://github.com/yuanchuan/aivo) - Use your favorite coding agent with the model you want.
 - [lahfir/agent-desktop](https://github.com/lahfir/agent-desktop) - Native desktop automation CLI for AI agents. Control any application through OS accessibility trees with structured JSON output and deterministic element refs.

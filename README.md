@@ -153,6 +153,7 @@
 - [ubuntu](#ubuntu)
 - [ui](#ui)
 - [unreal-engine](#unreal-engine)
+- [userscript](#userscript)
 - [video](#video)
 - [vim](#vim)
 - [virtual-reality](#virtual-reality)
@@ -980,7 +981,6 @@
 
 ## others 
 
-- [twalichiewicz/HNewhere](https://github.com/twalichiewicz/HNewhere) - A lightweight userscript that adds Hacker News discussions to any article.
 - [wanszai/Sega-Rally-Championship-PC-Xbox360-Series-X-](https://github.com/wanszai/Sega-Rally-Championship-PC-Xbox360-Series-X-) - Sega Rally Championship Emulation wrapper for console and windows.
 - [Macs75/pico8-android](https://github.com/Macs75/pico8-android) - A wrapper for PICO-8 to run on Android
 - [cosmtrek/mindwalk](https://github.com/cosmtrek/mindwalk) - A visualization tool that replays coding-agent sessions on a 3D map of your codebase.
@@ -1472,6 +1472,10 @@
 ## unreal-engine 
 
 - [praydog/UEVR](https://github.com/praydog/UEVR) - Universal Unreal Engine VR Mod (4.8 - 5.4)
+
+## userscript 
+
+- [twalichiewicz/HNewhere](https://github.com/twalichiewicz/HNewhere) - A lightweight userscript that adds Hacker News discussions to any previously submitted article.
 
 ## video 
 

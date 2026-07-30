@@ -300,7 +300,7 @@
 
 ## JavaScript 
 
-- [twalichiewicz/HNewhere](https://github.com/twalichiewicz/HNewhere) - A lightweight userscript that adds Hacker News discussions to any article.
+- [twalichiewicz/HNewhere](https://github.com/twalichiewicz/HNewhere) - A lightweight userscript that adds Hacker News discussions to any previously submitted article.
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 - [borgius/jobspy-mcp-server](https://github.com/borgius/jobspy-mcp-server) - MCP server to search for jobs across multiple job listing platforms
 - [nikkiluzader/mapng](https://github.com/nikkiluzader/mapng) - 

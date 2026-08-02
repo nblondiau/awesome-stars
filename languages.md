@@ -84,7 +84,6 @@
 
 ## C# # 
 
-- [Flugan/Geo3D](https://github.com/Flugan/Geo3D) - 
 - [openpotato/openholidaysapi](https://github.com/openpotato/openholidaysapi) - Web service for the OpenHolidays API project
 - [TonWonton/RE9_CustomCameraFOV](https://github.com/TonWonton/RE9_CustomCameraFOV) - Custom camera FOV mod / plugin for RE9. Set different FOV for third person, first person, and ADS. Can also disable ADS zoom as well as choose between different FOV scaling types (set exact values, or
 - [aelassas/servy](https://github.com/aelassas/servy) - Professional-Grade Windows Service Wrapper with Real-Time Monitoring
@@ -352,7 +351,7 @@
 - [breezy-weather/breezy-weather](https://github.com/breezy-weather/breezy-weather) - A feature-rich weather app with good visualizations and more than 50 sources.
 - [utkarshdalal/GameNative](https://github.com/utkarshdalal/GameNative) - Native PC gaming with Steam, Epic, GOG and Amazon integrations on Android
 - [ExTV/Podroid](https://github.com/ExTV/Podroid) - A rootless Android app that boots Alpine Linux: run containers (Podman/Docker/LXC) and GUI desktop apps.
-- [mpv-android/mpv-android](https://github.com/mpv-android/mpv-android) - video player for Android based on libmpv ↦ #mpv-android @ irc.libera.chat
+- [mpv-android/mpv-android](https://github.com/mpv-android/mpv-android) - Video player for Android based on libmpv ↦ #mpv-android @ irc.libera.chat
 - [MorpheApp/morphe-manager](https://github.com/MorpheApp/morphe-manager) - Morphe app patcher for Android
 - [anujja/DoNotNotify](https://github.com/anujja/DoNotNotify) - DoNotNotify app
 - [kurikomi-labs/komi-store](https://github.com/kurikomi-labs/komi-store) - 🩵 A free, open-source app store for developers' releases on GitHub, Codeberg & Forgejo — browse, discover, and install apps with one click. Formerly GitHub Store.
@@ -397,6 +396,7 @@
 
 ## Others 
 
+- [dubrovskiy-yevhen-stakelogic/vice-city-vr](https://github.com/dubrovskiy-yevhen-stakelogic/vice-city-vr) - 
 - [wanszai/Sega-Rally-Championship-PC-Xbox360-Series-X-](https://github.com/wanszai/Sega-Rally-Championship-PC-Xbox360-Series-X-) - Sega Rally Championship Emulation wrapper for console and windows.
 - [ironbee-ai/ironbee-devtools-skills](https://github.com/ironbee-ai/ironbee-devtools-skills) - Skills for IronBee DevTools MCP/CLI
 - [Lunatic16/paywall-bypass-skill](https://github.com/Lunatic16/paywall-bypass-skill) - Identify paywall types and generate bypass strategies for web scraping and content extraction.
@@ -453,6 +453,7 @@
 
 ## Python 
 
+- [weebzone/Telegram-Stremio](https://github.com/weebzone/Telegram-Stremio) - A powerful, self-hosted Telegram Stremio Media Server built with FastAPI, MongoDB, and PyroFork — seamlessly integrated with Stremio for automated media streaming and discovery.
 - [samba-in-kubernetes/samba-container](https://github.com/samba-in-kubernetes/samba-container) - Build Samba Container Images / Kubernetes & Container Runtime Example Files
 - [ahmetoner/whisper-asr-webservice](https://github.com/ahmetoner/whisper-asr-webservice) - OpenAI Whisper ASR Webservice API
 - [element-hq/ess-helm](https://github.com/element-hq/ess-helm) - Element Server Suite Community Edition

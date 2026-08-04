@@ -84,6 +84,7 @@
 
 ## C# # 
 
+- [arghyasur1991/QuestRoomScan](https://github.com/arghyasur1991/QuestRoomScan) - Real-time 3D room reconstruction on Meta Quest 3. GPU TSDF + Surface Nets meshing, passthrough texturing, on-device texture refinement with Sobel normals, AI object detection (YOLO/Sentis + GPU NMS), 
 - [openpotato/openholidaysapi](https://github.com/openpotato/openholidaysapi) - Web service for the OpenHolidays API project
 - [TonWonton/RE9_CustomCameraFOV](https://github.com/TonWonton/RE9_CustomCameraFOV) - Custom camera FOV mod / plugin for RE9. Set different FOV for third person, first person, and ADS. Can also disable ADS zoom as well as choose between different FOV scaling types (set exact values, or
 - [aelassas/servy](https://github.com/aelassas/servy) - Professional-Grade Windows Service Wrapper with Real-Time Monitoring
@@ -346,6 +347,7 @@
 
 ## Kotlin 
 
+- [rommapp/argosy-launcher](https://github.com/rommapp/argosy-launcher) - A native Android client for RomM  for syncing, installing, and launching games on any of your mobile devices
 - [NuvioMedia/NuvioTV](https://github.com/NuvioMedia/NuvioTV) - Official Nuvio Android TV Repository
 - [FrancescoGrazioso/Meld](https://github.com/FrancescoGrazioso/Meld) - YouTube Music client for Android with Spotify integrations
 - [breezy-weather/breezy-weather](https://github.com/breezy-weather/breezy-weather) - A feature-rich weather app with good visualizations and more than 50 sources.

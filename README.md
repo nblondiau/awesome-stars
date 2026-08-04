@@ -153,6 +153,7 @@
 - [typescript](#typescript)
 - [ubuntu](#ubuntu)
 - [ui](#ui)
+- [unity](#unity)
 - [unreal-engine](#unreal-engine)
 - [userscript](#userscript)
 - [video](#video)
@@ -982,6 +983,7 @@
 
 ## others 
 
+- [rommapp/argosy-launcher](https://github.com/rommapp/argosy-launcher) - A native Android client for RomM  for syncing, installing, and launching games on any of your mobile devices
 - [DramaticShape/DramaticShapeVoxelMod](https://github.com/DramaticShape/DramaticShapeVoxelMod) - 
 - [dubrovskiy-yevhen-stakelogic/vice-city-vr](https://github.com/dubrovskiy-yevhen-stakelogic/vice-city-vr) - 
 - [wanszai/Sega-Rally-Championship-PC-Xbox360-Series-X-](https://github.com/wanszai/Sega-Rally-Championship-PC-Xbox360-Series-X-) - Sega Rally Championship Emulation wrapper for console and windows.
@@ -1474,6 +1476,10 @@
 ## ui 
 
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
+
+## unity 
+
+- [arghyasur1991/QuestRoomScan](https://github.com/arghyasur1991/QuestRoomScan) - Real-time 3D room reconstruction on Meta Quest 3. GPU TSDF + Surface Nets meshing, passthrough texturing, on-device texture refinement with Sobel normals, AI object detection (YOLO/Sentis + GPU NMS), 
 
 ## unreal-engine 
 

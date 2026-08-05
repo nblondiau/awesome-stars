@@ -1487,7 +1487,7 @@
 
 ## userscript 
 
-- [twalichiewicz/HNewhere](https://github.com/twalichiewicz/HNewhere) - A lightweight userscript that adds Hacker News discussions to any previously submitted article.
+- [twalichiewicz/Backchannel](https://github.com/twalichiewicz/Backchannel) - A userscript that adds Hacker News & Reddit discussions to any previously submitted article.
 
 ## video 
 

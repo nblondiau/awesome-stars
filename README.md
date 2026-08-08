@@ -24,6 +24,7 @@
 - [chrome](#chrome)
 - [claude](#claude)
 - [claude-code](#claude-code)
+- [claude-skills](#claude-skills)
 - [cli](#cli)
 - [cloud](#cloud)
 - [cms](#cms)
@@ -176,7 +177,6 @@
 ## agent-skills 
 
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
-- [ironbee-ai/ironbee-devtools-skills](https://github.com/ironbee-ai/ironbee-devtools-skills) - Skills for IronBee DevTools MCP/CLI
 - [alibaba/open-code-review](https://github.com/alibaba/open-code-review) - Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-
 
 ## ai 
@@ -195,7 +195,6 @@
 ## ai-agents 
 
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
-- [ironbee-ai/ironbee-devtools-skills](https://github.com/ironbee-ai/ironbee-devtools-skills) - Skills for IronBee DevTools MCP/CLI
 - [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-agent workflows, automation, and chat apps
 - [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser) - Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.
 - [lahfir/agent-desktop](https://github.com/lahfir/agent-desktop) - Native desktop automation CLI for AI agents. Control any application through OS accessibility trees with structured JSON output and deterministic element refs.
@@ -304,11 +303,15 @@
 ## claude-code 
 
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
-- [ironbee-ai/ironbee-devtools-skills](https://github.com/ironbee-ai/ironbee-devtools-skills) - Skills for IronBee DevTools MCP/CLI
 - [workweave/router](https://github.com/workweave/router) - Model router for agentic systems. Routes every prompt to the right model in &lt;50ms. Cut costs 40-70% with just an endpoint change.
 - [sirmalloc/ccstatusline](https://github.com/sirmalloc/ccstatusline) - 🚀 Beautiful highly customizable statusline for Claude Code CLI with powerline support, themes, and more.
 - [yuanchuan/aivo](https://github.com/yuanchuan/aivo) - Use your favorite coding agent with any model.
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
+- [Jeffallan/claude-skills](https://github.com/Jeffallan/claude-skills) - 66 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.
+
+## claude-skills 
+
+- [Lunatic16/paywall-bypass-skill](https://github.com/Lunatic16/paywall-bypass-skill) - Identify paywall types and generate bypass strategies for web scraping and content extraction.
 - [Jeffallan/claude-skills](https://github.com/Jeffallan/claude-skills) - 66 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.
 
 ## cli 
@@ -759,12 +762,10 @@
 - [etopeter/kubectl-view-utilization](https://github.com/etopeter/kubectl-view-utilization) - kubectl plugin to show cluster CPU and Memory requests utilization
 - [eldadru/ksniff](https://github.com/eldadru/ksniff) - Kubectl plugin to ease sniffing on kubernetes pods using tcpdump and wireshark
 - [robscott/kube-capacity](https://github.com/robscott/kube-capacity) - A simple CLI that provides an overview of the resource requests, limits, and utilization in a Kubernetes cluster
-- [micnncim/kubectl-reap](https://github.com/micnncim/kubectl-reap) - kubectl plugin that deletes unused Kubernetes resources
 - [int128/kubelogin](https://github.com/int128/kubelogin) - kubectl plugin for Kubernetes OpenID Connect authentication (kubectl oidc-login)
 - [kvaps/kubectl-node-shell](https://github.com/kvaps/kubectl-node-shell) - Exec into node via kubectl
 - [vladimirvivien/ktop](https://github.com/vladimirvivien/ktop) - A top-like tool for your Kubernetes cluster metrics
 - [yonahd/kor](https://github.com/yonahd/kor) - A Golang Tool to discover unused Kubernetes Resources
-- [FikaWorks/kubectl-plugins](https://github.com/FikaWorks/kubectl-plugins) - A list of plugins that enhance the kubectl CLI
 - [clbx/kubectl-browse-pvc](https://github.com/clbx/kubectl-browse-pvc) - Kubectl plugin for browsing PVCs on the command line
 - [stern/stern](https://github.com/stern/stern) - ⎈ Multi pod and container log tailing for Kubernetes -- Friendly fork of https://github.com/wercker/stern
 - [KubeElasti/KubeElasti](https://github.com/KubeElasti/KubeElasti) - Kubernetes-native scale-to-zero with zero traffic loss, no code changes, and direct integration with kubernetes resources
@@ -867,7 +868,6 @@
 ## mcp 
 
 - [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more
-- [ironbee-ai/ironbee-devtools-skills](https://github.com/ironbee-ai/ironbee-devtools-skills) - Skills for IronBee DevTools MCP/CLI
 - [asciimoo/hister](https://github.com/asciimoo/hister) - Your own search engine
 - [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-agent workflows, automation, and chat apps
 - [lahfir/agent-desktop](https://github.com/lahfir/agent-desktop) - Native desktop automation CLI for AI agents. Control any application through OS accessibility trees with structured JSON output and deterministic element refs.
@@ -984,7 +984,6 @@
 ## others 
 
 - [rommapp/argosy-launcher](https://github.com/rommapp/argosy-launcher) - A native Android client for RomM  for syncing, installing, and launching games on any of your mobile devices
-- [DramaticShape/DramaticShapeVoxelMod](https://github.com/DramaticShape/DramaticShapeVoxelMod) - 
 - [dubrovskiy-yevhen-stakelogic/vice-city-vr](https://github.com/dubrovskiy-yevhen-stakelogic/vice-city-vr) - 
 - [wanszai/Sega-Rally-Championship-PC-Xbox360-Series-X-](https://github.com/wanszai/Sega-Rally-Championship-PC-Xbox360-Series-X-) - Sega Rally Championship Emulation wrapper for console and windows.
 - [Macs75/pico8-android](https://github.com/Macs75/pico8-android) - A wrapper for PICO-8 to run on Android
@@ -994,9 +993,7 @@
 - [google/copybara](https://github.com/google/copybara) - Copybara: A tool for transforming and moving code between repositories.
 - [emberstack/helm-charts](https://github.com/emberstack/helm-charts) - Helm Charts
 - [asdecided/WayfinderRouter](https://github.com/asdecided/WayfinderRouter) - Simple CLI tool for deterministic routing of queries between local and hosted LLM models
-- [rixau/mullvad-kubernetes](https://github.com/rixau/mullvad-kubernetes) - 
 - [bitmagnet-io/bitmagnet](https://github.com/bitmagnet-io/bitmagnet) - A self-hosted BitTorrent indexer, DHT crawler, content classifier and torrent search engine with web UI, GraphQL API and Servarr stack integration.
-- [DuarteVi/ecologits-statusline](https://github.com/DuarteVi/ecologits-statusline) - 
 - [juicesharp/rpiv-mono](https://github.com/juicesharp/rpiv-mono) - Monorepo for @juicesharp/rpiv-* Pi plugins (lockstep versions, single install, single publish pipeline)
 - [Aerion/rss-radio-france-pour-tous](https://github.com/Aerion/rss-radio-france-pour-tous) - Le site pour rétablir les flux RSS de Radio France
 - [nicobailon/pi-subagents](https://github.com/nicobailon/pi-subagents) - Pi extension for async subagent delegation with truncation, artifacts, and session sharing
@@ -1017,9 +1014,7 @@
 - [Evaneos/kubectl-readonly](https://github.com/Evaneos/kubectl-readonly) - A kubectl wrapper that only allows read-only commands. Designed to prevent accidental modifications when AI assistants (like Claude) explore Kubernetes clusters, including production.
 - [aattaran/deepclaude](https://github.com/aattaran/deepclaude) - Use Claude Code's autonomous agent loop with DeepSeek V4 Pro, OpenRouter, or any Anthropic-compatible backend. Same UX, 17x cheaper.
 - [breezy-weather/breezy-weather](https://github.com/breezy-weather/breezy-weather) - A feature-rich weather app with good visualizations and more than 50 sources.
-- [raine/consult-llm](https://github.com/raine/consult-llm) - Get a second opinion from another AI model
 - [linyinfeng/angrr](https://github.com/linyinfeng/angrr) - Auto Nix GC Root Retention
-- [CyberShadow/CyDo](https://github.com/CyberShadow/CyDo) - UI and orchestration for AI coding agents
 - [nakagami/grdpwasm](https://github.com/nakagami/grdpwasm) - A web-based RDP client
 - [kyverno/policies](https://github.com/kyverno/policies) - Kyverno policies for security and best practices
 - [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server
@@ -1084,7 +1079,6 @@
 - [Atmosphere-NX/Atmosphere](https://github.com/Atmosphere-NX/Atmosphere) - Atmosphère is a work-in-progress customized firmware for the Nintendo Switch.
 - [traefik/ingress-nginx-migration](https://github.com/traefik/ingress-nginx-migration) - Ingress Nginx Migration
 - [pingflood/gmenunx](https://github.com/pingflood/gmenunx) - A menu system for embedded devices, originally developed for the GP2X. Modernized for RetroFW and other systems under the name GMenuNX.
-- [sthetix/Hekatos](https://github.com/sthetix/Hekatos) - An unofficial Hekate fork
 - [paintdotnet/release](https://github.com/paintdotnet/release) - Downloads for Paint.NET, such as installer EXEs and portable ZIPs
 - [RetroDriven/Pocket_Updater](https://github.com/RetroDriven/Pocket_Updater) - Windows GUI Application to Update Cores for the Analogue Pocket
 - [veloxpack/csi-driver-rclone](https://github.com/veloxpack/csi-driver-rclone) - CSI driver built on top of rclone bringing cloud storage mounts to your pods with ease.

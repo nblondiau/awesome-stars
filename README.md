@@ -1482,7 +1482,7 @@
 
 ## userscript 
 
-- [twalichiewicz/Backchannel](https://github.com/twalichiewicz/Backchannel) - A userscript that adds Hacker News, Bluesky, Reddit, & other's discussions into a single blended discussion thread on any previously submitted article.
+- [twalichiewicz/Backchannel](https://github.com/twalichiewicz/Backchannel) - A userscript that adds Hacker News, Bluesky, Reddit, & other's discussions into a single blended discussion thread on any site you visit and a blended front page when you need more to read.
 
 ## video 
 

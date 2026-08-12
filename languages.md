@@ -546,7 +546,7 @@
 - [control-theory/dstl8](https://github.com/control-theory/dstl8) - dstl8 CLI distribution
 - [kyverno/policies](https://github.com/kyverno/policies) - Kyverno policies for security and best practices
 - [theplatformlab/CKA-Certified-Kubernetes-Administrator](https://github.com/theplatformlab/CKA-Certified-Kubernetes-Administrator) - CKA Certification Exam Guide 2026 — study notes, practice questions, kubectl cheat sheet, exam tips, and full Kubernetes v1.35 syllabus breakdown. Covers etcd backup, RBAC, kubeadm, Gateway API, Netwo
-- [realad/waf-testing](https://github.com/realad/waf-testing) - A lightweight toolkit for testing Web Application Firewall (WAF) effectiveness and identifying security gaps. This repository is available as a template that you can quickly customize for your own WAF
+- [ridjex/waf-testing](https://github.com/ridjex/waf-testing) - A lightweight toolkit for testing Web Application Firewall (WAF) effectiveness and identifying security gaps. This repository is available as a template that you can quickly customize for your own WAF
 - [Steam-Headless/docker-steam-headless](https://github.com/Steam-Headless/docker-steam-headless) - A Headless Steam Docker image supporting NVIDIA GPU and accessible via Web UI
 - [games-on-whales/gow](https://github.com/games-on-whales/gow) - A collection of Dockerized games and apps like Steam, Firefox and Retroarch
 - [crowdsecurity/helm-charts](https://github.com/crowdsecurity/helm-charts) - CrowdSec community kubernetes helm charts
@@ -613,7 +613,7 @@
 - [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open framework for building developer portals
 - [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️ Self-hosted collaborative bookmark manager to collect, read, annotate, and fully preserve what matters, all in one place.
 - [gnovotny/nothing-to-watch](https://github.com/gnovotny/nothing-to-watch) - An experimental webgl gallery that can visualize tens of thousands of film posters as a voronoi diagram
-- [Viren070/AIOStreams](https://github.com/Viren070/AIOStreams) - One addon to rule them all. AIOStreams consolidates multiple Stremio addons and debrid services into a single, highly customisable super-addon.
+- [Viren070/AIOStreams](https://github.com/Viren070/AIOStreams) - AIOStreams consolidates multiple Stremio addons and debrid/usenet services - including its own suite of built-in addons and a native Usenet streaming engine - into a single, highly customisable super-
 - [SideQuestVR/SideQuest](https://github.com/SideQuestVR/SideQuest) - The SideQuest desktop application
 - [Floorp-Projects/Floorp](https://github.com/Floorp-Projects/Floorp) - All of source code of Floorp 12, the most Advanced and Fastest Firefox derivative 🦊
 - [4gray/iptvnator](https://github.com/4gray/iptvnator) - :tv: Cross-platform IPTV player application with multiple features, such as support of m3u and m3u8 playlists, favorites, TV guide, TV archive/catchup and more.

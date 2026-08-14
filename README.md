@@ -55,6 +55,7 @@
 - [documentation](#documentation)
 - [dotfiles](#dotfiles)
 - [dotnet](#dotnet)
+- [dsh-plugin](#dsh-plugin)
 - [electron](#electron)
 - [emulator](#emulator)
 - [finance](#finance)
@@ -528,6 +529,10 @@
 - [PintaProject/Pinta](https://github.com/PintaProject/Pinta) - Simple GTK Paint Program
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System - Server Backend & API
 
+## dsh-plugin 
+
+- [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) - DeepSeek Harness: Everything is a Plugin.
+
 ## electron 
 
 - [OrangeJedi/Aerial](https://github.com/OrangeJedi/Aerial) - Apple TV screen saver for Windows
@@ -893,6 +898,7 @@
 
 ## mcp 
 
+- [exa-labs/exa-mcp-server](https://github.com/exa-labs/exa-mcp-server) - Exa MCP for web search and web crawling!
 - [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more
 - [asciimoo/hister](https://github.com/asciimoo/hister) - Your own search engine
 - [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-agent workflows, automation, and chat apps
@@ -1059,7 +1065,7 @@
 - [TonWonton/RE9_CustomCameraFOV](https://github.com/TonWonton/RE9_CustomCameraFOV) - Custom camera FOV mod / plugin for RE9. Set different FOV for third person, first person, and ADS. Can also disable ADS zoom as well as choose between different FOV scaling types (set exact values, or
 - [crowdsecurity/helm-charts](https://github.com/crowdsecurity/helm-charts) - CrowdSec community kubernetes helm charts
 - [crowded-street/3sx](https://github.com/crowded-street/3sx) - "The Third of the Third" ported to modern platforms
-- [aelassas/servy](https://github.com/aelassas/servy) - Professional-Grade Windows Service Wrapper with Real-Time Monitoring
+- [aelassas/servy](https://github.com/aelassas/servy) - Run Any App as a Native Windows Service with Real-Time Monitoring
 - [pbakaus/impeccable](https://github.com/pbakaus/impeccable) - The design language that makes your AI harness better at design.
 - [erebe/wstunnel](https://github.com/erebe/wstunnel) - Tunnel all your traffic over Websocket or HTTP2 - Bypass firewalls/DPI - Static binary available
 - [mrash/psad](https://github.com/mrash/psad) - psad: Intrusion Detection and Log Analysis with iptables
@@ -1515,7 +1521,7 @@
 
 ## userscript 
 
-- [twalichiewicz/Backchannel](https://github.com/twalichiewicz/Backchannel) - A userscript that adds Hacker News, Bluesky, Reddit, & other's discussions into a single blended discussion thread on any site you visit and a blended front page when you need more to read.
+- [twalichiewicz/Backchannel](https://github.com/twalichiewicz/Backchannel) - Backchannel brings the internet's conversations into whatever you're reading. It blends Hacker News, Bluesky, Reddit, and more into a single discussion thread beside any page, then brings those source
 
 ## video 
 

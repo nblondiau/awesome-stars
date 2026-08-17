@@ -59,6 +59,7 @@
 
 ## C 
 
+- [Gilleece/moonlight-android-xr](https://github.com/Gilleece/moonlight-android-xr) - GameStream client for OpenXR headsets with realtime 3D conversion
 - [Xeeynamo/sotn-decomp](https://github.com/Xeeynamo/sotn-decomp) - Decompilation of Castlevania: Symphony of the Night (PSX, PSP, Saturn)
 - [crowded-street/3sx](https://github.com/crowded-street/3sx) - "The Third of the Third" ported to modern platforms
 - [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) - A maintained, feature-rich and performance oriented, neofetch like system information tool.
@@ -450,6 +451,7 @@
 
 ## Python 
 
+- [inevolin/k8s-cpu-limits-analyzed](https://github.com/inevolin/k8s-cpu-limits-analyzed) - Kubernetes CPU limits make your apps (very) slow and costly
 - [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.
 - [weebzone/Telegram-Stremio](https://github.com/weebzone/Telegram-Stremio) - A powerful, self-hosted Telegram Stremio Media Server built with FastAPI, MongoDB, and PyroFork — seamlessly integrated with Stremio for automated media streaming and discovery.
 - [samba-in-kubernetes/samba-container](https://github.com/samba-in-kubernetes/samba-container) - Build Samba Container Images / Kubernetes & Container Runtime Example Files
@@ -587,6 +589,7 @@
 
 ## TypeScript 
 
+- [mason131928/hashagent](https://github.com/mason131928/hashagent) - Share an AI agent as a URL — runs locally in your browser via WebGPU. No server, no account, no install.
 - [nicobailon/pi-web-access](https://github.com/nicobailon/pi-web-access) - Web search and content extraction extension for Pi coding agent
 - [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) - DeepSeek Harness: Everything is a Plugin.
 - [exa-labs/exa-mcp-server](https://github.com/exa-labs/exa-mcp-server) - Exa MCP for web search and web crawling!

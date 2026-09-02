@@ -355,7 +355,7 @@
 - [mpv-android/mpv-android](https://github.com/mpv-android/mpv-android) - Video player for Android based on libmpv ↦ #mpv-android @ irc.libera.chat
 - [MorpheApp/morphe-manager](https://github.com/MorpheApp/morphe-manager) - Morphe app patcher for Android
 - [anujja/DoNotNotify](https://github.com/anujja/DoNotNotify) - DoNotNotify app
-- [kurikomi-labs/komi-store](https://github.com/kurikomi-labs/komi-store) - 🩵 A free, open-source app store for developers' releases on GitHub, Codeberg & Forgejo — browse, discover, and install apps with one click. Formerly GitHub Store.
+- [komi-store/komi-store](https://github.com/komi-store/komi-store) - 🩵 A free, open-source app store for developers' releases on GitHub, Codeberg & Forgejo — browse, discover, and install apps with one click. Formerly GitHub Store.
 - [BLE-Research-Group/MetaRadar](https://github.com/BLE-Research-Group/MetaRadar) - A tool for BLE environment monitoring. Find and track Bluetooth devices around, create custom filters, get notified when the BLE fingerprint you are looking for is around.
 - [sam1am/anyapk](https://github.com/sam1am/anyapk) - Install any apk on the device you own.
 - [RikkaApps/Shizuku](https://github.com/RikkaApps/Shizuku) - Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.
@@ -457,6 +457,7 @@
 
 ## Python 
 
+- [PaRaN01a-hash/ultramax-music](https://github.com/PaRaN01a-hash/ultramax-music) - Eclipse Music Addon
 - [The-PR-Agent/pr-agent](https://github.com/The-PR-Agent/pr-agent) - 🚀 PR Agent: The Original Open-Source PR Reviewer. This project is not the Qodo free tier.
 - [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.
 - [weebzone/Telegram-Stremio](https://github.com/weebzone/Telegram-Stremio) - A powerful, self-hosted Telegram Stremio Media Server built with FastAPI, MongoDB, and PyroFork — seamlessly integrated with Stremio for automated media streaming and discovery.

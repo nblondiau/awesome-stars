@@ -448,7 +448,7 @@
 
 ## PowerShell 
 
-- [dubrovskiy-yevhen-stakelogic/vice-city-vr](https://github.com/dubrovskiy-yevhen-stakelogic/vice-city-vr) - 
+- [dubrovskiy-yevhen-stakelogic/vice-city-vr](https://github.com/dubrovskiy-yevhen-stakelogic/vice-city-vr) - DX12 Vice City with VR support
 - [psmux/psmux](https://github.com/psmux/psmux) - Tmux on Windows Powershell - tmux for PowerShell, Windows Terminal, cmd.exe. Includes psmux, pmux, and tmux commands. This is native High-Performance Tmux designed for Windows in Rust 🦀
 - [wrinkdater/Posys-Cursors-Improved-by-wrinkdater](https://github.com/wrinkdater/Posys-Cursors-Improved-by-wrinkdater) - The source cursors were created by the Michiel de Boer aka Posy: http://www.michieldb.nl/other/cursors/
 - [ScoopInstaller/Scoop](https://github.com/ScoopInstaller/Scoop) - A command-line installer for Windows.

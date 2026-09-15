@@ -1049,6 +1049,7 @@
 
 ## others 
 
+- [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
 - [PaRaN01a-hash/ultramax-music](https://github.com/PaRaN01a-hash/ultramax-music) - Eclipse Music Addon
 - [Gilleece/moonlight-android-xr](https://github.com/Gilleece/moonlight-android-xr) - GameStream client for OpenXR headsets with realtime 3D conversion
 - [mason131928/hashagent](https://github.com/mason131928/hashagent) - Share an AI agent as a URL — runs locally in your browser via WebGPU. No server, no account, no install.

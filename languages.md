@@ -59,6 +59,7 @@
 
 ## C 
 
+- [JustVugg/colibri](https://github.com/JustVugg/colibri) - Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦
 - [Gilleece/moonlight-android-xr](https://github.com/Gilleece/moonlight-android-xr) - GameStream client for OpenXR headsets with realtime 3D conversion
 - [Xeeynamo/sotn-decomp](https://github.com/Xeeynamo/sotn-decomp) - Decompilation of Castlevania: Symphony of the Night (PSX, PSP, Saturn)
 - [semgrep/semgrep](https://github.com/semgrep/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
@@ -197,7 +198,7 @@
 - [mickamy/sql-tap](https://github.com/mickamy/sql-tap) - Watch SQL traffic in real-time with a TUI
 - [mogenius/renovate-operator](https://github.com/mogenius/renovate-operator) - Operator to streamline renovate executions in Kubernetes
 - [boyter/scc](https://github.com/boyter/scc) - Sloc, Cloc and Code: scc is a very fast accurate code counter with complexity calculations and COCOMO estimates written in pure Go
-- [ctrox/zeropod](https://github.com/ctrox/zeropod) - pod that scales down to zero
+- [laravel/zeropod](https://github.com/laravel/zeropod) - pod that scales down to zero
 - [spegel-org/spegel](https://github.com/spegel-org/spegel) - Stateless cluster local OCI registry mirror.
 - [vince-riv/argo-diff](https://github.com/vince-riv/argo-diff) - Go application that provides Github Pull Request comments to preview live Kubernetes manifest changes managed by ArgoCD
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA.
@@ -296,7 +297,6 @@
 - [QuantumBadger/RedReader](https://github.com/QuantumBadger/RedReader) - An unofficial open source Android app for Reddit.
 - [google/copybara](https://github.com/google/copybara) - Copybara: A tool for transforming and moving code between repositories.
 - [AsamK/signal-cli](https://github.com/AsamK/signal-cli) - signal-cli provides an unofficial commandline, JSON-RPC and dbus interface for the Signal messenger.
-- [SimonHalvdansson/Harmonic-HN](https://github.com/SimonHalvdansson/Harmonic-HN) - Modern Android client for Hacker News
 - [ClassicOldSong/moonlight-android](https://github.com/ClassicOldSong/moonlight-android) - GameStream client for Android
 - [Anuken/Mindustry](https://github.com/Anuken/Mindustry) - The automation tower defense RTS
 - [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) - Browse media content with your own rules on Android TV
@@ -361,6 +361,7 @@
 - [anujja/DoNotNotify](https://github.com/anujja/DoNotNotify) - DoNotNotify app
 - [komi-store/komi-store](https://github.com/komi-store/komi-store) - 🩵 A free, open-source app store for developers' releases on GitHub, Codeberg & Forgejo — browse, discover, and install apps with one click. Formerly GitHub Store.
 - [BLE-Research-Group/MetaRadar](https://github.com/BLE-Research-Group/MetaRadar) - A tool for BLE environment monitoring. Find and track Bluetooth devices around, create custom filters, get notified when the BLE fingerprint you are looking for is around.
+- [SimonHalvdansson/Harmonic-HN](https://github.com/SimonHalvdansson/Harmonic-HN) - Modern Android client for Hacker News
 - [sam1am/anyapk](https://github.com/sam1am/anyapk) - Install any apk on the device you own.
 - [RikkaApps/Shizuku](https://github.com/RikkaApps/Shizuku) - Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.
 - [librepods-org/librepods](https://github.com/librepods-org/librepods) - AirPods liberated from Apple's ecosystem.

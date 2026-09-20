@@ -192,10 +192,12 @@
 
 ## agents 
 
+- [browserbase/stagehand](https://github.com/browserbase/stagehand) - The SDK to extract data and interact with any site on the web. Get started with Claude Code, Codex, Eve, Mastra, and more.
 - [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.
 
 ## ai 
 
+- [browserbase/stagehand](https://github.com/browserbase/stagehand) - The SDK to extract data and interact with any site on the web. Get started with Claude Code, Codex, Eve, Mastra, and more.
 - [The-PR-Agent/pr-agent](https://github.com/The-PR-Agent/pr-agent) - 🚀 PR Agent: The Original Open-Source PR Reviewer. This project is not the Qodo free tier.
 - [defilantech/LLMKube](https://github.com/defilantech/LLMKube) - Kubernetes operator for self-hosted LLM inference across a heterogeneous GPU fleet: NVIDIA CUDA, AMD Vulkan, and Apple Silicon Metal. Runtimes: llama.cpp, vLLM, TGI, mlx-server. Multi-GPU sharding, mo
 - [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
@@ -209,6 +211,7 @@
 
 ## ai-agents 
 
+- [browserbase/stagehand](https://github.com/browserbase/stagehand) - The SDK to extract data and interact with any site on the web. Get started with Claude Code, Codex, Eve, Mastra, and more.
 - [neul-labs/m9m](https://github.com/neul-labs/m9m) - The n8n alternative without the bugs — faster, more reliable workflow automation.
 - [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) - DeepSeek Harness: Everything is a Plugin.
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
@@ -508,6 +511,7 @@
 
 ## docker 
 
+- [arnegiacomo/fugleramme](https://github.com/arnegiacomo/fugleramme) - E-ink bird frame for Raspberry Pi - real-time bird detection by audio, fully local AI, rendered as real, hand-cut 1800s bird illustrations.
 - [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at
 - [RealDougEubanks/gitpreserver](https://github.com/RealDougEubanks/gitpreserver) - GitPreserver is a self-hosted, Docker-based git repository backup tool. The core idea: GitHub and other platforms are unreliable, so this acts as a "life preserver" — automatically mirroring your repo
 - [samba-in-kubernetes/samba-container](https://github.com/samba-in-kubernetes/samba-container) - Build Samba Container Images / Kubernetes & Container Runtime Example Files
@@ -855,6 +859,7 @@
 
 ## linux 
 
+- [thissayantan/frost-icon-theme](https://github.com/thissayantan/frost-icon-theme) - Frosted-glass icon theme for Linux — folders, apps, 134 file types and status icons
 - [omakasui/omabuntu](https://github.com/omakasui/omabuntu) - A fork of Omakub, more flexible and refined
 - [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at
 - [ExTV/Podroid](https://github.com/ExTV/Podroid) - A rootless Android app that boots Alpine Linux: run containers (Podman/Docker/LXC) and GUI desktop apps.
@@ -1307,6 +1312,8 @@
 
 ## python 
 
+- [browserbase/stagehand](https://github.com/browserbase/stagehand) - The SDK to extract data and interact with any site on the web. Get started with Claude Code, Codex, Eve, Mastra, and more.
+- [arnegiacomo/fugleramme](https://github.com/arnegiacomo/fugleramme) - E-ink bird frame for Raspberry Pi - real-time bird detection by audio, fully local AI, rendered as real, hand-cut 1800s bird illustrations.
 - [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-agent workflows, automation, and chat apps
 - [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser) - Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.
 - [semgrep/semgrep](https://github.com/semgrep/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
@@ -1341,6 +1348,7 @@
 
 ## raspberry-pi 
 
+- [arnegiacomo/fugleramme](https://github.com/arnegiacomo/fugleramme) - E-ink bird frame for Raspberry Pi - real-time bird detection by audio, fully local AI, rendered as real, hand-cut 1800s bird illustrations.
 - [alexellis/k3sup](https://github.com/alexellis/k3sup) - bootstrap K3s over SSH in &lt; 60s 🚀
 - [dr-mod/zero-btc-screen](https://github.com/dr-mod/zero-btc-screen) - Crypto stock price for RPi Zero
 - [RetroPie/RetroPie-Setup](https://github.com/RetroPie/RetroPie-Setup) - Shell script to set up a Raspberry Pi/Odroid/PC with RetroArch emulator and various cores
@@ -1413,6 +1421,7 @@
 
 ## self-hosted 
 
+- [arnegiacomo/fugleramme](https://github.com/arnegiacomo/fugleramme) - E-ink bird frame for Raspberry Pi - real-time bird detection by audio, fully local AI, rendered as real, hand-cut 1800s bird illustrations.
 - [neul-labs/m9m](https://github.com/neul-labs/m9m) - The n8n alternative without the bugs — faster, more reliable workflow automation.
 - [zedeus/nitter](https://github.com/zedeus/nitter) - Alternative Twitter front-end
 - [defilantech/LLMKube](https://github.com/defilantech/LLMKube) - Kubernetes operator for self-hosted LLM inference across a heterogeneous GPU fleet: NVIDIA CUDA, AMD Vulkan, and Apple Silicon Metal. Runtimes: llama.cpp, vLLM, TGI, mlx-server. Multi-GPU sharding, mo
@@ -1542,6 +1551,7 @@
 
 ## typescript 
 
+- [browserbase/stagehand](https://github.com/browserbase/stagehand) - The SDK to extract data and interact with any site on the web. Get started with Claude Code, Codex, Eve, Mastra, and more.
 - [nicobailon/pi-web-access](https://github.com/nicobailon/pi-web-access) - Web search and content extraction extension for Pi coding agent
 - [germondai/trawl](https://github.com/germondai/trawl) - Self-hosted scraping engine — bypasses any JS challenge & captcha: Cloudflare, Turnstile, reCAPTCHA, hCaptcha, GeeTest. FlareSolverr & Byparr alternative and drop-in replacement for your *arr stack.
 - [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥ Coding agent with the IDE wired in
@@ -1553,6 +1563,7 @@
 
 ## ubuntu 
 
+- [thissayantan/frost-icon-theme](https://github.com/thissayantan/frost-icon-theme) - Frosted-glass icon theme for Linux — folders, apps, 134 file types and status icons
 - [omakasui/omabuntu](https://github.com/omakasui/omabuntu) - A fork of Omakub, more flexible and refined
 - [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at
 - [Anduin2017/AnduinOS](https://github.com/Anduin2017/AnduinOS) - AnduinOS is a custom Ubuntu-based Linux distribution that offers a familiar and easy-to-use experience for anyone moving to Linux.
@@ -1563,7 +1574,7 @@
 
 ## unity 
 
-- [arghyasur1991/QuestRoomScan](https://github.com/arghyasur1991/QuestRoomScan) - Real-time 3D room reconstruction on Meta Quest 3. GPU TSDF + Surface Nets meshing, passthrough texturing, on-device texture refinement with Sobel normals, AI object detection (YOLO/Sentis + GPU NMS), 
+- [genesisinteractive/QuestRoomScan](https://github.com/genesisinteractive/QuestRoomScan) - Real-time 3D room reconstruction on Meta Quest 3. GPU TSDF + Surface Nets meshing, passthrough texturing, on-device texture refinement with Sobel normals, AI object detection (YOLO/Sentis + GPU NMS), 
 
 ## unreal-engine 
 

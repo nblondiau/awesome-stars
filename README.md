@@ -1369,6 +1369,7 @@
 
 ## reverse-engineering 
 
+- [adonis-singh/re4](https://github.com/adonis-singh/re4) - Resident Evil 4 (GameCube, G4BE08 debug build) — complete byte-identical decompilation to C/C++
 - [zeldaret/botw](https://github.com/zeldaret/botw) - Decompilation of The Legend of Zelda: Breath of the Wild (Switch 1.5.0)
 - [open-goal/jak-project](https://github.com/open-goal/jak-project) - Reviving the language that brought us the Jak & Daxter Series
 - [ran-j/PS2Recomp](https://github.com/ran-j/PS2Recomp) - Playstation 2 Static Recompiler & Runtime Tool to make native PC ports

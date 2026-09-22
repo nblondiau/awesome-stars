@@ -36,10 +36,12 @@
 - [Perl](#perl)
 - [PowerShell](#powershell)
 - [Python](#python)
+- [QML](#qml)
 - [Ruby](#ruby)
 - [Rust](#rust)
 - [SCSS](#scss)
 - [Shell](#shell)
+- [Svelte](#svelte)
 - [Swift](#swift)
 - [Tree-sitter Query](#tree-sitter-query)
 - [TypeScript](#typescript)
@@ -332,7 +334,6 @@
 - [pvdlg/conventional-changelog-metahub](https://github.com/pvdlg/conventional-changelog-metahub) - conventional-changelog preset
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 - [copy/v86](https://github.com/copy/v86) - x86 PC emulator and x86-to-wasm JIT, running in the browser
-- [leaningtech/webvm](https://github.com/leaningtech/webvm) - Virtual Machine for the Web
 - [collabnix/kubetools](https://github.com/collabnix/kubetools) - Kubetools - Curated List of Kubernetes Tools
 - [jeffpar/pcjs](https://github.com/jeffpar/pcjs) - The original IBM PC and other machine emulations in JavaScript
 - [dconnolly/chromecast-backgrounds](https://github.com/dconnolly/chromecast-backgrounds) - Archive of all Chromecast background images.
@@ -510,6 +511,10 @@
 - [mth75/retropie-demomode](https://github.com/mth75/retropie-demomode) - The demo mode starts and switches to a new random game after a minute unless controller or keyboard input is detected. The demo mode is a great way to discover new games in large collections. This ver
 - [vinayak-mehta/present](https://github.com/vinayak-mehta/present) - A terminal-based presentation tool with colors and effects.
 
+## QML 
+
+- [AvengeMedia/DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell) - Desktop shell for wayland compositors built with Quickshell & GO, optimized for niri, hyprland, sway, MangoWC, labwc, and MiracleWM.
+
 ## Ruby 
 
 - [opf/openproject](https://github.com/opf/openproject) - OpenProject is the leading open source project management software for product, project and portfolio management. A powerful Jira alternative with agile planning, issue tracking, roadmaps, Gantt chart
@@ -591,6 +596,10 @@
 - [jpetazzo/container.training](https://github.com/jpetazzo/container.training) - Slides and code samples for training, tutorials, and workshops about Docker, containers, and Kubernetes.
 - [eduardofilo/RG350_adam_image](https://github.com/eduardofilo/RG350_adam_image) - 
 - [hiulit/RetroPie-Convert-Videos](https://github.com/hiulit/RetroPie-Convert-Videos) - A tool for RetroPie to convert videos.
+
+## Svelte 
+
+- [leaningtech/webvm](https://github.com/leaningtech/webvm) - Virtual Machine for the Web
 
 ## Swift 
 

@@ -1063,6 +1063,8 @@
 
 ## others 
 
+- [faisalkindi/DLSS5oneclick](https://github.com/faisalkindi/DLSS5oneclick) - One-click setup of the leaked DLSS 5 neural-rendering build for any DX11/DX12 game on RTX 20–50, with or without DLSS. ReShade + RenoDX add-on (or OptiScaler engine); DLSS5-Feeder + LumeniteFX for gam
+- [UmbraProjects/PostersPlus](https://github.com/UmbraProjects/PostersPlus) - A modern poster overlay
 - [JustVugg/colibri](https://github.com/JustVugg/colibri) - Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
 - [PaRaN01a-hash/ultramax-music](https://github.com/PaRaN01a-hash/ultramax-music) - Eclipse Music Addon

@@ -620,7 +620,6 @@
 
 ## gaming 
 
-- [reiluisii/1-Click-DLSS5](https://github.com/reiluisii/1-Click-DLSS5) - Universal Steam-style Game Center & 1-Click Neural DLSS 5 Injector for ALL PC Games (DX11/DX12/Vulkan) & All NVIDIA GeForce RTX 20, 30, 40 & 50 Series. Featuring 100% Native DLAA Feeder Mode, OptiScal
 - [BerZerker96/Osiris-Vr-Viewer](https://github.com/BerZerker96/Osiris-Vr-Viewer) - A full-resolution OpenXR stereoscopic 3D viewer with screen geometry, head-tracking output, and a real-time tuning GUI.
 - [utkarshdalal/GameNative](https://github.com/utkarshdalal/GameNative) - Native PC gaming with Steam, Epic, GOG and Amazon integrations on Android
 - [ClassicOldSong/Apollo](https://github.com/ClassicOldSong/Apollo) - Sunshine fork - The easiest way to stream with the native resolution of your client device

@@ -272,7 +272,6 @@
 
 ## HLSL 
 
-- [reiluisii/1-Click-DLSS5](https://github.com/reiluisii/1-Click-DLSS5) - Universal Steam-style Game Center & 1-Click Neural DLSS 5 Injector for ALL PC Games (DX11/DX12/Vulkan) & All NVIDIA GeForce RTX 20, 30, 40 & 50 Series. Featuring 100% Native DLAA Feeder Mode, OptiScal
 - [clshortfuse/renodx](https://github.com/clshortfuse/renodx) - Renovation Engine for DirectX Games
 - [Blinue/Magpie](https://github.com/Blinue/Magpie) - A general-purpose window upscaler for Windows 10/11.
 - [martymcmodding/qUINT](https://github.com/martymcmodding/qUINT) - Collection of general-purpose effects for the ReShade shader injector.

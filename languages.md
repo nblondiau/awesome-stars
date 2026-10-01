@@ -87,6 +87,7 @@
 
 ## C# # 
 
+- [tgeorgiadis/quiver-launcher](https://github.com/tgeorgiadis/quiver-launcher) - A modern launcher for downloading, installing, and running apps from GitHub and GitLab releases. With a personal library, community catalog subscriptions, and flexible filtering.
 - [thebookisclosed/ViVe](https://github.com/thebookisclosed/ViVe) - C# library and console app for using new feature control APIs available in Windows 10 version 2004 and newer
 - [genesisinteractive/QuestRoomScan](https://github.com/genesisinteractive/QuestRoomScan) - Real-time 3D room reconstruction on Meta Quest 3. GPU TSDF + Surface Nets meshing, passthrough texturing, on-device texture refinement with Sobel normals, AI object detection (YOLO/Sentis + GPU NMS), 
 - [openpotato/openholidaysapi](https://github.com/openpotato/openholidaysapi) - Web service for the OpenHolidays API project
@@ -106,6 +107,7 @@
 
 ## C++ 
 
+- [danielgomesvieira2000/wave-race-64-recomp](https://github.com/danielgomesvieira2000/wave-race-64-recomp) - An AI-coded PC port of the Nintendo 64 game 'Wave Race 64'.
 - [adonis-singh/re4](https://github.com/adonis-singh/re4) - Resident Evil 4 (GameCube, G4BE08 debug build) — complete byte-identical decompilation to C/C++
 - [mutars/anvilengine2vr](https://github.com/mutars/anvilengine2vr) - 
 - [dubrovskiy-yevhen-stakelogic/vice-city-vr](https://github.com/dubrovskiy-yevhen-stakelogic/vice-city-vr) - DX12 Vice City with VR support

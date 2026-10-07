@@ -61,7 +61,6 @@
 
 ## C 
 
-- [Droid-Deck/DroidDeck](https://github.com/Droid-Deck/DroidDeck) - DroidDeck brings the SteamOS experience to Android
 - [JustVugg/colibri](https://github.com/JustVugg/colibri) - Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦
 - [Gilleece/moonlight-android-xr](https://github.com/Gilleece/moonlight-android-xr) - GameStream client for OpenXR headsets with realtime 3D conversion
 - [Xeeynamo/sotn-decomp](https://github.com/Xeeynamo/sotn-decomp) - Decompilation of Castlevania: Symphony of the Night (PSX, PSP, Saturn)
@@ -356,6 +355,7 @@
 
 ## Kotlin 
 
+- [Droid-Deck/DroidDeck](https://github.com/Droid-Deck/DroidDeck) - DroidDeck brings the SteamOS experience to Android
 - [rommapp/argosy-launcher](https://github.com/rommapp/argosy-launcher) - A native Android client for RomM  for syncing, installing, and launching games on any of your mobile devices
 - [NuvioMedia/NuvioTV](https://github.com/NuvioMedia/NuvioTV) - Official Nuvio Android TV Repository
 - [FrancescoGrazioso/Meld](https://github.com/FrancescoGrazioso/Meld) - YouTube Music client for Android with Spotify integrations

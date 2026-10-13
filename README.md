@@ -1070,6 +1070,7 @@
 
 ## others 
 
+- [pingdotgg/t3code](https://github.com/pingdotgg/t3code) - 
 - [justdataplease/art-history-museum](https://github.com/justdataplease/art-history-museum) - The Timeline Museum — a zoomable art-history timeline with walkable 3D galleries of real paintings, all sourced from Wikipedia
 - [Niko1221/Strata](https://github.com/Niko1221/Strata) - Qwen3.8-Flash-Next on any consumer hardware: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API on localhost, optional image input.
 - [Droid-Deck/DroidDeck](https://github.com/Droid-Deck/DroidDeck) - DroidDeck brings the SteamOS experience to Android

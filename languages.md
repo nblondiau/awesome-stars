@@ -618,6 +618,7 @@
 
 ## TypeScript 
 
+- [aboard-io/tinylittleoffice](https://github.com/aboard-io/tinylittleoffice) - A free office suite where your document is inside the link and easy to share. There's no account and nothing saved unless you choose.
 - [pingdotgg/t3code](https://github.com/pingdotgg/t3code) - 
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [justdataplease/art-history-museum](https://github.com/justdataplease/art-history-museum) - The Timeline Museum — a zoomable art-history timeline with walkable 3D galleries of real paintings, all sourced from Wikipedia

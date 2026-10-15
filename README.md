@@ -173,6 +173,7 @@
 - [virtual-reality](#virtual-reality)
 - [vpn](#vpn)
 - [web](#web)
+- [web-components](#web-components)
 - [webapp](#webapp)
 - [windows](#windows)
 - [windows-11](#windows-11)
@@ -1303,6 +1304,7 @@
 
 ## privacy 
 
+- [aboard-io/tinylittleoffice](https://github.com/aboard-io/tinylittleoffice) - A free office suite where your document is inside the link and easy to share. There's no account and nothing saved unless you choose.
 - [zedeus/nitter](https://github.com/zedeus/nitter) - Alternative Twitter front-end
 - [asciimoo/hister](https://github.com/asciimoo/hister) - Your own search engine
 - [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium) - Get Android app updates straight from the source.
@@ -1331,6 +1333,7 @@
 
 ## pwa 
 
+- [aboard-io/tinylittleoffice](https://github.com/aboard-io/tinylittleoffice) - A free office suite where your document is inside the link and easy to share. There's no account and nothing saved unless you choose.
 - [4gray/iptvnator](https://github.com/4gray/iptvnator) - :tv: Cross-platform IPTV player application with multiple features, such as support of m3u and m3u8 playlists, favorites, TV guide, TV archive/catchup and more.
 - [schlagmichdoch/PairDrop](https://github.com/schlagmichdoch/PairDrop) - PairDrop: Transfer Files Cross-Platform. No Setup, No Signup.
 
@@ -1640,6 +1643,10 @@
 ## web 
 
 - [asciimoo/hister](https://github.com/asciimoo/hister) - Your own search engine
+
+## web-components 
+
+- [aboard-io/tinylittleoffice](https://github.com/aboard-io/tinylittleoffice) - A free office suite where your document is inside the link and easy to share. There's no account and nothing saved unless you choose.
 
 ## webapp 
 

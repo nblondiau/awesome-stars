@@ -157,6 +157,7 @@
 - [tailwind](#tailwind)
 - [telegram-bot](#telegram-bot)
 - [terminal](#terminal)
+- [termux](#termux)
 - [terraform](#terraform)
 - [testing](#testing)
 - [text-to-speech](#text-to-speech)
@@ -220,6 +221,7 @@
 
 ## ai-agents 
 
+- [nikvdp/searxng-ai-kit](https://github.com/nikvdp/searxng-ai-kit) - Standalone SearXNG CLI for coding agents
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [browserbase/stagehand](https://github.com/browserbase/stagehand) - The SDK to extract data and interact with any site on the web. Get started with Claude Code, Codex, Eve, Mastra, and more.
 - [neul-labs/m9m](https://github.com/neul-labs/m9m) - The n8n alternative without the bugs — faster, more reliable workflow automation.
@@ -363,6 +365,7 @@
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥ Coding agent with the IDE wired in. Built by Stencil Labs.
 - [514-labs/dnsglobe](https://github.com/514-labs/dnsglobe) - Global DNS propagation checker TUI — watch a DNS record propagate across 34 public resolvers worldwide, on a world map in your terminal
+- [speedyapply/JobSpy](https://github.com/speedyapply/JobSpy) - Jobs scraper library for LinkedIn, Indeed, Glassdoor, ZipRecruiter, Bayt, Naukri, BDJobs & HelloWork
 - [sirmalloc/ccstatusline](https://github.com/sirmalloc/ccstatusline) - 🚀 Beautiful highly customizable statusline for Claude Code CLI with powerline support, themes, and more.
 - [lahfir/agent-desktop](https://github.com/lahfir/agent-desktop) - Agent Desktop gives any agent reliable computer use on the desktop. Built with Rust, it sees any app's real UI structure through OS accessibility trees and operates it — refs stay stable and actions s
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
@@ -652,7 +655,7 @@
 
 ## go 
 
-- [AvengeMedia/DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell) - Desktop shell for wayland compositors built with Quickshell & GO, optimized for niri, hyprland, sway, MangoWC, labwc, and MiracleWM.
+- [duxlabs-dev/dux-shell](https://github.com/duxlabs-dev/dux-shell) - Desktop shell for wayland compositors built with Quickshell & GO, optimized for niri, hyprland, sway, MangoWC, labwc, and MiracleWM.
 - [runatlantis/atlantis](https://github.com/runatlantis/atlantis) - Terraform Pull Request Automation
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
 - [semgrep/semgrep](https://github.com/semgrep/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
@@ -668,6 +671,7 @@
 
 - [runatlantis/atlantis](https://github.com/runatlantis/atlantis) - Terraform Pull Request Automation
 - [neul-labs/m9m](https://github.com/neul-labs/m9m) - The n8n alternative without the bugs — faster, more reliable workflow automation.
+- [stupside/castor](https://github.com/stupside/castor) - Point it at any web page and it finds the video, extracts the stream, transcodes it and casts in real time to your TV. It even burns subtitles….
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [mogenius/renovate-operator](https://github.com/mogenius/renovate-operator) - Operator to streamline renovate executions in Kubernetes
 - [boyter/scc](https://github.com/boyter/scc) - Sloc, Cloc and Code: scc is a very fast accurate code counter with complexity calculations and COCOMO estimates written in pure Go
@@ -792,6 +796,7 @@
 
 ## jetpack-compose 
 
+- [komi-store/komi-store](https://github.com/komi-store/komi-store) - 🩵 A free, open-source app store for developers' releases on GitHub, Codeberg & Forgejo — browse, discover, and install apps with one click. Formerly GitHub Store.
 - [MetrolistGroup/Metrolist](https://github.com/MetrolistGroup/Metrolist) - YouTube Music client for Android
 
 ## kotlin 
@@ -948,6 +953,7 @@
 
 ## mcp 
 
+- [nikvdp/searxng-ai-kit](https://github.com/nikvdp/searxng-ai-kit) - Standalone SearXNG CLI for coding agents
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [exa-labs/exa-mcp-server](https://github.com/exa-labs/exa-mcp-server) - Exa MCP for web search and web crawling!
 - [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥ Coding agent with the IDE wired in. Built by Stencil Labs.
@@ -1040,7 +1046,6 @@
 - [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.
 - [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet Computer! Free, Open-Source, and Self-Hostable.
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
-- [komi-store/komi-store](https://github.com/komi-store/komi-store) - 🩵 A free, open-source app store for developers' releases on GitHub, Codeberg & Forgejo — browse, discover, and install apps with one click. Formerly GitHub Store.
 - [Sync-in/server](https://github.com/Sync-in/server) - Sync-in · Sovereign platform for file storage, sharing, synchronization, and collaboration.
 - [CelestiaProject/Celestia](https://github.com/CelestiaProject/Celestia) - Real-time 3D visualization of space.
 - [rommapp/romm](https://github.com/rommapp/romm) - A beautiful, powerful, self-hosted ROM manager and player.
@@ -1071,6 +1076,8 @@
 
 ## others 
 
+- [CrownPrime/CrownsDLSS5ER](https://github.com/CrownPrime/CrownsDLSS5ER) - DLSS 5 for ELDEN RING. Done right.
+- [lexiforest/curl-impersonate](https://github.com/lexiforest/curl-impersonate) - An active fork of curl-impersonate with more versions and build targets. A series of patches that make curl requests look like Chrome, Firefox and Safari.
 - [pingdotgg/t3code](https://github.com/pingdotgg/t3code) - 
 - [justdataplease/art-history-museum](https://github.com/justdataplease/art-history-museum) - The Timeline Museum — a zoomable art-history timeline with walkable 3D galleries of real paintings, all sourced from Wikipedia
 - [Niko1221/Strata](https://github.com/Niko1221/Strata) - Qwen3.8-Flash-Next on any consumer hardware: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API on localhost, optional image input.
@@ -1103,7 +1110,6 @@
 - [nicobailon/pi-subagents](https://github.com/nicobailon/pi-subagents) - Pi extension for async subagent delegation with truncation, artifacts, and session sharing
 - [tamnd/kage](https://github.com/tamnd/kage) - Shadow any website for offline viewing, with the JavaScript stripped out
 - [NuvioMedia/NuvioTV](https://github.com/NuvioMedia/NuvioTV) - Official Nuvio Android TV Repository
-- [speedyapply/JobSpy](https://github.com/speedyapply/JobSpy) - Jobs scraper library for LinkedIn, Indeed, Glassdoor, ZipRecruiter, Bayt, Naukri, BDJobs & HelloWork
 - [borgius/jobspy-mcp-server](https://github.com/borgius/jobspy-mcp-server) - MCP server to search for jobs across multiple job listing platforms
 - [nikkiluzader/mapng](https://github.com/nikkiluzader/mapng) - 
 - [ultraworkers/hermes-agent-helm-chart](https://github.com/ultraworkers/hermes-agent-helm-chart) - The community-driven unofficial chart packages Hermes Agent for Kubernetes with cloud-native defaults, explicit state-safety guardrails, and flexible composition points for platform teams.
@@ -1170,7 +1176,6 @@
 - [sam1am/anyapk](https://github.com/sam1am/anyapk) - Install any apk on the device you own.
 - [ck-zhang/reddix](https://github.com/ck-zhang/reddix) - Reddix – Reddit, refined for the terminal.
 - [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
-- [spotbye/SpotiFLAC](https://github.com/spotbye/SpotiFLAC) - Get Spotify tracks in true FLAC from Tidal, Qobuz & Amazon Music — no account required.
 - [Zayno/DoomScreenSaver](https://github.com/Zayno/DoomScreenSaver) - Fun screen saver projects for Windows
 - [home-sweet-gnome/dash-to-panel](https://github.com/home-sweet-gnome/dash-to-panel) - An icon taskbar for the Gnome Shell. This extension moves the dash into the gnome main panel so that the application launchers and system tray are combined into a single panel, similar to that found i
 - [podly-pure-podcasts/podly_pure_podcasts](https://github.com/podly-pure-podcasts/podly_pure_podcasts) - Ad-block for podcasts
@@ -1261,7 +1266,6 @@
 - [makhowastaken/GWGBC_FW](https://github.com/makhowastaken/GWGBC_FW) - Firmware repository for the Funnyplaying FPGA GBC
 - [BlueSkyDefender/Depth3D](https://github.com/BlueSkyDefender/Depth3D) - Depth Based 3D & Other post-process shaders
 - [vs-shirokii/gzdoom-rt](https://github.com/vs-shirokii/gzdoom-rt) - 
-- [modufolio/Koken-App](https://github.com/modufolio/Koken-App) - 
 - [nvim-lua/kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim) - A launch point for your personal nvim configuration
 - [kelseyhightower/kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) - Bootstrap Kubernetes the hard way. No scripts.
 - [MysticFoxDE/WINDOWS-OPTIMIZATIONS](https://github.com/MysticFoxDE/WINDOWS-OPTIMIZATIONS) - SKRIPTS FOR WINDOWS DESUBOPTIMIZATION
@@ -1307,6 +1311,7 @@
 - [aboard-io/tinylittleoffice](https://github.com/aboard-io/tinylittleoffice) - A free office suite where your document is inside the link and easy to share. There's no account and nothing saved unless you choose.
 - [zedeus/nitter](https://github.com/zedeus/nitter) - Alternative Twitter front-end
 - [asciimoo/hister](https://github.com/asciimoo/hister) - Your own search engine
+- [komi-store/komi-store](https://github.com/komi-store/komi-store) - 🩵 A free, open-source app store for developers' releases on GitHub, Codeberg & Forgejo — browse, discover, and install apps with one click. Formerly GitHub Store.
 - [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium) - Get Android app updates straight from the source.
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 
@@ -1339,6 +1344,7 @@
 
 ## python 
 
+- [nikvdp/searxng-ai-kit](https://github.com/nikvdp/searxng-ai-kit) - Standalone SearXNG CLI for coding agents
 - [browserbase/stagehand](https://github.com/browserbase/stagehand) - The SDK to extract data and interact with any site on the web. Get started with Claude Code, Codex, Eve, Mastra, and more.
 - [arnegiacomo/fugleramme](https://github.com/arnegiacomo/fugleramme) - Bird frame for Raspberry Pi or your homelab - real-time bird detection by audio, fully local AI, rendered as real, hand-cut 1800s bird illustrations. On an e-ink panel, a TV, or any screen.
 - [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-agent workflows, automation, and chat apps
@@ -1548,6 +1554,10 @@
 - [microsoft/edit](https://github.com/microsoft/edit) - We all edit.
 - [tsl0922/ttyd](https://github.com/tsl0922/ttyd) - Share your terminal over the web
 - [butlerx/wetty](https://github.com/butlerx/wetty) - Terminal in browser over http/https. (Ajaxterm/Anyterm alternative, but much better)
+
+## termux 
+
+- [stupside/castor](https://github.com/stupside/castor) - Point it at any web page and it finds the video, extracts the stream, transcodes it and casts in real time to your TV. It even burns subtitles….
 
 ## terraform 
 

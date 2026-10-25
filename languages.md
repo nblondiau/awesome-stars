@@ -527,6 +527,7 @@
 
 ## Rust 
 
+- [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on
 - [faisalkindi/DLSS5oneclick](https://github.com/faisalkindi/DLSS5oneclick) - One-click setup of the leaked DLSS 5 neural-rendering build for any DX11/DX12 game on RTX 20–50, with or without DLSS. ReShade + RenoDX add-on (or OptiScaler engine); DLSS5-Feeder + LumeniteFX for gam
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
 - [BerZerker96/Osiris-Vr-Viewer](https://github.com/BerZerker96/Osiris-Vr-Viewer) - A full-resolution OpenXR stereoscopic 3D viewer with screen geometry, head-tracking output, and a real-time tuning GUI.
@@ -620,6 +621,7 @@
 
 ## TypeScript 
 
+- [withastro/astro](https://github.com/withastro/astro) - The web framework for content-driven websites.
 - [aboard-io/tinylittleoffice](https://github.com/aboard-io/tinylittleoffice) - A free office suite where your document is inside the link and easy to share. There's no account and nothing saved unless you choose.
 - [pingdotgg/t3code](https://github.com/pingdotgg/t3code) - 
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.

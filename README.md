@@ -591,7 +591,7 @@
 
 ## electron 
 
-- [OrangeJedi/Aerial](https://github.com/OrangeJedi/Aerial) - Apple TV screen saver for Windows
+- [AerialWindows/Aerial](https://github.com/AerialWindows/Aerial) - Apple TV screen saver for Windows
 - [4gray/iptvnator](https://github.com/4gray/iptvnator) - :tv: Cross-platform IPTV player application with multiple features, such as support of m3u and m3u8 playlists, favorites, TV guide, TV archive/catchup and more.
 
 ## emulator 
@@ -1089,6 +1089,7 @@
 
 ## others 
 
+- [16BitWonder/NX-Update-Checker](https://github.com/16BitWonder/NX-Update-Checker) - A small console application that checks a Switch's installed contents against a provided versionlist for newer updates.
 - [CrownPrime/CrownsDLSS5ER](https://github.com/CrownPrime/CrownsDLSS5ER) - DLSS 5 for ELDEN RING. Done right.
 - [lexiforest/curl-impersonate](https://github.com/lexiforest/curl-impersonate) - An active fork of curl-impersonate with more versions and build targets. A series of patches that make curl requests look like Chrome, Firefox and Safari.
 - [pingdotgg/t3code](https://github.com/pingdotgg/t3code) - 
@@ -1165,7 +1166,7 @@
 - [micasa-dev/micasa](https://github.com/micasa-dev/micasa) - A modal TUI for tracking home projects, maintenance schedules, appliances, and vendor quotes.
 - [reisxd/TizenTubeCobalt](https://github.com/reisxd/TizenTubeCobalt) - Experience TizenTube on other devices that are not Tizen.
 - [kiwibrowser/src.next](https://github.com/kiwibrowser/src.next) - Source-code for Kiwi Next, a Kiwi Browser auto-rebased with latest Chromium
-- [mickamy/sql-tap](https://github.com/mickamy/sql-tap) - Watch SQL traffic in real-time with a TUI
+- [proto-tap/sql-tap](https://github.com/proto-tap/sql-tap) - Watch SQL traffic in real-time with a TUI
 - [promptpirate-x/discord-id-bypass-tool](https://github.com/promptpirate-x/discord-id-bypass-tool) - A verified tool that works on any potato computer that will let you bypass discord verification
 - [anujja/DoNotNotify](https://github.com/anujja/DoNotNotify) - DoNotNotify app
 - [yancharkin/SpelunkyClassicHDhtml5](https://github.com/yancharkin/SpelunkyClassicHDhtml5) - HTML5 version of Spelunky Classic HD.
@@ -1211,7 +1212,7 @@
 - [Diolinux/PhotoGIMP](https://github.com/Diolinux/PhotoGIMP) - A Patch for GIMP 3+ for Photoshop Users
 - [openpubkey/opkssh](https://github.com/openpubkey/opkssh) - opkssh (OpenPubkey SSH)
 - [9001/copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, SFTP, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file
-- [sthetix/HATS](https://github.com/sthetix/HATS) - Complete Homebrew Apps Tools & Store distribution for a modded NX
+- [sthetix/HATS](https://github.com/sthetix/HATS) - NX Homebrew Apps Tools & Store
 - [schellingb/dosbox-pure](https://github.com/schellingb/dosbox-pure) - DOSBox Pure is a new fork of DOSBox built for RetroArch/Libretro aiming for simplicity and ease of use.
 - [ardoviniandrea/ViniPlay](https://github.com/ardoviniandrea/ViniPlay) - 
 - [UZDoom/UZDoom](https://github.com/UZDoom/UZDoom) - UZDoom is a feature centric port for all Doom engine games, based on GZDoom, adding an advanced renderer and powerful scripting capabilities
@@ -1651,7 +1652,7 @@
 - [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Make videos programmatically with React
 - [iv-org/invidious](https://github.com/iv-org/invidious) - Invidious is an alternative front-end to YouTube
 - [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line media player
-- [OrangeJedi/Aerial](https://github.com/OrangeJedi/Aerial) - Apple TV screen saver for Windows
+- [AerialWindows/Aerial](https://github.com/AerialWindows/Aerial) - Apple TV screen saver for Windows
 - [4gray/iptvnator](https://github.com/4gray/iptvnator) - :tv: Cross-platform IPTV player application with multiple features, such as support of m3u and m3u8 playlists, favorites, TV guide, TV archive/catchup and more.
 
 ## vim 

@@ -94,7 +94,7 @@
 
 - [tgeorgiadis/quiver-launcher](https://github.com/tgeorgiadis/quiver-launcher) - A modern launcher for downloading, installing, and running apps from GitHub and GitLab releases. With a personal library, community catalog subscriptions, and flexible filtering.
 - [thebookisclosed/ViVe](https://github.com/thebookisclosed/ViVe) - C# library and console app for using new feature control APIs available in Windows 10 version 2004 and newer
-- [genesisinteractive/QuestRoomScan](https://github.com/genesisinteractive/QuestRoomScan) - Open source textured room scanner for Meta Quest 3 (Unity 6 URP): real-time textured mesh on the headset, on-device texture refinement, Gaussian splats, spatial-anchor persistence. Used in CoasterMani
+- [genesisinteractive/QuestRoomScan](https://github.com/genesisinteractive/QuestRoomScan) - Open-source room scanner for Meta Quest 3: real-time textured 3D mesh, texture refinement and Gaussian splats in Unity
 - [openpotato/openholidaysapi](https://github.com/openpotato/openholidaysapi) - Web service for the OpenHolidays API project
 - [TonWonton/RE9_CustomCameraFOV](https://github.com/TonWonton/RE9_CustomCameraFOV) - Custom camera FOV mod / plugin for RE9. Set different FOV for third person, first person, and ADS. Can also disable ADS zoom as well as choose between different FOV scaling types (set exact values, or
 - [aelassas/servy](https://github.com/aelassas/servy) - Enterprise-Grade Windows Service Wrapper

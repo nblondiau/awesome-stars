@@ -1107,6 +1107,8 @@
 
 ## others 
 
+- [wilsjo2/OptiScaler-DLSSNR-PreSR-Multipass](https://github.com/wilsjo2/OptiScaler-DLSSNR-PreSR-Multipass) - A game mod that uses NVIDIA AI to change lighting, detail and colour, with controls for strength and performance.
+- [CircuitLord/CircuitLordVRModInstaller](https://github.com/CircuitLord/CircuitLordVRModInstaller) - One-click installer for Big Walk VR and Titanfall 2 VR
 - [16BitWonder/NX-Update-Checker](https://github.com/16BitWonder/NX-Update-Checker) - A small console application that checks a Switch's installed contents against a provided versionlist for newer updates.
 - [CrownPrime/CrownsDLSS5ER](https://github.com/CrownPrime/CrownsDLSS5ER) - DLSS 5 for ELDEN RING. Done right.
 - [lexiforest/curl-impersonate](https://github.com/lexiforest/curl-impersonate) - An active fork of curl-impersonate with more versions and build targets. A series of patches that make curl requests look like Chrome, Firefox and Safari.
@@ -1260,7 +1262,7 @@
 - [martymcmodding/iMMERSE](https://github.com/martymcmodding/iMMERSE) - Marty's Mods Epic ReShade Effects
 - [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser
 - [drdv/makefile-doc](https://github.com/drdv/makefile-doc) - AWK script for Makefile docs
-- [vpinball/vpinball](https://github.com/vpinball/vpinball) - Visual Pinball
+- [vpinball/vpinball](https://github.com/vpinball/vpinball) - Visual Pinball - An open source pinball table editor and simulator.
 - [SideQuestVR/SideQuest](https://github.com/SideQuestVR/SideQuest) - The SideQuest desktop application
 - [zhongyang219/TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor) - 这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。
 - [elsesiy/kubectl-view-secret](https://github.com/elsesiy/kubectl-view-secret) - Kubernetes CLI plugin to decode Kubernetes secrets

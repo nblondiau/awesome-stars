@@ -92,6 +92,7 @@
 
 ## C# # 
 
+- [CircuitLord/CircuitLordVRModInstaller](https://github.com/CircuitLord/CircuitLordVRModInstaller) - One-click installer for Big Walk VR and Titanfall 2 VR
 - [thebookisclosed/ViVe](https://github.com/thebookisclosed/ViVe) - C# library and console app for using new feature control APIs available in Windows 10 version 2004 and newer
 - [genesisinteractive/QuestRoomScan](https://github.com/genesisinteractive/QuestRoomScan) - Open-source room scanner for Meta Quest 3: real-time textured 3D mesh, texture refinement and Gaussian splats in Unity
 - [openpotato/openholidaysapi](https://github.com/openpotato/openholidaysapi) - Web service for the OpenHolidays API project
@@ -111,6 +112,7 @@
 
 ## C++ 
 
+- [wilsjo2/OptiScaler-DLSSNR-PreSR-Multipass](https://github.com/wilsjo2/OptiScaler-DLSSNR-PreSR-Multipass) - A game mod that uses NVIDIA AI to change lighting, detail and colour, with controls for strength and performance.
 - [Niko1221/Strata](https://github.com/Niko1221/Strata) - Qwen3.8-Flash-Next on any consumer hardware: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API on localhost, optional image input.
 - [danielgomesvieira2000/wave-race-64-recomp](https://github.com/danielgomesvieira2000/wave-race-64-recomp) - An AI-coded PC port of the Nintendo 64 game 'Wave Race 64'.
 - [adonis-singh/re4](https://github.com/adonis-singh/re4) - Resident Evil 4 (GameCube, G4BE08 debug build) — complete byte-identical decompilation to C/C++
@@ -144,7 +146,7 @@
 - [crosire/reshade](https://github.com/crosire/reshade) - A generic post-processing injector for games and video software.
 - [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser
 - [games-on-whales/wolf](https://github.com/games-on-whales/wolf) - Stream virtual desktops and games running in Docker
-- [vpinball/vpinball](https://github.com/vpinball/vpinball) - Visual Pinball
+- [vpinball/vpinball](https://github.com/vpinball/vpinball) - Visual Pinball - An open source pinball table editor and simulator.
 - [eliboa/TegraRcmGUI](https://github.com/eliboa/TegraRcmGUI) - C++ GUI for TegraRcmSmash (Fusée Gelée exploit for Nintendo Switch)
 - [zhongyang219/TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor) - 这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。
 - [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!

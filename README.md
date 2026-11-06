@@ -1122,6 +1122,7 @@
 
 ## others 
 
+- [thetoadsage/bookorbit-zlib-plugin](https://github.com/thetoadsage/bookorbit-zlib-plugin) - zlib is a dependency-free BookOrbit plugin API v1 indexer for ebooks
 - [wilsjo2/OptiScaler-DLSSNR-PreSR-Multipass](https://github.com/wilsjo2/OptiScaler-DLSSNR-PreSR-Multipass) - A game mod that uses NVIDIA AI to change lighting, detail and colour, with controls for strength and performance.
 - [CircuitLord/CircuitLordVRModInstaller](https://github.com/CircuitLord/CircuitLordVRModInstaller) - One-click installer for Big Walk VR and Titanfall 2 VR
 - [16BitWonder/NX-Update-Checker](https://github.com/16BitWonder/NX-Update-Checker) - A small console application that checks a Switch's installed contents against a provided versionlist for newer updates.

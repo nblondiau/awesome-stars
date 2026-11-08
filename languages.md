@@ -24,7 +24,6 @@
 - [JavaScript](#javascript)
 - [Jsonnet](#jsonnet)
 - [Jupyter Notebook](#jupyter-notebook)
-- [Just](#just)
 - [Kotlin](#kotlin)
 - [Lua](#lua)
 - [Makefile](#makefile)
@@ -179,6 +178,7 @@
 
 ## Go 
 
+- [gabe565/CastSponsorSkip](https://github.com/gabe565/CastSponsorSkip) - Skip YouTube sponsorships (and sometimes ads) on all local Google Cast devices.
 - [k8up-io/k8up](https://github.com/k8up-io/k8up) - Kubernetes and OpenShift Backup Operator
 - [runatlantis/atlantis](https://github.com/runatlantis/atlantis) - Terraform Pull Request Automation
 - [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at
@@ -317,7 +317,6 @@
 ## JavaScript 
 
 - [thetoadsage/bookorbit-zlib-plugin](https://github.com/thetoadsage/bookorbit-zlib-plugin) - zlib is a dependency-free BookOrbit plugin API v1 indexer for ebooks
-- [bekkaze/abusebox](https://github.com/bekkaze/abusebox) - Know your mail server is blacklisted before your users do. Self-hosted monitoring for your IPs and domains:  DNS blacklists, SSL and domain expiry, SPF/DKIM/DMARC and uptime, with alerts.
 - [nicobailon/pi-web-access](https://github.com/nicobailon/pi-web-access) - Web search and content extraction extension for Pi coding agent
 - [twalichiewicz/Backchannel](https://github.com/twalichiewicz/Backchannel) - Backchannel brings the internet's conversations into whatever you're reading. It blends Hacker News, Bluesky, Reddit, and more into a single discussion thread beside any page, then brings those source
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
@@ -357,10 +356,6 @@
 ## Jupyter Notebook 
 
 - [OpenGenerativeAI/llm-colosseum](https://github.com/OpenGenerativeAI/llm-colosseum) - Benchmark LLMs by fighting in Street Fighter 3! The new way to evaluate the quality of an LLM
-
-## Just 
-
-- [ublue-os/bazzite](https://github.com/ublue-os/bazzite) - Bazzite makes gaming and everyday use smoother and simpler across desktop PCs, handhelds, tablets, and home theater PCs.
 
 ## Kotlin 
 
@@ -472,6 +467,7 @@
 
 ## Python 
 
+- [bekkaze/abusebox](https://github.com/bekkaze/abusebox) - Know your mail server is blacklisted before your users do. Self-hosted monitoring for your IPs and domains:  DNS blacklists, SSL and domain expiry, SPF/DKIM/DMARC and uptime, with alerts.
 - [lexiforest/curl-impersonate](https://github.com/lexiforest/curl-impersonate) - An active fork of curl-impersonate with more versions and build targets. A series of patches that make curl requests look like Chrome, Firefox and Safari.
 - [nikvdp/searxng-ai-kit](https://github.com/nikvdp/searxng-ai-kit) - Standalone SearXNG CLI for coding agents
 - [UmbraProjects/PostersPlus](https://github.com/UmbraProjects/PostersPlus) - A modern poster overlay
@@ -594,6 +590,7 @@
 - [corbindavenport/just-the-browser](https://github.com/corbindavenport/just-the-browser) - Remove AI features, telemetry data reporting, sponsored content, product integrations, and other annoyances from web browsers.
 - [fsquillace/kyrat](https://github.com/fsquillace/kyrat) - SSH wrapper script that brings your dotfiles always with you on Linux and OSX
 - [entr0pia/trichromelibrary-squoosh](https://github.com/entr0pia/trichromelibrary-squoosh) - Remove the outdated TrichromeLibrary | 移除过时的 TrichromeLibrary
+- [ublue-os/bazzite](https://github.com/ublue-os/bazzite) - Bazzite makes gaming and everyday use smoother and simpler across desktop PCs, handhelds, tablets, and home theater PCs.
 - [firehol/blocklist-ipsets](https://github.com/firehol/blocklist-ipsets) - ipsets dynamically updated with firehol's update-ipsets.sh script
 - [sthetix/HATS](https://github.com/sthetix/HATS) - NX Homebrew Apps Tools & Store
 - [omacom/omakub](https://github.com/omacom/omakub) - Retired — the story lives at https://omarchy.org/omakub, the thread continues at https://omabuntu.omakasui.org

@@ -207,12 +207,14 @@
 
 ## agents 
 
+- [pingdotgg/t3code](https://github.com/pingdotgg/t3code) - The best way to control Claude Code, Codex and more from any computer or phone
 - [browserbase/stagehand](https://github.com/browserbase/stagehand) - The SDK to extract data and interact with any site on the web. Get started with Claude Code, Codex, Eve, Mastra, and more.
 - [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.
 
 ## ai 
 
 - [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on
+- [pingdotgg/t3code](https://github.com/pingdotgg/t3code) - The best way to control Claude Code, Codex and more from any computer or phone
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [browserbase/stagehand](https://github.com/browserbase/stagehand) - The SDK to extract data and interact with any site on the web. Get started with Claude Code, Codex, Eve, Mastra, and more.
 - [The-PR-Agent/pr-agent](https://github.com/The-PR-Agent/pr-agent) - 🚀 PR Agent: The Original Open-Source PR Reviewer. This project is not the Qodo free tier.
@@ -234,7 +236,7 @@
 
 ## ai-agents 
 
-- [synchopate/llama-modchip](https://github.com/synchopate/llama-modchip) - 🐋 Run 284B DeepSeek-V4-Flash (&lt;59GiB RAM, 44.4 tok/s pp, 9.1-14.7 tok/s) & 30B MoEs (25-111 tok/s) on a pure 64GB CPU at 256K ctx (0 GPUs). SwiGLU-H2, Stockfish-PVS L3 & 13ms Claude Code restore.
+- [synchopate/llama-modchip](https://github.com/synchopate/llama-modchip) - Run 284B DeepSeek-V4-Flash (&lt;59GiB RAM: 41.1 cold pp, 9.1 N=1 tg, up to 25.3 spec tok/s) & 30B MoEs (22.4 N=1 / 111.6 spec tok/s) on 64GB CPU (0 GPUs).
 - [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on
 - [nikvdp/searxng-ai-kit](https://github.com/nikvdp/searxng-ai-kit) - Standalone SearXNG CLI for coding agents
 - [browserbase/stagehand](https://github.com/browserbase/stagehand) - The SDK to extract data and interact with any site on the web. Get started with Claude Code, Codex, Eve, Mastra, and more.
@@ -248,7 +250,7 @@
 
 ## analytics 
 
-- [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.
+- [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source AI engineering platform: AI Gateway, agent observability, evals, and prompt/skill management, built on OpenTelemetry. One open platform for every AI call and every agent. Self-host or us
 
 ## android 
 
@@ -349,6 +351,7 @@
 
 ## chatgpt 
 
+- [pingdotgg/t3code](https://github.com/pingdotgg/t3code) - The best way to control Claude Code, Codex and more from any computer or phone
 - [LibreChat-AI/LibreChat](https://github.com/LibreChat-AI/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, me
 
 ## chrome 
@@ -360,6 +363,7 @@
 
 ## claude 
 
+- [pingdotgg/t3code](https://github.com/pingdotgg/t3code) - The best way to control Claude Code, Codex and more from any computer or phone
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 - [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥ Coding agent with the IDE wired in. Built by Stencil Labs.
 - [Lunatic16/paywall-bypass-skill](https://github.com/Lunatic16/paywall-bypass-skill) - Identify paywall types and generate bypass strategies for web scraping and content extraction.
@@ -368,8 +372,9 @@
 
 ## claude-code 
 
-- [synchopate/llama-modchip](https://github.com/synchopate/llama-modchip) - 🐋 Run 284B DeepSeek-V4-Flash (&lt;59GiB RAM, 44.4 tok/s pp, 9.1-14.7 tok/s) & 30B MoEs (25-111 tok/s) on a pure 64GB CPU at 256K ctx (0 GPUs). SwiGLU-H2, Stockfish-PVS L3 & 13ms Claude Code restore.
+- [synchopate/llama-modchip](https://github.com/synchopate/llama-modchip) - Run 284B DeepSeek-V4-Flash (&lt;59GiB RAM: 41.1 cold pp, 9.1 N=1 tg, up to 25.3 spec tok/s) & 30B MoEs (22.4 N=1 / 111.6 spec tok/s) on 64GB CPU (0 GPUs).
 - [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on
+- [pingdotgg/t3code](https://github.com/pingdotgg/t3code) - The best way to control Claude Code, Codex and more from any computer or phone
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 - [weave-os/router](https://github.com/weave-os/router) - Model router for agentic systems. Routes every prompt to the right model in &lt;50ms. Cut costs 40-70% with just an endpoint change.
@@ -424,6 +429,7 @@
 
 ## code 
 
+- [pingdotgg/t3code](https://github.com/pingdotgg/t3code) - The best way to control Claude Code, Codex and more from any computer or phone
 - [boyter/scc](https://github.com/boyter/scc) - Sloc, Cloc and Code: scc is a very fast accurate code counter with complexity calculations and COCOMO estimates written in pure Go
 
 ## code-quality 
@@ -944,7 +950,7 @@
 - [defilantech/LLMKube](https://github.com/defilantech/LLMKube) - Kubernetes operator for self-hosted LLM inference across a heterogeneous GPU fleet: NVIDIA CUDA, AMD Vulkan, and Apple Silicon Metal. Runtimes: llama.cpp, vLLM, TGI, mlx-server. Multi-GPU sharding, mo
 - [PrismML-Eng/Bonsai-demo](https://github.com/PrismML-Eng/Bonsai-demo) - Bonsai Demo
 - [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥ Coding agent with the IDE wired in. Built by Stencil Labs.
-- [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.
+- [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source AI engineering platform: AI Gateway, agent observability, evals, and prompt/skill management, built on OpenTelemetry. One open platform for every AI call and every agent. Self-host or us
 - [control-theory/dstl8](https://github.com/control-theory/dstl8) - dstl8 CLI distribution
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) - SRE Agent - CNCF Sandbox Project
@@ -1026,7 +1032,7 @@
 ## monitoring 
 
 - [bekkaze/abusebox](https://github.com/bekkaze/abusebox) - Know your mail server is blacklisted before your users do. Self-hosted monitoring for the IPs and domains you run: DNS blacklists for IPv4, IPv6 and domain names, SSL and domain expiry, SPF/DKIM/DMARC
-- [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.
+- [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source AI engineering platform: AI Gateway, agent observability, evals, and prompt/skill management, built on OpenTelemetry. One open platform for every AI call and every agent. Self-host or us
 - [OneUptime/oneuptime](https://github.com/OneUptime/oneuptime) - Complete open-source monitoring and observability platform.
 - [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) - SRE Agent - CNCF Sandbox Project
 - [ivbeg/awesome-status-pages](https://github.com/ivbeg/awesome-status-pages) - Awesome list of status page open source software, services and public status pages of major internet companies
@@ -1100,7 +1106,7 @@
 ## open-source 
 
 - [bekkaze/abusebox](https://github.com/bekkaze/abusebox) - Know your mail server is blacklisted before your users do. Self-hosted monitoring for the IPs and domains you run: DNS blacklists for IPv4, IPv6 and domain names, SSL and domain expiry, SPF/DKIM/DMARC
-- [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.
+- [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source AI engineering platform: AI Gateway, agent observability, evals, and prompt/skill management, built on OpenTelemetry. One open platform for every AI call and every agent. Self-host or us
 - [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet Computer! Free, Open-Source, and Self-Hostable.
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [Sync-in/server](https://github.com/Sync-in/server) - Sync-in · Sovereign platform for file storage, sharing, synchronization, and collaboration.
@@ -1112,7 +1118,7 @@
 
 - [The-PR-Agent/pr-agent](https://github.com/The-PR-Agent/pr-agent) - 🚀 PR Agent: The Original Open-Source PR Reviewer. This project is not the Qodo free tier.
 - [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥ Coding agent with the IDE wired in. Built by Stencil Labs.
-- [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.
+- [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source AI engineering platform: AI Gateway, agent observability, evals, and prompt/skill management, built on OpenTelemetry. One open platform for every AI call and every agent. Self-host or us
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [LibreChat-AI/LibreChat](https://github.com/LibreChat-AI/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, me
 - [control-theory/gonzo](https://github.com/control-theory/gonzo) - Gonzo! The Go based TUI log analysis tool
@@ -1139,7 +1145,6 @@
 - [16BitWonder/NX-Update-Checker](https://github.com/16BitWonder/NX-Update-Checker) - A small console application that checks a Switch's installed contents against a provided versionlist for newer updates.
 - [CrownPrime/CrownsDLSS5ER](https://github.com/CrownPrime/CrownsDLSS5ER) - DLSS 5 for ELDEN RING. Done right.
 - [lexiforest/curl-impersonate](https://github.com/lexiforest/curl-impersonate) - An active fork of curl-impersonate with more versions and build targets. A series of patches that make curl requests look like Chrome, Firefox and Safari.
-- [pingdotgg/t3code](https://github.com/pingdotgg/t3code) - 
 - [justdataplease/art-history-museum](https://github.com/justdataplease/art-history-museum) - The Timeline Museum — a zoomable art-history timeline with walkable 3D galleries of real paintings, all sourced from Wikipedia
 - [Niko1221/Strata](https://github.com/Niko1221/Strata) - Qwen3.8-Flash-Next on any consumer hardware: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API on localhost, optional image input.
 - [Droid-Deck/DroidDeck](https://github.com/Droid-Deck/DroidDeck) - DroidDeck brings the SteamOS experience to Android
@@ -1394,7 +1399,7 @@
 ## prompt-engineering 
 
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
-- [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.
+- [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source AI engineering platform: AI Gateway, agent observability, evals, and prompt/skill management, built on OpenTelemetry. One open platform for every AI call and every agent. Self-host or us
 
 ## pwa 
 
@@ -1527,7 +1532,7 @@
 - [zedeus/nitter](https://github.com/zedeus/nitter) - Alternative Twitter front-end
 - [defilantech/LLMKube](https://github.com/defilantech/LLMKube) - Kubernetes operator for self-hosted LLM inference across a heterogeneous GPU fleet: NVIDIA CUDA, AMD Vulkan, and Apple Silicon Metal. Runtimes: llama.cpp, vLLM, TGI, mlx-server. Multi-GPU sharding, mo
 - [germondai/trawl](https://github.com/germondai/trawl) - Self-hosted scraping engine — bypasses any JS challenge & captcha: Cloudflare, Turnstile, reCAPTCHA, hCaptcha, GeeTest. FlareSolverr & Byparr alternative and drop-in replacement for your *arr stack.
-- [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.
+- [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source AI engineering platform: AI Gateway, agent observability, evals, and prompt/skill management, built on OpenTelemetry. One open platform for every AI call and every agent. Self-host or us
 - [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - Your lightweight open-source personal agent.
 - [plankanban/planka](https://github.com/plankanban/planka) - Elegant open source project tracking. Self-hosted Kanban for teams — free Community edition, with PLANKA Pro for organisations.
 - [mogenius/renovate-operator](https://github.com/mogenius/renovate-operator) - Operator to streamline renovate executions in Kubernetes
@@ -1758,7 +1763,6 @@
 - [mausimus/ShaderGlass](https://github.com/mausimus/ShaderGlass) - Overlay for running GPU shaders on top of Windows desktop and Wine
 - [ScoopInstaller/Scoop](https://github.com/ScoopInstaller/Scoop) - A command-line installer for Windows.
 - [winapps-org/winapps](https://github.com/winapps-org/winapps) - Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork of https://github.com/Fmstrat/
-- [ShivamXD6/Optimize-Windows](https://github.com/ShivamXD6/Optimize-Windows) - This repository contains an Answer File and Scripts designed to optimize and streamline your Windows installation, making it perfect for gaming, power users, and even low-end laptops or PCs. 🎮💻
 - [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
 - [Devolutions/UniGetUI](https://github.com/Devolutions/UniGetUI) - UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
 - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.

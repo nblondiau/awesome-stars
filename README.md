@@ -381,6 +381,7 @@
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 - [weave-os/router](https://github.com/weave-os/router) - Model router for agentic systems. Routes every prompt to the right model in &lt;50ms. Cut costs 40-70% with just an endpoint change.
+- [control-theory/dstl8](https://github.com/control-theory/dstl8) - Dstl8 CLI, TUI, and MCP server for the telemetry-native AI SRE. One command connects Kubernetes, OpenTelemetry, and AWS, then brings root cause and the fix into Claude Code, Cursor, and Codex.
 - [sirmalloc/ccstatusline](https://github.com/sirmalloc/ccstatusline) - 🚀 Beautiful highly customizable statusline for Claude Code CLI with powerline support, themes, and more.
 - [yuanchuan/aivo](https://github.com/yuanchuan/aivo) - Use your favorite coding agent with any model.
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
@@ -398,7 +399,8 @@
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥ Coding agent with the IDE wired in. Built by Stencil Labs.
 - [514-labs/dnsglobe](https://github.com/514-labs/dnsglobe) - Global DNS propagation checker TUI — watch a DNS record propagate across 34 public resolvers worldwide, on a world map in your terminal
-- [speedyapply/JobSpy](https://github.com/speedyapply/JobSpy) - Jobs scraper library for LinkedIn, Indeed, Glassdoor, ZipRecruiter, Bayt, Naukri, BDJobs & HelloWork
+- [speedyapply/JobSpy](https://github.com/speedyapply/JobSpy) - Jobs scraper library for LinkedIn, Indeed, Glassdoor, ZipRecruiter, Bayt, Naukri, BDJobs, HelloWork & SEEK
+- [control-theory/dstl8](https://github.com/control-theory/dstl8) - Dstl8 CLI, TUI, and MCP server for the telemetry-native AI SRE. One command connects Kubernetes, OpenTelemetry, and AWS, then brings root cause and the fix into Claude Code, Cursor, and Codex.
 - [sirmalloc/ccstatusline](https://github.com/sirmalloc/ccstatusline) - 🚀 Beautiful highly customizable statusline for Claude Code CLI with powerline support, themes, and more.
 - [vercel-labs/agent-desktop](https://github.com/vercel-labs/agent-desktop) - Computer use CLI for AI agents
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
@@ -543,7 +545,7 @@
 
 - [runatlantis/atlantis](https://github.com/runatlantis/atlantis) - Terraform Pull Request Automation
 - [inevolin/k8s-cpu-limits-analyzed](https://github.com/inevolin/k8s-cpu-limits-analyzed) - Kubernetes CPU limits make your apps (very) slow and costly. CPU throttling analyzed, with proof.
-- [control-theory/dstl8](https://github.com/control-theory/dstl8) - dstl8 CLI distribution
+- [control-theory/dstl8](https://github.com/control-theory/dstl8) - Dstl8 CLI, TUI, and MCP server for the telemetry-native AI SRE. One command connects Kubernetes, OpenTelemetry, and AWS, then brings root cause and the fix into Claude Code, Cursor, and Codex.
 - [theplatformlab/CKA-Certified-Kubernetes-Administrator](https://github.com/theplatformlab/CKA-Certified-Kubernetes-Administrator) - CKA Certification Exam Guide 2026 — study notes, practice questions, kubectl cheat sheet, exam tips, and full Kubernetes v1.35 syllabus breakdown. Covers etcd backup, RBAC, kubeadm, Gateway API, Netwo
 - [techiescamp/linux-foundation-coupon](https://github.com/techiescamp/linux-foundation-coupon) - Latest Linux Foundation Coupon Codes  For Certification, Courses, Skillcreds, IT Professional Programs and Skillcreds
 - [OneUptime/oneuptime](https://github.com/OneUptime/oneuptime) - Complete open-source monitoring and observability platform.
@@ -578,7 +580,7 @@
 - [crowdsecurity/crowdsec](https://github.com/crowdsecurity/crowdsec) - Open-source IDS/IPS, WAF and bot detection for Linux, Windows, Docker and Kubernetes, with a crowdsourced blocklist of malicious IPs.
 - [plankanban/planka](https://github.com/plankanban/planka) - Elegant open source project tracking. Self-hosted Kanban for teams — free Community edition, with PLANKA Pro for organisations.
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
-- [google/gvisor](https://github.com/google/gvisor) - Application Kernel for Containers
+- [gvisor/gvisor](https://github.com/gvisor/gvisor) - Application Kernel for Containers
 - [spegel-org/spegel](https://github.com/spegel-org/spegel) - Stateless cluster local OCI registry mirror.
 - [robusta-dev/robusta](https://github.com/robusta-dev/robusta) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
 - [karanhudia/borg-ui](https://github.com/karanhudia/borg-ui) - Replace complex Borg Backup terminal commands with a beautiful web UI. Create, schedule, and   restore backups with just a few clicks.
@@ -871,7 +873,7 @@
 - [FairwindsOps/pluto](https://github.com/FairwindsOps/pluto) - A cli tool to help discover deprecated apiVersions in Kubernetes
 - [doitintl/kube-no-trouble](https://github.com/doitintl/kube-no-trouble) - Easily check your clusters for use of deprecated APIs
 - [rohitg00/kubectl-mcp-server](https://github.com/rohitg00/kubectl-mcp-server) - Published in CNCF Landscape: A MCP server for Kubernetes.
-- [google/gvisor](https://github.com/google/gvisor) - Application Kernel for Containers
+- [gvisor/gvisor](https://github.com/gvisor/gvisor) - Application Kernel for Containers
 - [mogenius/renovate-operator](https://github.com/mogenius/renovate-operator) - Operator to streamline renovate executions in Kubernetes
 - [kubezero/kubezero](https://github.com/kubezero/kubezero) - 🅚⓿ KubeZero (also, Kube0 and K0) is a production-ready zero-friction Platform Orchestrator with GitOps designed for multi-environment Cloud Native setup.
 - [spegel-org/spegel](https://github.com/spegel-org/spegel) - Stateless cluster local OCI registry mirror.
@@ -936,7 +938,7 @@
 - [omakasui/omabuntu](https://github.com/omakasui/omabuntu) - A fork of Omakub, more flexible and refined
 - [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at
 - [ExTV/Podroid](https://github.com/ExTV/Podroid) - A rootless Android app that boots Alpine Linux: run containers (Podman/Docker/LXC) and GUI desktop apps.
-- [google/gvisor](https://github.com/google/gvisor) - Application Kernel for Containers
+- [gvisor/gvisor](https://github.com/gvisor/gvisor) - Application Kernel for Containers
 - [boyter/scc](https://github.com/boyter/scc) - Sloc, Cloc and Code: scc is a very fast accurate code counter with complexity calculations and COCOMO estimates written in pure Go
 - [komi-store/komi-store](https://github.com/komi-store/komi-store) - 🩵 A free, open-source app store for developers' releases on GitHub, Codeberg & Forgejo — browse, discover, and install apps with one click. Formerly GitHub Store.
 - [corbindavenport/just-the-browser](https://github.com/corbindavenport/just-the-browser) - Remove AI features, telemetry data reporting, sponsored content, product integrations, and other annoyances from web browsers.
@@ -955,7 +957,7 @@
 - [PrismML-Eng/Bonsai-demo](https://github.com/PrismML-Eng/Bonsai-demo) - Bonsai Demo
 - [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥ Coding agent with the IDE wired in. Built by Stencil Labs.
 - [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source AI engineering platform: AI Gateway, agent observability, evals, and prompt/skill management, built on OpenTelemetry. One open platform for every AI call and every agent. Self-host or us
-- [control-theory/dstl8](https://github.com/control-theory/dstl8) - dstl8 CLI distribution
+- [control-theory/dstl8](https://github.com/control-theory/dstl8) - Dstl8 CLI, TUI, and MCP server for the telemetry-native AI SRE. One command connects Kubernetes, OpenTelemetry, and AWS, then brings root cause and the fix into Claude Code, Cursor, and Codex.
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) - SRE Agent - CNCF Sandbox Project
 - [p-e-w/heretic](https://github.com/p-e-w/heretic) - Training-free language model modification: Remove censorship, suppress slop, reduce sycophancy, and more
@@ -1008,8 +1010,9 @@
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [exa-labs/exa-mcp-server](https://github.com/exa-labs/exa-mcp-server) - Exa MCP for web search and web crawling!
 - [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥ Coding agent with the IDE wired in. Built by Stencil Labs.
-- [asciimoo/hister](https://github.com/asciimoo/hister) - Your own search engine
+- [asciimoo/nogon](https://github.com/asciimoo/nogon) - Your own search engine
 - [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - Your lightweight open-source personal agent.
+- [control-theory/dstl8](https://github.com/control-theory/dstl8) - Dstl8 CLI, TUI, and MCP server for the telemetry-native AI SRE. One command connects Kubernetes, OpenTelemetry, and AWS, then brings root cause and the fix into Claude Code, Cursor, and Codex.
 - [vercel-labs/agent-desktop](https://github.com/vercel-labs/agent-desktop) - Computer use CLI for AI agents
 - [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - An autonomous agent that conducts deep research on any data using any LLM providers
 - [rohitg00/kubectl-mcp-server](https://github.com/rohitg00/kubectl-mcp-server) - Published in CNCF Landscape: A MCP server for Kubernetes.
@@ -1020,7 +1023,8 @@
 ## mcp-server 
 
 - [exa-labs/exa-mcp-server](https://github.com/exa-labs/exa-mcp-server) - Exa MCP for web search and web crawling!
-- [speedyapply/JobSpy](https://github.com/speedyapply/JobSpy) - Jobs scraper library for LinkedIn, Indeed, Glassdoor, ZipRecruiter, Bayt, Naukri, BDJobs & HelloWork
+- [speedyapply/JobSpy](https://github.com/speedyapply/JobSpy) - Jobs scraper library for LinkedIn, Indeed, Glassdoor, ZipRecruiter, Bayt, Naukri, BDJobs, HelloWork & SEEK
+- [control-theory/dstl8](https://github.com/control-theory/dstl8) - Dstl8 CLI, TUI, and MCP server for the telemetry-native AI SRE. One command connects Kubernetes, OpenTelemetry, and AWS, then brings root cause and the fix into Claude Code, Cursor, and Codex.
 - [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - An autonomous agent that conducts deep research on any data using any LLM providers
 - [rohitg00/kubectl-mcp-server](https://github.com/rohitg00/kubectl-mcp-server) - Published in CNCF Landscape: A MCP server for Kubernetes.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
@@ -1147,6 +1151,8 @@
 
 ## others 
 
+- [TecnaGamer/BeamNG.Earth](https://github.com/TecnaGamer/BeamNG.Earth) - A 1:1 scale streamed Earth for BeamNG.drive: real elevation and satellite imagery, floating origin, LOD streaming from a companion server
+- [BaaRai/ARTEX](https://github.com/BaaRai/ARTEX) - ARTEX - AI autonomous penetration testing system (English translation; upstream: Autumn-27/ARTEX, AGPL-3.0)
 - [koreader/koreader](https://github.com/koreader/koreader) - An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices
 - [thetoadsage/bookorbit-zlib-plugin](https://github.com/thetoadsage/bookorbit-zlib-plugin) - zlib is a dependency-free BookOrbit plugin API v1 indexer for ebooks
 - [wilsjo2/OptiScaler-DLSSNR-PreSR-Multipass](https://github.com/wilsjo2/OptiScaler-DLSSNR-PreSR-Multipass) - A game mod that uses NVIDIA AI to change lighting, detail and colour, with controls for strength and performance.
@@ -1384,7 +1390,7 @@
 
 - [aboard-io/tinylittleoffice](https://github.com/aboard-io/tinylittleoffice) - A free office suite where your document is inside the link and easy to share. There's no account and nothing saved unless you choose.
 - [zedeus/nitter](https://github.com/zedeus/nitter) - Alternative Twitter front-end
-- [asciimoo/hister](https://github.com/asciimoo/hister) - Your own search engine
+- [asciimoo/nogon](https://github.com/asciimoo/nogon) - Your own search engine
 - [komi-store/komi-store](https://github.com/komi-store/komi-store) - 🩵 A free, open-source app store for developers' releases on GitHub, Codeberg & Forgejo — browse, discover, and install apps with one click. Formerly GitHub Store.
 - [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium) - Get Android app updates straight from the source.
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
@@ -1756,7 +1762,7 @@
 
 ## web 
 
-- [asciimoo/hister](https://github.com/asciimoo/hister) - Your own search engine
+- [asciimoo/nogon](https://github.com/asciimoo/nogon) - Your own search engine
 
 ## web-components 
 

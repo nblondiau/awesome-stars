@@ -24,6 +24,7 @@
 - [JavaScript](#javascript)
 - [Jsonnet](#jsonnet)
 - [Jupyter Notebook](#jupyter-notebook)
+- [Just](#just)
 - [Kotlin](#kotlin)
 - [Lua](#lua)
 - [Makefile](#makefile)
@@ -177,6 +178,7 @@
 
 ## Go 
 
+- [BaaRai/ARTEX](https://github.com/BaaRai/ARTEX) - ARTEX - AI autonomous penetration testing system (English translation; upstream: Autumn-27/ARTEX, AGPL-3.0)
 - [gabe565/CastSponsorSkip](https://github.com/gabe565/CastSponsorSkip) - Skip YouTube sponsorships (and sometimes ads) on all local Google Cast devices.
 - [k8up-io/k8up](https://github.com/k8up-io/k8up) - Kubernetes and OpenShift Backup Operator
 - [runatlantis/atlantis](https://github.com/runatlantis/atlantis) - Terraform Pull Request Automation
@@ -186,7 +188,7 @@
 - [defilantech/LLMKube](https://github.com/defilantech/LLMKube) - Kubernetes operator for self-hosted LLM inference across a heterogeneous GPU fleet: NVIDIA CUDA, AMD Vulkan, and Apple Silicon Metal. Runtimes: llama.cpp, vLLM, TGI, mlx-server. Multi-GPU sharding, mo
 - [cosmtrek/mindwalk](https://github.com/cosmtrek/mindwalk) - A visualization tool that replays coding-agent sessions on a 3D map of your codebase.
 - [openclaw/gogcli](https://github.com/openclaw/gogcli) - Google Workspace in your terminal.
-- [asciimoo/hister](https://github.com/asciimoo/hister) - Your own search engine
+- [asciimoo/nogon](https://github.com/asciimoo/nogon) - Your own search engine
 - [weave-os/router](https://github.com/weave-os/router) - Model router for agentic systems. Routes every prompt to the right model in &lt;50ms. Cut costs 40-70% with just an endpoint change.
 - [stakater/Reloader](https://github.com/stakater/Reloader) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you're usin
 - [bitmagnet-io/bitmagnet](https://github.com/bitmagnet-io/bitmagnet) - A self-hosted BitTorrent indexer, DHT crawler, content classifier and torrent search engine with web UI, GraphQL API and Servarr stack integration.
@@ -205,7 +207,7 @@
 - [FairwindsOps/pluto](https://github.com/FairwindsOps/pluto) - A cli tool to help discover deprecated apiVersions in Kubernetes
 - [doitintl/kube-no-trouble](https://github.com/doitintl/kube-no-trouble) - Easily check your clusters for use of deprecated APIs
 - [micasa-dev/micasa](https://github.com/micasa-dev/micasa) - A modal TUI for tracking home projects, maintenance schedules, appliances, and vendor quotes.
-- [google/gvisor](https://github.com/google/gvisor) - Application Kernel for Containers
+- [gvisor/gvisor](https://github.com/gvisor/gvisor) - Application Kernel for Containers
 - [proto-tap/sql-tap](https://github.com/proto-tap/sql-tap) - Watch SQL traffic in real-time with a TUI
 - [mogenius/renovate-operator](https://github.com/mogenius/renovate-operator) - Operator to streamline renovate executions in Kubernetes
 - [boyter/scc](https://github.com/boyter/scc) - Sloc, Cloc and Code: scc is a very fast accurate code counter with complexity calculations and COCOMO estimates written in pure Go
@@ -317,7 +319,7 @@
 
 - [thetoadsage/bookorbit-zlib-plugin](https://github.com/thetoadsage/bookorbit-zlib-plugin) - zlib is a dependency-free BookOrbit plugin API v1 indexer for ebooks
 - [nicobailon/pi-web-access](https://github.com/nicobailon/pi-web-access) - Web search and content extraction extension for Pi coding agent
-- [twalichiewicz/Backchannel](https://github.com/twalichiewicz/Backchannel) - Backchannel brings the internet's conversations into whatever you're reading. It blends Hacker News, Bluesky, Reddit, and more into a single discussion thread beside any page, then brings those source
+- [Triglavis/Backchannel](https://github.com/Triglavis/Backchannel) - Backchannel brings the internet's conversations into whatever you're reading. It blends Hacker News, Bluesky, Reddit, and more into a single discussion thread beside any page, then brings those source
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 - [borgius/jobspy-mcp-server](https://github.com/borgius/jobspy-mcp-server) - MCP server to search for jobs across multiple job listing platforms
 - [nikkiluzader/mapng](https://github.com/nikkiluzader/mapng) - 
@@ -356,6 +358,10 @@
 
 - [OpenGenerativeAI/llm-colosseum](https://github.com/OpenGenerativeAI/llm-colosseum) - Benchmark LLMs by fighting in Street Fighter 3! The new way to evaluate the quality of an LLM
 
+## Just 
+
+- [ublue-os/bazzite](https://github.com/ublue-os/bazzite) - Bazzite makes gaming and everyday use smoother and simpler across desktop PCs, handhelds, tablets, and home theater PCs.
+
 ## Kotlin 
 
 - [Droid-Deck/DroidDeck](https://github.com/Droid-Deck/DroidDeck) - DroidDeck brings the SteamOS experience to Android
@@ -375,7 +381,7 @@
 - [RikkaApps/Shizuku](https://github.com/RikkaApps/Shizuku) - Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.
 - [librepods-org/librepods](https://github.com/librepods-org/librepods) - AirPods liberated from Apple's ecosystem.
 - [edneyosf/Edconv](https://github.com/edneyosf/Edconv) - A user-friendly FFmpeg GUI
-- [MetrolistGroup/Metrolist](https://github.com/MetrolistGroup/Metrolist) - YouTube Music client for Android
+- [MetrolistGroup/Metrolist](https://github.com/MetrolistGroup/Metrolist) - Material Design YouTube Music client for Android, iOS and desktop
 - [zacharee/Tweaker](https://github.com/zacharee/Tweaker) - 
 - [parallelcc/MiCTS](https://github.com/parallelcc/MiCTS) - Trigger Circle to Search on any Android 9–16 device
 
@@ -466,6 +472,7 @@
 
 ## Python 
 
+- [TecnaGamer/BeamNG.Earth](https://github.com/TecnaGamer/BeamNG.Earth) - A 1:1 scale streamed Earth for BeamNG.drive: real elevation and satellite imagery, floating origin, LOD streaming from a companion server
 - [synchopate/llama-modchip](https://github.com/synchopate/llama-modchip) - Run 284B DeepSeek-V4-Flash (&lt;59GiB RAM: 41.1 cold pp, 9.1 N=1 tg, up to 25.3 spec tok/s) & 30B MoEs (22.4 N=1 / 111.6 spec tok/s) on 64GB CPU (0 GPUs).
 - [bekkaze/abusebox](https://github.com/bekkaze/abusebox) - Know your mail server is blacklisted before your users do. Self-hosted monitoring for the IPs and domains you run: DNS blacklists for IPv4, IPv6 and domain names, SSL and domain expiry, SPF/DKIM/DMARC
 - [lexiforest/curl-impersonate](https://github.com/lexiforest/curl-impersonate) - An active fork of curl-impersonate with more versions and build targets. A series of patches that make curl requests look like Chrome, Firefox and Safari.
@@ -480,7 +487,7 @@
 - [samba-in-kubernetes/samba-container](https://github.com/samba-in-kubernetes/samba-container) - Build Samba Container Images / Kubernetes & Container Runtime Example Files
 - [ahmetoner/whisper-asr-webservice](https://github.com/ahmetoner/whisper-asr-webservice) - OpenAI Whisper ASR Webservice API
 - [element-hq/ess-helm](https://github.com/element-hq/ess-helm) - Element Server Suite Community Edition
-- [speedyapply/JobSpy](https://github.com/speedyapply/JobSpy) - Jobs scraper library for LinkedIn, Indeed, Glassdoor, ZipRecruiter, Bayt, Naukri, BDJobs & HelloWork
+- [speedyapply/JobSpy](https://github.com/speedyapply/JobSpy) - Jobs scraper library for LinkedIn, Indeed, Glassdoor, ZipRecruiter, Bayt, Naukri, BDJobs, HelloWork & SEEK
 - [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - Your lightweight open-source personal agent.
 - [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser) - Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 50+ tests passed.
 - [kyverno/policies](https://github.com/kyverno/policies) - Kyverno policies for security and best practices
@@ -556,7 +563,7 @@
 - [Julien-cpsn/desktop-tui](https://github.com/Julien-cpsn/desktop-tui) - A desktop environment without graphics
 - [garyttierney/me3](https://github.com/garyttierney/me3) - A framework for modding and instrumenting games.
 - [hcavarsan/kftray](https://github.com/hcavarsan/kftray) - kubectl port-forward manager and reverse tunnel (ngrok-like) for exposing local  services publicly, with TLS termination, HTTP traffic inspection, UDP forwarding,  multi-hop proxy routing through k8s 
-- [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, rg --json, and blame output
+- [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting interface for git, diff, blame, and grep/ripgrep
 - [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser
 - [fcsonline/tmux-thumbs](https://github.com/fcsonline/tmux-thumbs) - A lightning fast version of tmux-fingers written in Rust, copy/pasting tmux like vimium/vimperator
 - [tattoy-org/tattoy](https://github.com/tattoy-org/tattoy) - A text-based compositor for modern terminals
@@ -581,7 +588,7 @@
 - [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
 - [RealDougEubanks/gitpreserver](https://github.com/RealDougEubanks/gitpreserver) - GitPreserver is a self-hosted, Docker-based git repository backup tool. The core idea: GitHub and other platforms are unreliable, so this acts as a "life preserver" — automatically mirroring your repo
 - [ultraworkers/hermes-agent-helm-chart](https://github.com/ultraworkers/hermes-agent-helm-chart) - The community-driven unofficial chart packages Hermes Agent for Kubernetes with cloud-native defaults, explicit state-safety guardrails, and flexible composition points for platform teams.
-- [control-theory/dstl8](https://github.com/control-theory/dstl8) - dstl8 CLI distribution
+- [control-theory/dstl8](https://github.com/control-theory/dstl8) - Dstl8 CLI, TUI, and MCP server for the telemetry-native AI SRE. One command connects Kubernetes, OpenTelemetry, and AWS, then brings root cause and the fix into Claude Code, Cursor, and Codex.
 - [theplatformlab/CKA-Certified-Kubernetes-Administrator](https://github.com/theplatformlab/CKA-Certified-Kubernetes-Administrator) - CKA Certification Exam Guide 2026 — study notes, practice questions, kubectl cheat sheet, exam tips, and full Kubernetes v1.35 syllabus breakdown. Covers etcd backup, RBAC, kubeadm, Gateway API, Netwo
 - [ridjex/waf-testing](https://github.com/ridjex/waf-testing) - A lightweight toolkit for testing Web Application Firewall (WAF) effectiveness and identifying security gaps. This repository is available as a template that you can quickly customize for your own WAF
 - [Steam-Headless/docker-steam-headless](https://github.com/Steam-Headless/docker-steam-headless) - A Headless Steam Docker image supporting NVIDIA GPU and accessible via Web UI
@@ -592,7 +599,6 @@
 - [corbindavenport/just-the-browser](https://github.com/corbindavenport/just-the-browser) - Remove AI features, telemetry data reporting, sponsored content, product integrations, and other annoyances from web browsers.
 - [fsquillace/kyrat](https://github.com/fsquillace/kyrat) - SSH wrapper script that brings your dotfiles always with you on Linux and OSX
 - [entr0pia/trichromelibrary-squoosh](https://github.com/entr0pia/trichromelibrary-squoosh) - Remove the outdated TrichromeLibrary | 移除过时的 TrichromeLibrary
-- [ublue-os/bazzite](https://github.com/ublue-os/bazzite) - Bazzite makes gaming and everyday use smoother and simpler across desktop PCs, handhelds, tablets, and home theater PCs.
 - [firehol/blocklist-ipsets](https://github.com/firehol/blocklist-ipsets) - ipsets dynamically updated with firehol's update-ipsets.sh script
 - [sthetix/HATS](https://github.com/sthetix/HATS) - NX Homebrew Apps Tools & Store
 - [omacom/omakub](https://github.com/omacom/omakub) - Retired — the story lives at https://omarchy.org/omakub, the thread continues at https://omabuntu.omakasui.org

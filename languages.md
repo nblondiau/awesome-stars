@@ -317,6 +317,7 @@
 
 ## JavaScript 
 
+- [4lwayz/portwatch-vi](https://github.com/4lwayz/portwatch-vi) - Does GTA VI run on PC yet? A live tracker of community recompilation and emulation efforts, updated daily.
 - [thetoadsage/bookorbit-zlib-plugin](https://github.com/thetoadsage/bookorbit-zlib-plugin) - zlib is a dependency-free BookOrbit plugin API v1 indexer for ebooks
 - [nicobailon/pi-web-access](https://github.com/nicobailon/pi-web-access) - Web search and content extraction extension for Pi coding agent
 - [Triglavis/Backchannel](https://github.com/Triglavis/Backchannel) - Backchannel brings the internet's conversations into whatever you're reading. It blends Hacker News, Bluesky, Reddit, and more into a single discussion thread beside any page, then brings those source
@@ -413,7 +414,7 @@
 
 ## Others 
 
-- [ADWMC/gta6-windows-tracker](https://github.com/ADWMC/gta6-windows-tracker) - Tracking efforts to run the leaked GTA 6 Xbox Series build on Windows: Leonida successors, xcl, and other ports — evidence-graded, no downloads.
+- [ADWMC/gta6-windows-tracker](https://github.com/ADWMC/gta6-windows-tracker) - Tracking attempts to run the leaked GTA VI (GTA 6) Xbox Series build on Windows — evidence-graded project rankings, scam warnings, updated daily.
 - [Tencent-Hunyuan/Hunyuan3D-WorldClaw](https://github.com/Tencent-Hunyuan/Hunyuan3D-WorldClaw) - WorldClaw: Agentic 3D Open-world Generation at Scale
 - [wanszai/Sega-Rally-Championship-PC-Xbox360-Series-X-](https://github.com/wanszai/Sega-Rally-Championship-PC-Xbox360-Series-X-) - Sega Rally Championship Emulation wrapper for console and windows.
 - [Lunatic16/paywall-bypass-skill](https://github.com/Lunatic16/paywall-bypass-skill) - Identify paywall types and generate bypass strategies for web scraping and content extraction.
